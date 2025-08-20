@@ -20,42 +20,34 @@ with open("/home/cele/Repositorios Git/DHS/Practico1/temperaturas_prueba.txt", "
         # TMIN: posiciones 15-19 (5 caracteres)
         # Nombre: desde posición 21 hasta el final
 
-        fecha_str = linea[0:8].strip()
-        tmax_str = linea[9:14].strip()
-        tmin_str = linea[15:20].strip()
-        estacion_str = linea[21:].strip()
+        fecha = linea[0:8].strip()
+        tmax = linea[9:14].strip()
+        tmin = linea[15:20].strip()
+        estacion = linea[21:].strip()
 
-        fecha = fecha_str  # la fecha la dejamos como string o podés convertir a int si querés
-
-        # --------------------------
-        # Convertimos tmax y tmin a float si es posible
-        # --------------------------
+        # Convertimos tmax y tmin a float si es posible, en caso de no poder dejarlo como None
         try:
-            tmax = float(tmax_str) if tmax_str != "" else None
+            tmax = float(tmax) if tmax != "" else None
         except ValueError:
             tmax = None
 
         try:
-            tmin = float(tmin_str) if tmin_str != "" else None
+            tmin = float(tmin) if tmin != "" else None
         except ValueError:
             tmin = None
 
-        # --------------------------
         # Agregamos la estación al diccionario si no existe
-        # --------------------------
-        if estacion_str not in datos and estacion_str != "":
-            datos[estacion_str] = {"tmax": [], "tmin": []}
+        if estacion not in datos and estacion != "":
+            datos[estacion] = {"tmax": [], "tmin": []}
 
         # --------------------------
         # Agregamos los valores a las listas
         # --------------------------
-        if estacion_str != "":
-            datos[estacion_str]["tmax"].append(tmax)
-            datos[estacion_str]["tmin"].append(tmin)
+        if estacion != "":
+            datos[estacion]["tmax"].append(tmax)
+            datos[estacion]["tmin"].append(tmin)
 
-# --------------------------
-# Imprimimos el diccionario
-# --------------------------
+#PRUEBA
 for est, info in datos.items():
     print(f"{est}:")
     print(f"  tmax: {info['tmax']}")
