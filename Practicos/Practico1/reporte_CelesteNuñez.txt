@@ -1,0 +1,138 @@
+REPORTE DE CELESTE NUÑEZ
+
+====================================
+1 - Temperaturas por Estación
+====================================
+
+Estación: AZUL AERO
+  Temperatura Máxima: 15.2
+  Temperatura Mínima: 2.3
+
+Estación: BASE BELGRANO II
+  Temperatura Máxima: -21.5
+  Temperatura Mínima: -30.3
+
+Estación: BASE ORCADAS
+  Temperatura Máxima: -0.2
+  Temperatura Mínima: -7.0
+
+Estación: BENITO JUAREZ
+  Temperatura Máxima: 15.2
+  Temperatura Mínima: -0.8
+
+Estación: AEROPARQUE AERO
+  Temperatura Máxima: 45.0
+  Temperatura Mínima: 4.9
+
+Estación: GUALEGUAYCHU AERO
+  Temperatura Máxima: 13.7
+  Temperatura Mínima: 2.8
+
+Estación: IGUAZU AERO
+  Temperatura Máxima: 25.3
+  Temperatura Mínima: 8.0
+
+Estación: LAS FLORES
+  Temperatura Máxima: 17.5
+  Temperatura Mínima: 3.0
+
+Estación: LAS LOMITAS
+  Temperatura Máxima: 22.4
+  Temperatura Mínima: 4.2
+
+Estación: MALARGUE AERO
+  Temperatura Máxima: 16.2
+  Temperatura Mínima: -0.8
+
+Estación: MAQUINCHAO
+  Temperatura Máxima: 11.5
+  Temperatura Mínima: -1.4
+
+Estación: MAR DEL PLATA AERO
+  Temperatura Máxima: 15.7
+  Temperatura Mínima: -1.8
+
+Estación: MARCOS JUAREZ AERO
+  Temperatura Máxima: 20.5
+  Temperatura Mínima: -0.6
+
+Estación: MARIANO MORENO AERO
+  Temperatura Máxima: Sin información
+  Temperatura Mínima: 1.5
+
+Estación: MENDOZA AERO
+  Temperatura Máxima: 21.6
+  Temperatura Mínima: 5.4
+
+Estación: MENDOZA OBSERVATORIO
+  Temperatura Máxima: Sin información
+  Temperatura Mínima: 6.0
+
+Estación: MERCEDES AERO (CTES)
+  Temperatura Máxima: 18.2
+  Temperatura Mínima: 3.8
+
+Estación: MERLO AERO
+  Temperatura Máxima: Sin información
+  Temperatura Mínima: 2.5
+
+Estación: METAN
+  Temperatura Máxima: 18.8
+  Temperatura Mínima: 2.8
+
+Estación: MONTE CASEROS AERO
+  Temperatura Máxima: 18.6
+  Temperatura Mínima: 2.8
+
+Estación: MORON AERO
+  Temperatura Máxima: 17.8
+  Temperatura Mínima: 1.8
+
+Estación: NEUQUEN AERO
+  Temperatura Máxima: 15.8
+  Temperatura Mínima: 3.9
+
+Estación: NUEVE DE JULIO
+  Temperatura Máxima: 19.3
+  Temperatura Mínima: 3.2
+
+Estación: OBERA
+  Temperatura Máxima: Sin información
+  Temperatura Mínima: Sin información
+
+Estación: OLAVARRIA AERO
+  Temperatura Máxima: 16.9
+  Temperatura Mínima: -0.3
+
+==================================================
+2 - Estación con mayor amplitud en el día
+==================================================
+
+Fecha: 10082025
+Estación: MARCOS JUAREZ AERO
+Amplitud: 21.10°
+
+Fecha: 15082025
+Estación: IGUAZU AERO
+Amplitud: 17.30°
+
+Fecha: 17082025
+Estación: AEROPARQUE AERO
+Amplitud: 40.10°
+
+==================================================
+3 - Estación con menor amplitud en el día
+==================================================
+
+Fecha: 17082025
+Estación: BASE ORCADAS
+Amplitud: 6.80°
+
+Fecha: 15082025
+Estación: GUALEGUAYCHU AERO
+Amplitud: 10.90°
+
+Fecha: 10082025
+Estación: NEUQUEN AERO
+Amplitud: 11.90°
+
