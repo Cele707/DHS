@@ -1,138 +1,7064 @@
-REPORTE DE CELESTE NUÑEZ
+REPORTE DE CELESTE NUÑEZ:
 
 ====================================
 1 - Temperaturas por Estación
 ====================================
 
+Estación: AEROPARQUE AERO
+  Temperatura Máxima: 36.3
+  Temperatura Mínima: 1.5
+
 Estación: AZUL AERO
-  Temperatura Máxima: 15.2
-  Temperatura Mínima: 2.3
+  Temperatura Máxima: 38.1
+  Temperatura Mínima: -7.7
+
+Estación: BAHIA BLANCA AERO
+  Temperatura Máxima: 39.3
+  Temperatura Mínima: -6.6
+
+Estación: BARILOCHE AERO
+  Temperatura Máxima: 33.4
+  Temperatura Mínima: -13.9
 
 Estación: BASE BELGRANO II
-  Temperatura Máxima: -21.5
-  Temperatura Mínima: -30.3
+  Temperatura Máxima: 5.9
+  Temperatura Mínima: -36.1
+
+Estación: BASE CARLINI (EX JUBANY)
+  Temperatura Máxima: 10.0
+  Temperatura Mínima: -12.4
+
+Estación: BASE ESPERANZA
+  Temperatura Máxima: 14.7
+  Temperatura Mínima: -22.5
+
+Estación: BASE MARAMBIO
+  Temperatura Máxima: 14.1
+  Temperatura Mínima: -27.7
 
 Estación: BASE ORCADAS
-  Temperatura Máxima: -0.2
-  Temperatura Mínima: -7.0
+  Temperatura Máxima: 10.1
+  Temperatura Mínima: -23.5
+
+Estación: BASE SAN MARTIN
+  Temperatura Máxima: 8.7
+  Temperatura Mínima: -23.3
 
 Estación: BENITO JUAREZ
-  Temperatura Máxima: 15.2
-  Temperatura Mínima: -0.8
+  Temperatura Máxima: 37.0
+  Temperatura Mínima: -7.3
 
-Estación: AEROPARQUE AERO
-  Temperatura Máxima: 45.0
-  Temperatura Mínima: 4.9
+Estación: BERNARDO DE IRIGOYEN AERO
+  Temperatura Máxima: 33.1
+  Temperatura Mínima: -1.2
+
+Estación: BOLIVAR AERO
+  Temperatura Máxima: 38.5
+  Temperatura Mínima: -8.0
+
+Estación: BUENOS AIRES OBSERVATORIO
+  Temperatura Máxima: 38.5
+  Temperatura Mínima: -1.9
+
+Estación: CAMPO DE MAYO AERO
+  Temperatura Máxima: 38.0
+  Temperatura Mínima: -6.7
+
+Estación: CATAMARCA AERO
+  Temperatura Máxima: 42.7
+  Temperatura Mínima: -6.2
+
+Estación: CERES AERO
+  Temperatura Máxima: 33.6
+  Temperatura Mínima: -4.5
+
+Estación: CHAMICAL AERO
+  Temperatura Máxima: 28.0
+  Temperatura Mínima: -3.6
+
+Estación: CHAPELCO AERO
+  Temperatura Máxima: 34.6
+  Temperatura Mínima: -15.0
+
+Estación: CHEPES
+  Temperatura Máxima: 41.5
+  Temperatura Mínima: -6.6
+
+Estación: COMODORO RIVADAVIA AERO
+  Temperatura Máxima: 37.1
+  Temperatura Mínima: -6.3
+
+Estación: CONCORDIA AERO
+  Temperatura Máxima: 41.8
+  Temperatura Mínima: -5.2
+
+Estación: CORDOBA AERO
+  Temperatura Máxima: 40.5
+  Temperatura Mínima: -8.1
+
+Estación: CORDOBA OBSERVATORIO
+  Temperatura Máxima: 42.2
+  Temperatura Mínima: -3.4
+
+Estación: CORONEL SUAREZ AERO
+  Temperatura Máxima: 36.4
+  Temperatura Mínima: -10.3
+
+Estación: CORRIENTES AERO
+  Temperatura Máxima: 41.4
+  Temperatura Mínima: -0.5
+
+Estación: DOLORES AERO
+  Temperatura Máxima: 28.8
+  Temperatura Mínima: -3.9
+
+Estación: EL BOLSON AERO
+  Temperatura Máxima: 36.1
+  Temperatura Mínima: -10.5
+
+Estación: EL CALAFATE AERO
+  Temperatura Máxima: 27.4
+  Temperatura Mínima: -14.1
+
+Estación: EL PALOMAR AERO
+  Temperatura Máxima: 38.0
+  Temperatura Mínima: -7.4
+
+Estación: ESCUELA DE AVIACION MILITAR AERO
+  Temperatura Máxima: Sin información
+  Temperatura Mínima: -7.0
+
+Estación: ESQUEL AERO
+  Temperatura Máxima: 33.7
+  Temperatura Mínima: -18.2
+
+Estación: EZEIZA AERO
+  Temperatura Máxima: 38.5
+  Temperatura Mínima: -4.6
+
+Estación: FORMOSA AERO
+  Temperatura Máxima: 41.5
+  Temperatura Mínima: 1.4
+
+Estación: GENERAL PICO AERO
+  Temperatura Máxima: 39.6
+  Temperatura Mínima: -8.0
+
+Estación: GOBERNADOR GREGORES AERO
+  Temperatura Máxima: 34.5
+  Temperatura Mínima: -14.0
 
 Estación: GUALEGUAYCHU AERO
-  Temperatura Máxima: 13.7
-  Temperatura Mínima: 2.8
+  Temperatura Máxima: 39.3
+  Temperatura Mínima: -6.4
 
 Estación: IGUAZU AERO
-  Temperatura Máxima: 25.3
-  Temperatura Mínima: 8.0
+  Temperatura Máxima: 37.3
+  Temperatura Mínima: -1.2
+
+Estación: ITUZAINGO
+  Temperatura Máxima: 40.5
+  Temperatura Mínima: 0.3
+
+Estación: JACHAL
+  Temperatura Máxima: 39.6
+  Temperatura Mínima: -8.1
+
+Estación: JUJUY AERO
+  Temperatura Máxima: 38.7
+  Temperatura Mínima: -2.8
+
+Estación: JUJUY U N
+  Temperatura Máxima: 37.0
+  Temperatura Mínima: -1.5
+
+Estación: JUNIN AERO
+  Temperatura Máxima: 37.6
+  Temperatura Mínima: -8.0
+
+Estación: LA PLATA AERO
+  Temperatura Máxima: 38.1
+  Temperatura Mínima: -5.2
+
+Estación: LA QUIACA OBSERVATORIO
+  Temperatura Máxima: 27.1
+  Temperatura Mínima: -10.2
+
+Estación: LA RIOJA AERO
+  Temperatura Máxima: 45.0
+  Temperatura Mínima: -5.0
+
+Estación: LABOULAYE AERO
+  Temperatura Máxima: 38.5
+  Temperatura Mínima: -7.1
 
 Estación: LAS FLORES
-  Temperatura Máxima: 17.5
-  Temperatura Mínima: 3.0
+  Temperatura Máxima: 39.5
+  Temperatura Mínima: -3.6
 
 Estación: LAS LOMITAS
-  Temperatura Máxima: 22.4
-  Temperatura Mínima: 4.2
+  Temperatura Máxima: 42.8
+  Temperatura Mínima: 0.0
 
 Estación: MALARGUE AERO
-  Temperatura Máxima: 16.2
-  Temperatura Mínima: -0.8
+  Temperatura Máxima: 36.6
+  Temperatura Mínima: -16.0
 
 Estación: MAQUINCHAO
-  Temperatura Máxima: 11.5
-  Temperatura Mínima: -1.4
+  Temperatura Máxima: 39.0
+  Temperatura Mínima: -19.2
 
 Estación: MAR DEL PLATA AERO
-  Temperatura Máxima: 15.7
-  Temperatura Mínima: -1.8
+  Temperatura Máxima: 39.9
+  Temperatura Mínima: -6.3
 
 Estación: MARCOS JUAREZ AERO
-  Temperatura Máxima: 20.5
-  Temperatura Mínima: -0.6
+  Temperatura Máxima: 39.2
+  Temperatura Mínima: -8.0
 
 Estación: MARIANO MORENO AERO
   Temperatura Máxima: Sin información
-  Temperatura Mínima: 1.5
+  Temperatura Mínima: -5.5
 
 Estación: MENDOZA AERO
-  Temperatura Máxima: 21.6
-  Temperatura Mínima: 5.4
+  Temperatura Máxima: 37.4
+  Temperatura Mínima: -6.7
 
 Estación: MENDOZA OBSERVATORIO
   Temperatura Máxima: Sin información
-  Temperatura Mínima: 6.0
+  Temperatura Mínima: -6.0
 
 Estación: MERCEDES AERO (CTES)
-  Temperatura Máxima: 18.2
-  Temperatura Mínima: 3.8
+  Temperatura Máxima: 41.0
+  Temperatura Mínima: -1.8
 
 Estación: MERLO AERO
-  Temperatura Máxima: Sin información
-  Temperatura Mínima: 2.5
+  Temperatura Máxima: 33.9
+  Temperatura Mínima: -4.0
 
 Estación: METAN
-  Temperatura Máxima: 18.8
-  Temperatura Mínima: 2.8
+  Temperatura Máxima: 40.0
+  Temperatura Mínima: -0.4
 
 Estación: MONTE CASEROS AERO
-  Temperatura Máxima: 18.6
-  Temperatura Mínima: 2.8
+  Temperatura Máxima: 40.6
+  Temperatura Mínima: -1.9
 
 Estación: MORON AERO
-  Temperatura Máxima: 17.8
-  Temperatura Mínima: 1.8
+  Temperatura Máxima: 38.0
+  Temperatura Mínima: -4.9
 
 Estación: NEUQUEN AERO
-  Temperatura Máxima: 15.8
-  Temperatura Mínima: 3.9
+  Temperatura Máxima: 42.1
+  Temperatura Mínima: -11.0
 
 Estación: NUEVE DE JULIO
-  Temperatura Máxima: 19.3
-  Temperatura Mínima: 3.2
+  Temperatura Máxima: 38.2
+  Temperatura Mínima: -3.8
 
 Estación: OBERA
-  Temperatura Máxima: Sin información
-  Temperatura Mínima: Sin información
+  Temperatura Máxima: 37.0
+  Temperatura Mínima: -1.5
 
 Estación: OLAVARRIA AERO
-  Temperatura Máxima: 16.9
-  Temperatura Mínima: -0.3
+  Temperatura Máxima: 37.7
+  Temperatura Mínima: -6.7
+
+Estación: ORAN AERO
+  Temperatura Máxima: 41.0
+  Temperatura Mínima: 1.9
+
+Estación: PARANA AERO
+  Temperatura Máxima: 38.7
+  Temperatura Mínima: -3.5
+
+Estación: PASO DE INDIOS
+  Temperatura Máxima: 37.7
+  Temperatura Mínima: -12.4
+
+Estación: PASO DE LOS LIBRES AERO
+  Temperatura Máxima: 41.7
+  Temperatura Mínima: -0.6
+
+Estación: PEHUAJO AERO
+  Temperatura Máxima: 38.7
+  Temperatura Mínima: -5.1
+
+Estación: PERITO MORENO AERO
+  Temperatura Máxima: 31.2
+  Temperatura Mínima: -14.6
+
+Estación: PIGUE AERO
+  Temperatura Máxima: 36.5
+  Temperatura Mínima: -6.8
+
+Estación: PILAR OBSERVATORIO
+  Temperatura Máxima: 41.2
+  Temperatura Mínima: -4.0
+
+Estación: POSADAS AERO
+  Temperatura Máxima: 39.0
+  Temperatura Mínima: 1.2
+
+Estación: PRESIDENCIA ROQUE SAENZ PEÑA AERO
+  Temperatura Máxima: 42.6
+  Temperatura Mínima: -4.5
+
+Estación: PUERTO DESEADO AERO
+  Temperatura Máxima: 35.0
+  Temperatura Mínima: -11.5
+
+Estación: PUERTO MADRYN AERO
+  Temperatura Máxima: 42.3
+  Temperatura Mínima: -11.6
+
+Estación: PUNTA INDIO B.A.
+  Temperatura Máxima: 35.0
+  Temperatura Mínima: -3.5
+
+Estación: RAFAELA AERO
+  Temperatura Máxima: 42.0
+  Temperatura Mínima: -4.2
+
+Estación: RECONQUISTA AERO
+  Temperatura Máxima: 43.7
+  Temperatura Mínima: -1.4
+
+Estación: RESISTENCIA AERO
+  Temperatura Máxima: 43.3
+  Temperatura Mínima: -2.2
+
+Estación: RIO CUARTO AERO
+  Temperatura Máxima: 27.6
+  Temperatura Mínima: -7.2
+
+Estación: RIO GALLEGOS AERO
+  Temperatura Máxima: 27.6
+  Temperatura Mínima: -13.6
+
+Estación: RIO GRANDE B.A.
+  Temperatura Máxima: 22.6
+  Temperatura Mínima: -8.8
+
+Estación: RIVADAVIA
+  Temperatura Máxima: 46.5
+  Temperatura Mínima: 1.3
+
+Estación: ROSARIO AERO
+  Temperatura Máxima: 39.5
+  Temperatura Mínima: -6.8
+
+Estación: SALTA AERO
+  Temperatura Máxima: 37.5
+  Temperatura Mínima: -5.3
+
+Estación: SAN ANTONIO OESTE AERO
+  Temperatura Máxima: 24.6
+  Temperatura Mínima: -10.4
+
+Estación: SAN FERNANDO AERO
+  Temperatura Máxima: 37.9
+  Temperatura Mínima: -5.1
+
+Estación: SAN JUAN AERO
+  Temperatura Máxima: 44.0
+  Temperatura Mínima: -8.0
+
+Estación: SAN JULIAN AERO
+  Temperatura Máxima: 37.0
+  Temperatura Mínima: -11.3
+
+Estación: SAN LUIS AERO
+  Temperatura Máxima: 40.7
+  Temperatura Mínima: -6.7
+
+Estación: SAN MARTIN (MZA)
+  Temperatura Máxima: 42.7
+  Temperatura Mínima: -5.9
+
+Estación: SAN RAFAEL AERO
+  Temperatura Máxima: 39.5
+  Temperatura Mínima: -8.4
+
+Estación: SANTA CRUZ AERO
+  Temperatura Máxima: 34.3
+  Temperatura Mínima: -9.3
+
+Estación: SANTA ROSA AERO
+  Temperatura Máxima: 41.4
+  Temperatura Mínima: -7.3
+
+Estación: SANTA ROSA DE CONLARA AERO
+  Temperatura Máxima: 40.6
+  Temperatura Mínima: -11.8
+
+Estación: SANTIAGO DEL ESTERO AERO
+  Temperatura Máxima: 44.2
+  Temperatura Mínima: -3.5
+
+Estación: SAUCE VIEJO AERO
+  Temperatura Máxima: 40.9
+  Temperatura Mínima: -7.0
+
+Estación: SUNCHALES AERO
+  Temperatura Máxima: 42.5
+  Temperatura Mínima: -4.7
+
+Estación: TANDIL AERO
+  Temperatura Máxima: 37.7
+  Temperatura Mínima: -8.1
+
+Estación: TARTAGAL AERO
+  Temperatura Máxima: 39.1
+  Temperatura Mínima: -1.0
+
+Estación: TERMAS DE RIO HONDO AERO
+  Temperatura Máxima: 42.7
+  Temperatura Mínima: -3.0
+
+Estación: TINOGASTA
+  Temperatura Máxima: 41.6
+  Temperatura Mínima: -8.5
+
+Estación: TRELEW AERO
+  Temperatura Máxima: 43.6
+  Temperatura Mínima: -13.2
+
+Estación: TRENQUE LAUQUEN
+  Temperatura Máxima: 38.5
+  Temperatura Mínima: -5.1
+
+Estación: TRES ARROYOS
+  Temperatura Máxima: 36.8
+  Temperatura Mínima: -5.0
+
+Estación: TUCUMAN AERO
+  Temperatura Máxima: 41.7
+  Temperatura Mínima: -0.6
+
+Estación: USHUAIA AERO
+  Temperatura Máxima: 19.1
+  Temperatura Mínima: -4.8
+
+Estación: USPALLATA
+  Temperatura Máxima: 36.7
+  Temperatura Mínima: -11.2
+
+Estación: VENADO TUERTO AERO
+  Temperatura Máxima: 37.2
+  Temperatura Mínima: -8.0
+
+Estación: VICTORICA
+  Temperatura Máxima: 41.1
+  Temperatura Mínima: -11.0
+
+Estación: VIEDMA AERO
+  Temperatura Máxima: 36.6
+  Temperatura Mínima: -5.4
+
+Estación: VILLA DE MARIA DEL RIO SECO
+  Temperatura Máxima: 42.2
+  Temperatura Mínima: -8.4
+
+Estación: VILLA DOLORES AERO
+  Temperatura Máxima: 40.8
+  Temperatura Mínima: -8.4
+
+Estación: VILLA GESELL AERO
+  Temperatura Máxima: 39.1
+  Temperatura Mínima: -6.4
+
+Estación: VILLA REYNOLDS AERO
+  Temperatura Máxima: 41.0
+  Temperatura Mínima: -12.7
+
+Estación: CHILECITO AERO
+  Temperatura Máxima: 38.2
+  Temperatura Mínima: -5.0
 
 ==================================================
-2 - Estación con mayor amplitud en el día
+2 - Estación con mayor amplitud térmica en el día
 ==================================================
 
-Fecha: 10082025
-Estación: MARCOS JUAREZ AERO
+Fecha: 01012025
+Estación: EL BOLSON AERO
+Amplitud: 23.10°
+
+Fecha: 01022025
+Estación: EL BOLSON AERO
+Amplitud: 25.20°
+
+Fecha: 01032025
+Estación: EL BOLSON AERO
+Amplitud: 21.00°
+
+Fecha: 01042025
+Estación: MAQUINCHAO
+Amplitud: 22.80°
+
+Fecha: 01052025
+Estación: USPALLATA
+Amplitud: 25.30°
+
+Fecha: 01062025
+Estación: VILLA REYNOLDS AERO
+Amplitud: 24.60°
+
+Fecha: 01072025
+Estación: LA QUIACA OBSERVATORIO
+Amplitud: 25.60°
+
+Fecha: 01082025
+Estación: JUJUY AERO
+Amplitud: 24.60°
+
+Fecha: 01092024
+Estación: JACHAL
+Amplitud: 28.50°
+
+Fecha: 01102024
+Estación: LA QUIACA OBSERVATORIO
+Amplitud: 24.30°
+
+Fecha: 01112024
+Estación: VILLA REYNOLDS AERO
+Amplitud: 22.80°
+
+Fecha: 01122024
+Estación: TINOGASTA
+Amplitud: 24.10°
+
+Fecha: 02012025
+Estación: CHAPELCO AERO
+Amplitud: 26.20°
+
+Fecha: 02022025
+Estación: PRESIDENCIA ROQUE SAENZ PEÑA AERO
+Amplitud: 22.50°
+
+Fecha: 02032025
+Estación: MAQUINCHAO
+Amplitud: 20.00°
+
+Fecha: 02042025
+Estación: JACHAL
+Amplitud: 22.80°
+
+Fecha: 02052025
+Estación: TINOGASTA
+Amplitud: 19.50°
+
+Fecha: 02062025
+Estación: TINOGASTA
+Amplitud: 25.00°
+
+Fecha: 02072025
+Estación: LA QUIACA OBSERVATORIO
+Amplitud: 22.80°
+
+Fecha: 02082025
+Estación: JACHAL
+Amplitud: 24.70°
+
+Fecha: 02092024
+Estación: CORDOBA AERO
+Amplitud: 33.20°
+
+Fecha: 02102024
+Estación: LA QUIACA OBSERVATORIO
+Amplitud: 20.10°
+
+Fecha: 02112024
+Estación: LA QUIACA OBSERVATORIO
+Amplitud: 19.80°
+
+Fecha: 02122024
+Estación: RIVADAVIA
+Amplitud: 21.20°
+
+Fecha: 03012025
+Estación: CHAPELCO AERO
+Amplitud: 23.80°
+
+Fecha: 03022025
+Estación: RAFAELA AERO
+Amplitud: 20.50°
+
+Fecha: 03032025
+Estación: USPALLATA
+Amplitud: 20.70°
+
+Fecha: 03042025
+Estación: EL BOLSON AERO
+Amplitud: 19.80°
+
+Fecha: 03052025
+Estación: USPALLATA
+Amplitud: 23.40°
+
+Fecha: 03062025
+Estación: TINOGASTA
+Amplitud: 23.00°
+
+Fecha: 03072025
+Estación: TINOGASTA
+Amplitud: 27.00°
+
+Fecha: 03082025
+Estación: LA QUIACA OBSERVATORIO
+Amplitud: 21.60°
+
+Fecha: 03092024
+Estación: JACHAL
+Amplitud: 22.50°
+
+Fecha: 03102024
+Estación: VILLA REYNOLDS AERO
+Amplitud: 28.90°
+
+Fecha: 03112024
+Estación: MALARGUE AERO
+Amplitud: 20.00°
+
+Fecha: 03122024
+Estación: EL BOLSON AERO
+Amplitud: 25.00°
+
+Fecha: 04012025
+Estación: MAQUINCHAO
+Amplitud: 24.20°
+
+Fecha: 04022025
+Estación: EL BOLSON AERO
+Amplitud: 22.70°
+
+Fecha: 04032025
+Estación: USPALLATA
+Amplitud: 22.50°
+
+Fecha: 04042025
+Estación: PASO DE INDIOS
+Amplitud: 25.40°
+
+Fecha: 04052025
+Estación: TINOGASTA
+Amplitud: 19.90°
+
+Fecha: 04062025
+Estación: TINOGASTA
+Amplitud: 24.50°
+
+Fecha: 04072025
+Estación: LA QUIACA OBSERVATORIO
+Amplitud: 25.90°
+
+Fecha: 04082025
+Estación: LA QUIACA OBSERVATORIO
+Amplitud: 19.90°
+
+Fecha: 04092024
+Estación: LA QUIACA OBSERVATORIO
+Amplitud: 23.80°
+
+Fecha: 04102024
+Estación: JACHAL
+Amplitud: 28.90°
+
+Fecha: 04112024
+Estación: LA QUIACA OBSERVATORIO
+Amplitud: 19.10°
+
+Fecha: 04122024
+Estación: JACHAL
+Amplitud: 24.20°
+
+Fecha: 05012025
+Estación: EL BOLSON AERO
+Amplitud: 26.30°
+
+Fecha: 05022025
+Estación: MALARGUE AERO
+Amplitud: 22.80°
+
+Fecha: 05032025
+Estación: MAQUINCHAO
+Amplitud: 23.20°
+
+Fecha: 05042025
+Estación: CHAPELCO AERO
+Amplitud: 24.10°
+
+Fecha: 05052025
+Estación: LA QUIACA OBSERVATORIO
+Amplitud: 22.60°
+
+Fecha: 05062025
+Estación: VILLA REYNOLDS AERO
+Amplitud: 25.50°
+
+Fecha: 05072025
+Estación: LA QUIACA OBSERVATORIO
+Amplitud: 24.70°
+
+Fecha: 05082025
+Estación: LA QUIACA OBSERVATORIO
+Amplitud: 23.30°
+
+Fecha: 05092024
+Estación: VILLA REYNOLDS AERO
+Amplitud: 29.50°
+
+Fecha: 05102024
+Estación: VILLA REYNOLDS AERO
+Amplitud: 27.40°
+
+Fecha: 05112024
+Estación: NEUQUEN AERO
+Amplitud: 22.40°
+
+Fecha: 05122024
+Estación: JACHAL
+Amplitud: 24.80°
+
+Fecha: 06012025
+Estación: MAQUINCHAO
+Amplitud: 22.50°
+
+Fecha: 06022025
+Estación: VILLA REYNOLDS AERO
+Amplitud: 26.40°
+
+Fecha: 06032025
+Estación: TRELEW AERO
+Amplitud: 20.60°
+
+Fecha: 06042025
+Estación: CHAPELCO AERO
+Amplitud: 29.30°
+
+Fecha: 06052025
+Estación: LA QUIACA OBSERVATORIO
+Amplitud: 21.70°
+
+Fecha: 06062025
+Estación: VILLA REYNOLDS AERO
+Amplitud: 24.60°
+
+Fecha: 06072025
+Estación: TINOGASTA
+Amplitud: 26.50°
+
+Fecha: 06082025
+Estación: LA QUIACA OBSERVATORIO
+Amplitud: 25.30°
+
+Fecha: 06092024
+Estación: SALTA AERO
+Amplitud: 27.80°
+
+Fecha: 06102024
+Estación: PASO DE INDIOS
+Amplitud: 21.50°
+
+Fecha: 06112024
+Estación: TINOGASTA
+Amplitud: 21.00°
+
+Fecha: 06122024
+Estación: TINOGASTA
+Amplitud: 20.50°
+
+Fecha: 07012025
+Estación: EL BOLSON AERO
+Amplitud: 26.50°
+
+Fecha: 07022025
+Estación: CHAPELCO AERO
+Amplitud: 26.20°
+
+Fecha: 07032025
+Estación: USPALLATA
+Amplitud: 20.50°
+
+Fecha: 07042025
+Estación: MAQUINCHAO
+Amplitud: 24.20°
+
+Fecha: 07052025
+Estación: LA QUIACA OBSERVATORIO
+Amplitud: 23.60°
+
+Fecha: 07062025
+Estación: SAN JUAN AERO
+Amplitud: 20.10°
+
+Fecha: 07072025
+Estación: TINOGASTA
+Amplitud: 22.00°
+
+Fecha: 07082025
+Estación: LA QUIACA OBSERVATORIO
+Amplitud: 24.80°
+
+Fecha: 07092024
+Estación: VILLA REYNOLDS AERO
+Amplitud: 28.10°
+
+Fecha: 07102024
+Estación: EL BOLSON AERO
+Amplitud: 21.20°
+
+Fecha: 07112024
+Estación: PASO DE INDIOS
+Amplitud: 23.10°
+
+Fecha: 07122024
+Estación: CHAPELCO AERO
+Amplitud: 24.10°
+
+Fecha: 08012025
+Estación: AZUL AERO
 Amplitud: 21.10°
 
-Fecha: 15082025
-Estación: IGUAZU AERO
-Amplitud: 17.30°
+Fecha: 08022025
+Estación: EL BOLSON AERO
+Amplitud: 20.00°
 
-Fecha: 17082025
-Estación: AEROPARQUE AERO
-Amplitud: 40.10°
+Fecha: 08032025
+Estación: EL BOLSON AERO
+Amplitud: 19.00°
 
-==================================================
-3 - Estación con menor amplitud en el día
-==================================================
+Fecha: 08042025
+Estación: SANTA ROSA DE CONLARA AERO
+Amplitud: 20.40°
 
-Fecha: 17082025
-Estación: BASE ORCADAS
-Amplitud: 6.80°
+Fecha: 08052025
+Estación: LA QUIACA OBSERVATORIO
+Amplitud: 21.30°
 
-Fecha: 15082025
-Estación: GUALEGUAYCHU AERO
-Amplitud: 10.90°
+Fecha: 08062025
+Estación: LA QUIACA OBSERVATORIO
+Amplitud: 23.90°
+
+Fecha: 08072025
+Estación: VILLA REYNOLDS AERO
+Amplitud: 23.90°
+
+Fecha: 08082025
+Estación: VILLA REYNOLDS AERO
+Amplitud: 27.00°
+
+Fecha: 08092024
+Estación: CORONEL SUAREZ AERO
+Amplitud: 24.70°
+
+Fecha: 08102024
+Estación: PASO DE INDIOS
+Amplitud: 27.30°
+
+Fecha: 08112024
+Estación: BAHIA BLANCA AERO
+Amplitud: 21.30°
+
+Fecha: 08122024
+Estación: BAHIA BLANCA AERO
+Amplitud: 24.80°
+
+Fecha: 09012025
+Estación: EL BOLSON AERO
+Amplitud: 20.70°
+
+Fecha: 09022025
+Estación: CHAPELCO AERO
+Amplitud: 28.10°
+
+Fecha: 09032025
+Estación: CHAPELCO AERO
+Amplitud: 26.40°
+
+Fecha: 09042025
+Estación: JACHAL
+Amplitud: 19.50°
+
+Fecha: 09052025
+Estación: MALARGUE AERO
+Amplitud: 20.60°
+
+Fecha: 09062025
+Estación: VILLA REYNOLDS AERO
+Amplitud: 21.80°
+
+Fecha: 09072025
+Estación: LA QUIACA OBSERVATORIO
+Amplitud: 23.90°
+
+Fecha: 09082025
+Estación: VILLA REYNOLDS AERO
+Amplitud: 26.00°
+
+Fecha: 09092024
+Estación: TINOGASTA
+Amplitud: 25.50°
+
+Fecha: 09102024
+Estación: EL BOLSON AERO
+Amplitud: 23.80°
+
+Fecha: 09112024
+Estación: JACHAL
+Amplitud: 22.20°
+
+Fecha: 09122024
+Estación: USPALLATA
+Amplitud: 30.50°
+
+Fecha: 10012025
+Estación: CHAPELCO AERO
+Amplitud: 24.00°
+
+Fecha: 10022025
+Estación: MAR DEL PLATA AERO
+Amplitud: 24.10°
+
+Fecha: 10032025
+Estación: MALARGUE AERO
+Amplitud: 25.40°
+
+Fecha: 10042025
+Estación: JACHAL
+Amplitud: 21.70°
+
+Fecha: 10052025
+Estación: SANTA ROSA DE CONLARA AERO
+Amplitud: 22.10°
+
+Fecha: 10062025
+Estación: VILLA REYNOLDS AERO
+Amplitud: 24.20°
+
+Fecha: 10072025
+Estación: LA QUIACA OBSERVATORIO
+Amplitud: 26.10°
 
 Fecha: 10082025
+Estación: VILLA REYNOLDS AERO
+Amplitud: 24.20°
+
+Fecha: 10092024
+Estación: JACHAL
+Amplitud: 33.20°
+
+Fecha: 10102024
 Estación: NEUQUEN AERO
-Amplitud: 11.90°
+Amplitud: 21.00°
+
+Fecha: 10112024
+Estación: LAS LOMITAS
+Amplitud: 22.30°
+
+Fecha: 10122024
+Estación: BAHIA BLANCA AERO
+Amplitud: 23.00°
+
+Fecha: 11012025
+Estación: CHAPELCO AERO
+Amplitud: 26.50°
+
+Fecha: 11022025
+Estación: EL BOLSON AERO
+Amplitud: 20.70°
+
+Fecha: 11032025
+Estación: CHAPELCO AERO
+Amplitud: 24.80°
+
+Fecha: 11042025
+Estación: LA QUIACA OBSERVATORIO
+Amplitud: 18.80°
+
+Fecha: 11052025
+Estación: USPALLATA
+Amplitud: 23.50°
+
+Fecha: 11062025
+Estación: SANTA ROSA DE CONLARA AERO
+Amplitud: 23.10°
+
+Fecha: 11072025
+Estación: MALARGUE AERO
+Amplitud: 23.00°
+
+Fecha: 11082025
+Estación: LA QUIACA OBSERVATORIO
+Amplitud: 26.30°
+
+Fecha: 11092024
+Estación: LA QUIACA OBSERVATORIO
+Amplitud: 21.90°
+
+Fecha: 11102024
+Estación: ROSARIO AERO
+Amplitud: 23.20°
+
+Fecha: 11112024
+Estación: VILLA REYNOLDS AERO
+Amplitud: 18.80°
+
+Fecha: 11122024
+Estación: MALARGUE AERO
+Amplitud: 24.00°
+
+Fecha: 12012025
+Estación: TRELEW AERO
+Amplitud: 27.80°
+
+Fecha: 12022025
+Estación: CHAPELCO AERO
+Amplitud: 25.30°
+
+Fecha: 12032025
+Estación: CHAPELCO AERO
+Amplitud: 26.80°
+
+Fecha: 12042025
+Estación: MALARGUE AERO
+Amplitud: 19.00°
+
+Fecha: 12052025
+Estación: USPALLATA
+Amplitud: 25.40°
+
+Fecha: 12062025
+Estación: TINOGASTA
+Amplitud: 31.00°
+
+Fecha: 12072025
+Estación: MALARGUE AERO
+Amplitud: 22.80°
+
+Fecha: 12082025
+Estación: JACHAL
+Amplitud: 29.30°
+
+Fecha: 12092024
+Estación: VILLA REYNOLDS AERO
+Amplitud: 29.10°
+
+Fecha: 12102024
+Estación: LA QUIACA OBSERVATORIO
+Amplitud: 23.50°
+
+Fecha: 12112024
+Estación: VILLA REYNOLDS AERO
+Amplitud: 26.10°
+
+Fecha: 12122024
+Estación: NEUQUEN AERO
+Amplitud: 20.40°
+
+Fecha: 13012025
+Estación: VILLA DE MARIA DEL RIO SECO
+Amplitud: 23.90°
+
+Fecha: 13022025
+Estación: CHAPELCO AERO
+Amplitud: 26.50°
+
+Fecha: 13032025
+Estación: CHAPELCO AERO
+Amplitud: 24.50°
+
+Fecha: 13042025
+Estación: VILLA REYNOLDS AERO
+Amplitud: 22.60°
+
+Fecha: 13052025
+Estación: USPALLATA
+Amplitud: 27.80°
+
+Fecha: 13062025
+Estación: TINOGASTA
+Amplitud: 20.90°
+
+Fecha: 13072025
+Estación: LA QUIACA OBSERVATORIO
+Amplitud: 23.70°
+
+Fecha: 13082025
+Estación: PRESIDENCIA ROQUE SAENZ PEÑA AERO
+Amplitud: 24.40°
+
+Fecha: 13092024
+Estación: VILLA DE MARIA DEL RIO SECO
+Amplitud: 24.50°
+
+Fecha: 13102024
+Estación: BAHIA BLANCA AERO
+Amplitud: 23.60°
+
+Fecha: 13112024
+Estación: VILLA REYNOLDS AERO
+Amplitud: 24.70°
+
+Fecha: 13122024
+Estación: VILLA DOLORES AERO
+Amplitud: 22.70°
+
+Fecha: 14012025
+Estación: VILLA DE MARIA DEL RIO SECO
+Amplitud: 23.40°
+
+Fecha: 14022025
+Estación: EL BOLSON AERO
+Amplitud: 23.40°
+
+Fecha: 14032025
+Estación: CHAPELCO AERO
+Amplitud: 24.00°
+
+Fecha: 14042025
+Estación: JACHAL
+Amplitud: 19.50°
+
+Fecha: 14052025
+Estación: LA QUIACA OBSERVATORIO
+Amplitud: 22.60°
+
+Fecha: 14062025
+Estación: CORONEL SUAREZ AERO
+Amplitud: 20.70°
+
+Fecha: 14072025
+Estación: JACHAL
+Amplitud: 28.70°
+
+Fecha: 14082025
+Estación: SANTA ROSA DE CONLARA AERO
+Amplitud: 20.70°
+
+Fecha: 14092024
+Estación: VILLA REYNOLDS AERO
+Amplitud: 27.40°
+
+Fecha: 14102024
+Estación: MAQUINCHAO
+Amplitud: 23.00°
+
+Fecha: 14112024
+Estación: VILLA REYNOLDS AERO
+Amplitud: 26.20°
+
+Fecha: 14122024
+Estación: CHAPELCO AERO
+Amplitud: 25.80°
+
+Fecha: 15012025
+Estación: VILLA DE MARIA DEL RIO SECO
+Amplitud: 23.50°
+
+Fecha: 15022025
+Estación: TRELEW AERO
+Amplitud: 23.00°
+
+Fecha: 15032025
+Estación: MAQUINCHAO
+Amplitud: 19.80°
+
+Fecha: 15042025
+Estación: LA QUIACA OBSERVATORIO
+Amplitud: 18.60°
+
+Fecha: 15052025
+Estación: LA QUIACA OBSERVATORIO
+Amplitud: 22.10°
+
+Fecha: 15062025
+Estación: LA QUIACA OBSERVATORIO
+Amplitud: 22.60°
+
+Fecha: 15072025
+Estación: TINOGASTA
+Amplitud: 28.50°
+
+Fecha: 15082025
+Estación: LA QUIACA OBSERVATORIO
+Amplitud: 18.90°
+
+Fecha: 15092024
+Estación: VILLA DE MARIA DEL RIO SECO
+Amplitud: 25.40°
+
+Fecha: 15102024
+Estación: TRELEW AERO
+Amplitud: 24.80°
+
+Fecha: 15112024
+Estación: JACHAL
+Amplitud: 24.90°
+
+Fecha: 15122024
+Estación: EL BOLSON AERO
+Amplitud: 27.70°
+
+Fecha: 16012025
+Estación: SANTIAGO DEL ESTERO AERO
+Amplitud: 22.00°
+
+Fecha: 16022025
+Estación: MALARGUE AERO
+Amplitud: 21.50°
+
+Fecha: 16032025
+Estación: EL BOLSON AERO
+Amplitud: 22.60°
+
+Fecha: 16042025
+Estación: JACHAL
+Amplitud: 23.00°
+
+Fecha: 16052025
+Estación: USPALLATA
+Amplitud: 24.90°
+
+Fecha: 16062025
+Estación: TINOGASTA
+Amplitud: 26.50°
+
+Fecha: 16072025
+Estación: SAN ANTONIO OESTE AERO
+Amplitud: 20.70°
+
+Fecha: 16082025
+Estación: LA QUIACA OBSERVATORIO
+Amplitud: 20.30°
+
+Fecha: 16092024
+Estación: VILLA REYNOLDS AERO
+Amplitud: 28.20°
+
+Fecha: 16102024
+Estación: PASO DE INDIOS
+Amplitud: 23.90°
+
+Fecha: 16112024
+Estación: VILLA DE MARIA DEL RIO SECO
+Amplitud: 25.70°
+
+Fecha: 16122024
+Estación: BAHIA BLANCA AERO
+Amplitud: 22.40°
+
+Fecha: 17012025
+Estación: BAHIA BLANCA AERO
+Amplitud: 22.00°
+
+Fecha: 17022025
+Estación: EL BOLSON AERO
+Amplitud: 22.20°
+
+Fecha: 17032025
+Estación: USPALLATA
+Amplitud: 19.80°
+
+Fecha: 17042025
+Estación: LA QUIACA OBSERVATORIO
+Amplitud: 22.70°
+
+Fecha: 17052025
+Estación: TINOGASTA
+Amplitud: 26.00°
+
+Fecha: 17062025
+Estación: LA QUIACA OBSERVATORIO
+Amplitud: 22.90°
+
+Fecha: 17072025
+Estación: JACHAL
+Amplitud: 27.80°
+
+Fecha: 17082025
+Estación: LA QUIACA OBSERVATORIO
+Amplitud: 25.40°
+
+Fecha: 17092024
+Estación: TINOGASTA
+Amplitud: 25.50°
+
+Fecha: 17102024
+Estación: LA QUIACA OBSERVATORIO
+Amplitud: 19.70°
+
+Fecha: 17112024
+Estación: MAQUINCHAO
+Amplitud: 23.90°
+
+Fecha: 17122024
+Estación: BAHIA BLANCA AERO
+Amplitud: 21.30°
+
+Fecha: 18012025
+Estación: CHAPELCO AERO
+Amplitud: 26.10°
+
+Fecha: 18022025
+Estación: CHAPELCO AERO
+Amplitud: 27.90°
+
+Fecha: 18032025
+Estación: CHAPELCO AERO
+Amplitud: 23.50°
+
+Fecha: 18042025
+Estación: LA QUIACA OBSERVATORIO
+Amplitud: 24.10°
+
+Fecha: 18052025
+Estación: LA QUIACA OBSERVATORIO
+Amplitud: 18.70°
+
+Fecha: 18062025
+Estación: VILLA REYNOLDS AERO
+Amplitud: 21.40°
+
+Fecha: 18072025
+Estación: CORDOBA AERO
+Amplitud: 28.60°
+
+Fecha: 18082024
+Estación: LA QUIACA OBSERVATORIO
+Amplitud: 23.50°
+
+Fecha: 18092024
+Estación: VILLA REYNOLDS AERO
+Amplitud: 28.60°
+
+Fecha: 18102024
+Estación: CHAPELCO AERO
+Amplitud: 22.60°
+
+Fecha: 18112024
+Estación: BAHIA BLANCA AERO
+Amplitud: 25.00°
+
+Fecha: 18122024
+Estación: MALARGUE AERO
+Amplitud: 20.90°
+
+Fecha: 19012025
+Estación: EL BOLSON AERO
+Amplitud: 25.70°
+
+Fecha: 19022025
+Estación: TANDIL AERO
+Amplitud: 24.50°
+
+Fecha: 19032025
+Estación: MAQUINCHAO
+Amplitud: 25.00°
+
+Fecha: 19042025
+Estación: CHAPELCO AERO
+Amplitud: 21.20°
+
+Fecha: 19052025
+Estación: LA QUIACA OBSERVATORIO
+Amplitud: 22.40°
+
+Fecha: 19062025
+Estación: VILLA REYNOLDS AERO
+Amplitud: 24.20°
+
+Fecha: 19072025
+Estación: TINOGASTA
+Amplitud: 28.00°
+
+Fecha: 19082024
+Estación: LA QUIACA OBSERVATORIO
+Amplitud: 23.30°
+
+Fecha: 19092024
+Estación: LA RIOJA AERO
+Amplitud: 26.90°
+
+Fecha: 19102024
+Estación: MAQUINCHAO
+Amplitud: 26.50°
+
+Fecha: 19112024
+Estación: SAN JULIAN AERO
+Amplitud: 22.10°
+
+Fecha: 19122024
+Estación: JACHAL
+Amplitud: 24.50°
+
+Fecha: 20012025
+Estación: CORONEL SUAREZ AERO
+Amplitud: 21.80°
+
+Fecha: 20022025
+Estación: EL BOLSON AERO
+Amplitud: 22.50°
+
+Fecha: 20032025
+Estación: PRESIDENCIA ROQUE SAENZ PEÑA AERO
+Amplitud: 24.10°
+
+Fecha: 20042025
+Estación: MAQUINCHAO
+Amplitud: 21.50°
+
+Fecha: 20052025
+Estación: VILLA REYNOLDS AERO
+Amplitud: 23.90°
+
+Fecha: 20062025
+Estación: SANTA ROSA DE CONLARA AERO
+Amplitud: 24.10°
+
+Fecha: 20072025
+Estación: TINOGASTA
+Amplitud: 27.00°
+
+Fecha: 20082024
+Estación: BASE ORCADAS
+Amplitud: 19.20°
+
+Fecha: 20092024
+Estación: JACHAL
+Amplitud: 24.00°
+
+Fecha: 20102024
+Estación: LA QUIACA OBSERVATORIO
+Amplitud: 22.50°
+
+Fecha: 20112024
+Estación: LABOULAYE AERO
+Amplitud: 18.50°
+
+Fecha: 20122024
+Estación: TINOGASTA
+Amplitud: 23.70°
+
+Fecha: 21012025
+Estación: TANDIL AERO
+Amplitud: 24.50°
+
+Fecha: 21022025
+Estación: MALARGUE AERO
+Amplitud: 22.20°
+
+Fecha: 21032025
+Estación: RESISTENCIA AERO
+Amplitud: 21.70°
+
+Fecha: 21042025
+Estación: JACHAL
+Amplitud: 24.50°
+
+Fecha: 21052025
+Estación: USPALLATA
+Amplitud: 27.70°
+
+Fecha: 21062025
+Estación: USPALLATA
+Amplitud: 23.90°
+
+Fecha: 21072025
+Estación: LA QUIACA OBSERVATORIO
+Amplitud: 24.50°
+
+Fecha: 21082024
+Estación: USPALLATA
+Amplitud: 16.10°
+
+Fecha: 21092024
+Estación: JACHAL
+Amplitud: 35.60°
+
+Fecha: 21102024
+Estación: CAMPO DE MAYO AERO
+Amplitud: 20.00°
+
+Fecha: 21112024
+Estación: MAQUINCHAO
+Amplitud: 23.40°
+
+Fecha: 21122024
+Estación: EL BOLSON AERO
+Amplitud: 22.90°
+
+Fecha: 22012025
+Estación: MAQUINCHAO
+Amplitud: 26.70°
+
+Fecha: 22022025
+Estación: NEUQUEN AERO
+Amplitud: 23.10°
+
+Fecha: 22032025
+Estación: EL BOLSON AERO
+Amplitud: 20.00°
+
+Fecha: 22042025
+Estación: JACHAL
+Amplitud: 21.50°
+
+Fecha: 22052025
+Estación: LA QUIACA OBSERVATORIO
+Amplitud: 20.70°
+
+Fecha: 22062025
+Estación: LA QUIACA OBSERVATORIO
+Amplitud: 23.30°
+
+Fecha: 22072025
+Estación: LA QUIACA OBSERVATORIO
+Amplitud: 26.20°
+
+Fecha: 22082024
+Estación: LA QUIACA OBSERVATORIO
+Amplitud: 20.50°
+
+Fecha: 22092024
+Estación: TINOGASTA
+Amplitud: 28.00°
+
+Fecha: 22102024
+Estación: CHAPELCO AERO
+Amplitud: 27.40°
+
+Fecha: 22112024
+Estación: TRELEW AERO
+Amplitud: 22.00°
+
+Fecha: 22122024
+Estación: CHAPELCO AERO
+Amplitud: 23.80°
+
+Fecha: 23012025
+Estación: TRES ARROYOS
+Amplitud: 22.10°
+
+Fecha: 23022025
+Estación: NEUQUEN AERO
+Amplitud: 22.80°
+
+Fecha: 23032025
+Estación: GOBERNADOR GREGORES AERO
+Amplitud: 23.00°
+
+Fecha: 23042025
+Estación: RESISTENCIA AERO
+Amplitud: 20.80°
+
+Fecha: 23052025
+Estación: USPALLATA
+Amplitud: 27.10°
+
+Fecha: 23062025
+Estación: MALARGUE AERO
+Amplitud: 22.60°
+
+Fecha: 23072025
+Estación: LA QUIACA OBSERVATORIO
+Amplitud: 24.60°
+
+Fecha: 23082024
+Estación: LA QUIACA OBSERVATORIO
+Amplitud: 18.70°
+
+Fecha: 23092024
+Estación: JACHAL
+Amplitud: 22.00°
+
+Fecha: 23102024
+Estación: MAQUINCHAO
+Amplitud: 24.30°
+
+Fecha: 23112024
+Estación: NEUQUEN AERO
+Amplitud: 20.30°
+
+Fecha: 23122024
+Estación: JACHAL
+Amplitud: 21.00°
+
+Fecha: 24012025
+Estación: MAQUINCHAO
+Amplitud: 17.10°
+
+Fecha: 24022025
+Estación: LA QUIACA OBSERVATORIO
+Amplitud: 18.30°
+
+Fecha: 24032025
+Estación: EL BOLSON AERO
+Amplitud: 25.10°
+
+Fecha: 24042025
+Estación: SAN ANTONIO OESTE AERO
+Amplitud: 19.20°
+
+Fecha: 24052025
+Estación: LA QUIACA OBSERVATORIO
+Amplitud: 22.90°
+
+Fecha: 24062025
+Estación: USPALLATA
+Amplitud: 26.30°
+
+Fecha: 24072025
+Estación: JACHAL
+Amplitud: 34.10°
+
+Fecha: 24082024
+Estación: LA QUIACA OBSERVATORIO
+Amplitud: 22.60°
+
+Fecha: 24092024
+Estación: JACHAL
+Amplitud: 22.90°
+
+Fecha: 24102024
+Estación: JACHAL
+Amplitud: 20.50°
+
+Fecha: 24112024
+Estación: JACHAL
+Amplitud: 18.50°
+
+Fecha: 24122024
+Estación: BARILOCHE AERO
+Amplitud: 27.40°
+
+Fecha: 25012025
+Estación: BARILOCHE AERO
+Amplitud: 25.70°
+
+Fecha: 25022025
+Estación: MAQUINCHAO
+Amplitud: 21.40°
+
+Fecha: 25032025
+Estación: EL BOLSON AERO
+Amplitud: 27.20°
+
+Fecha: 25042025
+Estación: JACHAL
+Amplitud: 26.00°
+
+Fecha: 25052025
+Estación: USPALLATA
+Amplitud: 26.50°
+
+Fecha: 25062025
+Estación: SALTA AERO
+Amplitud: 29.50°
+
+Fecha: 25072025
+Estación: TINOGASTA
+Amplitud: 32.50°
+
+Fecha: 25082024
+Estación: VILLA REYNOLDS AERO
+Amplitud: 27.30°
+
+Fecha: 25092024
+Estación: MAQUINCHAO
+Amplitud: 22.60°
+
+Fecha: 25102024
+Estación: TINOGASTA
+Amplitud: 23.00°
+
+Fecha: 25112024
+Estación: USPALLATA
+Amplitud: 22.00°
+
+Fecha: 25122024
+Estación: EL BOLSON AERO
+Amplitud: 28.20°
+
+Fecha: 26012025
+Estación: MAQUINCHAO
+Amplitud: 25.80°
+
+Fecha: 26022025
+Estación: EL BOLSON AERO
+Amplitud: 22.50°
+
+Fecha: 26032025
+Estación: MALARGUE AERO
+Amplitud: 22.30°
+
+Fecha: 26042025
+Estación: LA QUIACA OBSERVATORIO
+Amplitud: 17.50°
+
+Fecha: 26052025
+Estación: TINOGASTA
+Amplitud: 23.00°
+
+Fecha: 26062025
+Estación: VILLA REYNOLDS AERO
+Amplitud: 25.20°
+
+Fecha: 26072025
+Estación: LA QUIACA OBSERVATORIO
+Amplitud: 21.20°
+
+Fecha: 26082024
+Estación: TINOGASTA
+Amplitud: 27.00°
+
+Fecha: 26092024
+Estación: MAQUINCHAO
+Amplitud: 29.00°
+
+Fecha: 26102024
+Estación: VILLA DE MARIA DEL RIO SECO
+Amplitud: 24.50°
+
+Fecha: 26112024
+Estación: MALARGUE AERO
+Amplitud: 20.40°
+
+Fecha: 26122024
+Estación: EL BOLSON AERO
+Amplitud: 23.80°
+
+Fecha: 27012025
+Estación: CHEPES
+Amplitud: 19.50°
+
+Fecha: 27022025
+Estación: GOBERNADOR GREGORES AERO
+Amplitud: 20.00°
+
+Fecha: 27032025
+Estación: JACHAL
+Amplitud: 20.70°
+
+Fecha: 27042025
+Estación: VILLA REYNOLDS AERO
+Amplitud: 24.00°
+
+Fecha: 27052025
+Estación: LA QUIACA OBSERVATORIO
+Amplitud: 20.20°
+
+Fecha: 27062025
+Estación: VILLA DE MARIA DEL RIO SECO
+Amplitud: 23.10°
+
+Fecha: 27072025
+Estación: LA QUIACA OBSERVATORIO
+Amplitud: 20.20°
+
+Fecha: 27082024
+Estación: LA QUIACA OBSERVATORIO
+Amplitud: 25.60°
+
+Fecha: 27092024
+Estación: JACHAL
+Amplitud: 28.50°
+
+Fecha: 27102024
+Estación: VILLA REYNOLDS AERO
+Amplitud: 25.20°
+
+Fecha: 27112024
+Estación: MALARGUE AERO
+Amplitud: 18.40°
+
+Fecha: 27122024
+Estación: CHAPELCO AERO
+Amplitud: 25.00°
+
+Fecha: 28012025
+Estación: CHAPELCO AERO
+Amplitud: 28.50°
+
+Fecha: 28022025
+Estación: COMODORO RIVADAVIA AERO
+Amplitud: 18.70°
+
+Fecha: 28032025
+Estación: TRELEW AERO
+Amplitud: 17.00°
+
+Fecha: 28042025
+Estación: JACHAL
+Amplitud: 25.00°
+
+Fecha: 28052025
+Estación: LA QUIACA OBSERVATORIO
+Amplitud: 22.30°
+
+Fecha: 28062025
+Estación: USPALLATA
+Amplitud: 21.70°
+
+Fecha: 28072025
+Estación: LA QUIACA OBSERVATORIO
+Amplitud: 22.90°
+
+Fecha: 28082024
+Estación: SANTIAGO DEL ESTERO AERO
+Amplitud: 25.40°
+
+Fecha: 28092024
+Estación: TINOGASTA
+Amplitud: 27.50°
+
+Fecha: 28102024
+Estación: CHAPELCO AERO
+Amplitud: 26.90°
+
+Fecha: 28112024
+Estación: JACHAL
+Amplitud: 19.20°
+
+Fecha: 28122024
+Estación: RIO GALLEGOS AERO
+Amplitud: 20.10°
+
+Fecha: 29012025
+Estación: CHAPELCO AERO
+Amplitud: 30.60°
+
+Fecha: 29032025
+Estación: USPALLATA
+Amplitud: 24.20°
+
+Fecha: 29042025
+Estación: VILLA REYNOLDS AERO
+Amplitud: 24.70°
+
+Fecha: 29052025
+Estación: LA QUIACA OBSERVATORIO
+Amplitud: 24.70°
+
+Fecha: 29062025
+Estación: LA QUIACA OBSERVATORIO
+Amplitud: 24.70°
+
+Fecha: 29072025
+Estación: USPALLATA
+Amplitud: 26.60°
+
+Fecha: 29082024
+Estación: MAQUINCHAO
+Amplitud: 25.90°
+
+Fecha: 29092024
+Estación: JACHAL
+Amplitud: 30.90°
+
+Fecha: 29102024
+Estación: MAQUINCHAO
+Amplitud: 29.20°
+
+Fecha: 29112024
+Estación: EL BOLSON AERO
+Amplitud: 23.50°
+
+Fecha: 29122024
+Estación: EL BOLSON AERO
+Amplitud: 23.30°
+
+Fecha: 30012025
+Estación: EL BOLSON AERO
+Amplitud: 29.20°
+
+Fecha: 30032025
+Estación: JACHAL
+Amplitud: 22.50°
+
+Fecha: 30042025
+Estación: MAQUINCHAO
+Amplitud: 23.40°
+
+Fecha: 30052025
+Estación: LA QUIACA OBSERVATORIO
+Amplitud: 25.40°
+
+Fecha: 30062025
+Estación: LA QUIACA OBSERVATORIO
+Amplitud: 25.70°
+
+Fecha: 30072025
+Estación: JACHAL
+Amplitud: 29.60°
+
+Fecha: 30082024
+Estación: MAQUINCHAO
+Amplitud: 23.60°
+
+Fecha: 30092024
+Estación: TINOGASTA
+Amplitud: 29.00°
+
+Fecha: 30102024
+Estación: EL BOLSON AERO
+Amplitud: 22.60°
+
+Fecha: 30112024
+Estación: MAQUINCHAO
+Amplitud: 25.20°
+
+Fecha: 30122024
+Estación: MALARGUE AERO
+Amplitud: 22.20°
+
+Fecha: 31012025
+Estación: JACHAL
+Amplitud: 21.80°
+
+Fecha: 31032025
+Estación: EL BOLSON AERO
+Amplitud: 18.70°
+
+Fecha: 31052025
+Estación: SANTA ROSA DE CONLARA AERO
+Amplitud: 24.30°
+
+Fecha: 31072025
+Estación: TINOGASTA
+Amplitud: 27.50°
+
+Fecha: 31082024
+Estación: LA QUIACA OBSERVATORIO
+Amplitud: 23.50°
+
+Fecha: 31102024
+Estación: MAQUINCHAO
+Amplitud: 26.10°
+
+Fecha: 31122024
+Estación: RIVADAVIA
+Amplitud: 20.70°
+
+==================================================
+3 - Estación con menor amplitud térmica en el día
+==================================================
+
+Fecha: 17082025
+Estación: BASE SAN MARTIN
+Amplitud: 2.40°
+
+Fecha: 16082025
+Estación: RIO GRANDE B.A.
+Amplitud: 3.70°
+
+Fecha: 15082025
+Estación: BASE CARLINI (EX JUBANY)
+Amplitud: 2.00°
+
+Fecha: 14082025
+Estación: BASE BELGRANO II
+Amplitud: 2.80°
+
+Fecha: 13082025
+Estación: USHUAIA AERO
+Amplitud: 3.50°
+
+Fecha: 12082025
+Estación: USHUAIA AERO
+Amplitud: 2.90°
+
+Fecha: 11082025
+Estación: CHAPELCO AERO
+Amplitud: 2.00°
+
+Fecha: 10082025
+Estación: BASE CARLINI (EX JUBANY)
+Amplitud: 3.80°
+
+Fecha: 09082025
+Estación: BASE CARLINI (EX JUBANY)
+Amplitud: 3.60°
+
+Fecha: 08082025
+Estación: BASE CARLINI (EX JUBANY)
+Amplitud: 1.70°
+
+Fecha: 07082025
+Estación: BASE BELGRANO II
+Amplitud: 2.90°
+
+Fecha: 06082025
+Estación: BASE CARLINI (EX JUBANY)
+Amplitud: 3.30°
+
+Fecha: 05082025
+Estación: BASE CARLINI (EX JUBANY)
+Amplitud: 2.20°
+
+Fecha: 04082025
+Estación: RIO GALLEGOS AERO
+Amplitud: 3.10°
+
+Fecha: 03082025
+Estación: SAN JULIAN AERO
+Amplitud: 2.60°
+
+Fecha: 02082025
+Estación: GOBERNADOR GREGORES AERO
+Amplitud: 2.50°
+
+Fecha: 01082025
+Estación: BASE CARLINI (EX JUBANY)
+Amplitud: 0.80°
+
+Fecha: 31072025
+Estación: BASE CARLINI (EX JUBANY)
+Amplitud: 1.20°
+
+Fecha: 30072025
+Estación: USHUAIA AERO
+Amplitud: 1.70°
+
+Fecha: 29072025
+Estación: BASE CARLINI (EX JUBANY)
+Amplitud: 2.30°
+
+Fecha: 28072025
+Estación: BASE CARLINI (EX JUBANY)
+Amplitud: 1.00°
+
+Fecha: 27072025
+Estación: RAFAELA AERO
+Amplitud: 1.70°
+
+Fecha: 26072025
+Estación: CHAPELCO AERO
+Amplitud: 2.30°
+
+Fecha: 25072025
+Estación: SAN FERNANDO AERO
+Amplitud: 1.90°
+
+Fecha: 24072025
+Estación: SANTA ROSA DE CONLARA AERO
+Amplitud: 1.10°
+
+Fecha: 23072025
+Estación: MARCOS JUAREZ AERO
+Amplitud: 3.00°
+
+Fecha: 22072025
+Estación: AEROPARQUE AERO
+Amplitud: 3.70°
+
+Fecha: 21072025
+Estación: MAR DEL PLATA AERO
+Amplitud: 3.70°
+
+Fecha: 20072025
+Estación: BASE BELGRANO II
+Amplitud: 2.90°
+
+Fecha: 19072025
+Estación: BASE CARLINI (EX JUBANY)
+Amplitud: 1.80°
+
+Fecha: 18072025
+Estación: BASE MARAMBIO
+Amplitud: 2.20°
+
+Fecha: 17072025
+Estación: BASE BELGRANO II
+Amplitud: 2.60°
+
+Fecha: 16072025
+Estación: BASE CARLINI (EX JUBANY)
+Amplitud: 1.80°
+
+Fecha: 15072025
+Estación: BASE SAN MARTIN
+Amplitud: 3.00°
+
+Fecha: 14072025
+Estación: BASE CARLINI (EX JUBANY)
+Amplitud: 1.20°
+
+Fecha: 13072025
+Estación: BASE CARLINI (EX JUBANY)
+Amplitud: 3.20°
+
+Fecha: 12072025
+Estación: BASE CARLINI (EX JUBANY)
+Amplitud: 1.70°
+
+Fecha: 11072025
+Estación: BASE CARLINI (EX JUBANY)
+Amplitud: 1.90°
+
+Fecha: 10072025
+Estación: BENITO JUAREZ
+Amplitud: 1.20°
+
+Fecha: 09072025
+Estación: PEHUAJO AERO
+Amplitud: 0.90°
+
+Fecha: 08072025
+Estación: BASE CARLINI (EX JUBANY)
+Amplitud: 2.00°
+
+Fecha: 07072025
+Estación: BASE CARLINI (EX JUBANY)
+Amplitud: 1.70°
+
+Fecha: 06072025
+Estación: BASE CARLINI (EX JUBANY)
+Amplitud: 1.00°
+
+Fecha: 05072025
+Estación: BASE CARLINI (EX JUBANY)
+Amplitud: 2.50°
+
+Fecha: 04072025
+Estación: BASE CARLINI (EX JUBANY)
+Amplitud: 3.20°
+
+Fecha: 03072025
+Estación: USHUAIA AERO
+Amplitud: 2.20°
+
+Fecha: 02072025
+Estación: BASE CARLINI (EX JUBANY)
+Amplitud: 3.60°
+
+Fecha: 01072025
+Estación: BASE CARLINI (EX JUBANY)
+Amplitud: 1.80°
+
+Fecha: 30062025
+Estación: BASE CARLINI (EX JUBANY)
+Amplitud: 1.60°
+
+Fecha: 29062025
+Estación: BASE BELGRANO II
+Amplitud: 2.80°
+
+Fecha: 28062025
+Estación: BASE SAN MARTIN
+Amplitud: 3.10°
+
+Fecha: 27062025
+Estación: USHUAIA AERO
+Amplitud: 2.30°
+
+Fecha: 26062025
+Estación: USHUAIA AERO
+Amplitud: 1.90°
+
+Fecha: 25062025
+Estación: USHUAIA AERO
+Amplitud: 2.70°
+
+Fecha: 24062025
+Estación: BASE ORCADAS
+Amplitud: 2.30°
+
+Fecha: 23062025
+Estación: BASE ORCADAS
+Amplitud: 2.30°
+
+Fecha: 22062025
+Estación: BASE CARLINI (EX JUBANY)
+Amplitud: 2.60°
+
+Fecha: 21062025
+Estación: BASE ESPERANZA
+Amplitud: 2.40°
+
+Fecha: 20062025
+Estación: BASE CARLINI (EX JUBANY)
+Amplitud: 1.60°
+
+Fecha: 19062025
+Estación: CORRIENTES AERO
+Amplitud: 1.60°
+
+Fecha: 18062025
+Estación: MONTE CASEROS AERO
+Amplitud: 1.80°
+
+Fecha: 17062025
+Estación: RECONQUISTA AERO
+Amplitud: 1.90°
+
+Fecha: 16062025
+Estación: USHUAIA AERO
+Amplitud: 3.00°
+
+Fecha: 15062025
+Estación: MONTE CASEROS AERO
+Amplitud: 2.30°
+
+Fecha: 14062025
+Estación: BASE ORCADAS
+Amplitud: 1.20°
+
+Fecha: 13062025
+Estación: BENITO JUAREZ
+Amplitud: 1.40°
+
+Fecha: 12062025
+Estación: PUERTO DESEADO AERO
+Amplitud: 3.00°
+
+Fecha: 11062025
+Estación: RIO GRANDE B.A.
+Amplitud: 0.80°
+
+Fecha: 10062025
+Estación: RIO GRANDE B.A.
+Amplitud: 2.30°
+
+Fecha: 09062025
+Estación: RIO GALLEGOS AERO
+Amplitud: 4.00°
+
+Fecha: 08062025
+Estación: BASE ORCADAS
+Amplitud: 2.60°
+
+Fecha: 07062025
+Estación: BASE CARLINI (EX JUBANY)
+Amplitud: 2.90°
+
+Fecha: 06062025
+Estación: USHUAIA AERO
+Amplitud: 1.80°
+
+Fecha: 05062025
+Estación: BASE CARLINI (EX JUBANY)
+Amplitud: 2.60°
+
+Fecha: 04062025
+Estación: BASE MARAMBIO
+Amplitud: 2.60°
+
+Fecha: 03062025
+Estación: BASE MARAMBIO
+Amplitud: 2.10°
+
+Fecha: 02062025
+Estación: BASE CARLINI (EX JUBANY)
+Amplitud: 1.70°
+
+Fecha: 01062025
+Estación: BASE SAN MARTIN
+Amplitud: 1.30°
+
+Fecha: 31052025
+Estación: BASE SAN MARTIN
+Amplitud: 2.20°
+
+Fecha: 30052025
+Estación: BASE ESPERANZA
+Amplitud: 3.70°
+
+Fecha: 29052025
+Estación: BASE ORCADAS
+Amplitud: 2.30°
+
+Fecha: 28052025
+Estación: BASE MARAMBIO
+Amplitud: 2.40°
+
+Fecha: 27052025
+Estación: BASE SAN MARTIN
+Amplitud: 2.10°
+
+Fecha: 26052025
+Estación: PASO DE LOS LIBRES AERO
+Amplitud: 1.90°
+
+Fecha: 25052025
+Estación: RECONQUISTA AERO
+Amplitud: 2.70°
+
+Fecha: 24052025
+Estación: BASE SAN MARTIN
+Amplitud: 1.80°
+
+Fecha: 23052025
+Estación: METAN
+Amplitud: 2.50°
+
+Fecha: 22052025
+Estación: BASE CARLINI (EX JUBANY)
+Amplitud: 1.50°
+
+Fecha: 21052025
+Estación: BASE SAN MARTIN
+Amplitud: 1.70°
+
+Fecha: 20052025
+Estación: CERES AERO
+Amplitud: 2.90°
+
+Fecha: 19052025
+Estación: USHUAIA AERO
+Amplitud: 1.90°
+
+Fecha: 18052025
+Estación: USHUAIA AERO
+Amplitud: 2.20°
+
+Fecha: 17052025
+Estación: BASE ESPERANZA
+Amplitud: 1.20°
+
+Fecha: 16052025
+Estación: BASE ESPERANZA
+Amplitud: 1.80°
+
+Fecha: 15052025
+Estación: BASE MARAMBIO
+Amplitud: 1.70°
+
+Fecha: 14052025
+Estación: BASE SAN MARTIN
+Amplitud: 2.70°
+
+Fecha: 13052025
+Estación: BASE CARLINI (EX JUBANY)
+Amplitud: 1.90°
+
+Fecha: 12052025
+Estación: BASE CARLINI (EX JUBANY)
+Amplitud: 4.40°
+
+Fecha: 11052025
+Estación: BASE MARAMBIO
+Amplitud: 1.70°
+
+Fecha: 10052025
+Estación: BASE ORCADAS
+Amplitud: 3.20°
+
+Fecha: 09052025
+Estación: BASE CARLINI (EX JUBANY)
+Amplitud: 1.70°
+
+Fecha: 08052025
+Estación: RECONQUISTA AERO
+Amplitud: 2.20°
+
+Fecha: 07052025
+Estación: VILLA DE MARIA DEL RIO SECO
+Amplitud: 2.00°
+
+Fecha: 06052025
+Estación: CORRIENTES AERO
+Amplitud: 3.40°
+
+Fecha: 05052025
+Estación: BASE ORCADAS
+Amplitud: 2.50°
+
+Fecha: 04052025
+Estación: BASE ESPERANZA
+Amplitud: 1.90°
+
+Fecha: 03052025
+Estación: BASE SAN MARTIN
+Amplitud: 2.20°
+
+Fecha: 02052025
+Estación: RIO GRANDE B.A.
+Amplitud: 1.80°
+
+Fecha: 01052025
+Estación: BASE CARLINI (EX JUBANY)
+Amplitud: 2.90°
+
+Fecha: 30042025
+Estación: BASE CARLINI (EX JUBANY)
+Amplitud: 2.30°
+
+Fecha: 29042025
+Estación: BASE CARLINI (EX JUBANY)
+Amplitud: 2.00°
+
+Fecha: 28042025
+Estación: BASE BELGRANO II
+Amplitud: 2.60°
+
+Fecha: 27042025
+Estación: BASE CARLINI (EX JUBANY)
+Amplitud: 1.00°
+
+Fecha: 26042025
+Estación: BASE ORCADAS
+Amplitud: 1.40°
+
+Fecha: 25042025
+Estación: BASE ORCADAS
+Amplitud: 2.90°
+
+Fecha: 24042025
+Estación: BASE ESPERANZA
+Amplitud: 1.50°
+
+Fecha: 23042025
+Estación: BASE ORCADAS
+Amplitud: 2.10°
+
+Fecha: 22042025
+Estación: BASE ORCADAS
+Amplitud: 1.50°
+
+Fecha: 21042025
+Estación: ORAN AERO
+Amplitud: 3.00°
+
+Fecha: 20042025
+Estación: METAN
+Amplitud: 1.80°
+
+Fecha: 19042025
+Estación: BASE ORCADAS
+Amplitud: 2.90°
+
+Fecha: 18042025
+Estación: BASE ORCADAS
+Amplitud: 1.50°
+
+Fecha: 17042025
+Estación: RIO GRANDE B.A.
+Amplitud: 2.80°
+
+Fecha: 16042025
+Estación: BASE CARLINI (EX JUBANY)
+Amplitud: 1.30°
+
+Fecha: 15042025
+Estación: BASE CARLINI (EX JUBANY)
+Amplitud: 2.30°
+
+Fecha: 14042025
+Estación: BASE CARLINI (EX JUBANY)
+Amplitud: 2.00°
+
+Fecha: 13042025
+Estación: BASE ORCADAS
+Amplitud: 2.40°
+
+Fecha: 12042025
+Estación: BASE SAN MARTIN
+Amplitud: 1.70°
+
+Fecha: 11042025
+Estación: BASE CARLINI (EX JUBANY)
+Amplitud: 2.90°
+
+Fecha: 10042025
+Estación: BASE SAN MARTIN
+Amplitud: 3.40°
+
+Fecha: 09042025
+Estación: BASE ORCADAS
+Amplitud: 3.20°
+
+Fecha: 08042025
+Estación: CORRIENTES AERO
+Amplitud: 3.40°
+
+Fecha: 07042025
+Estación: BASE SAN MARTIN
+Amplitud: 2.10°
+
+Fecha: 06042025
+Estación: BASE CARLINI (EX JUBANY)
+Amplitud: 3.20°
+
+Fecha: 05042025
+Estación: JUJUY U N
+Amplitud: 2.80°
+
+Fecha: 04042025
+Estación: BASE CARLINI (EX JUBANY)
+Amplitud: 1.90°
+
+Fecha: 03042025
+Estación: BASE SAN MARTIN
+Amplitud: 3.00°
+
+Fecha: 02042025
+Estación: PASO DE LOS LIBRES AERO
+Amplitud: 1.80°
+
+Fecha: 01042025
+Estación: BASE CARLINI (EX JUBANY)
+Amplitud: 2.50°
+
+Fecha: 31032025
+Estación: BASE ORCADAS
+Amplitud: 2.10°
+
+Fecha: 30032025
+Estación: BASE CARLINI (EX JUBANY)
+Amplitud: 1.70°
+
+Fecha: 29032025
+Estación: BASE CARLINI (EX JUBANY)
+Amplitud: 2.10°
+
+Fecha: 28032025
+Estación: BASE CARLINI (EX JUBANY)
+Amplitud: 1.90°
+
+Fecha: 27032025
+Estación: BASE CARLINI (EX JUBANY)
+Amplitud: 2.50°
+
+Fecha: 26032025
+Estación: GENERAL PICO AERO
+Amplitud: 4.30°
+
+Fecha: 25032025
+Estación: VILLA DE MARIA DEL RIO SECO
+Amplitud: 2.90°
+
+Fecha: 24032025
+Estación: CORDOBA AERO
+Amplitud: 2.00°
+
+Fecha: 23032025
+Estación: BASE CARLINI (EX JUBANY)
+Amplitud: 1.30°
+
+Fecha: 22032025
+Estación: BASE CARLINI (EX JUBANY)
+Amplitud: 1.90°
+
+Fecha: 21032025
+Estación: BASE CARLINI (EX JUBANY)
+Amplitud: 2.50°
+
+Fecha: 20032025
+Estación: BASE CARLINI (EX JUBANY)
+Amplitud: 2.10°
+
+Fecha: 19032025
+Estación: BASE CARLINI (EX JUBANY)
+Amplitud: 2.00°
+
+Fecha: 18032025
+Estación: BASE CARLINI (EX JUBANY)
+Amplitud: 3.00°
+
+Fecha: 17032025
+Estación: BASE CARLINI (EX JUBANY)
+Amplitud: 3.70°
+
+Fecha: 16032025
+Estación: BASE CARLINI (EX JUBANY)
+Amplitud: 1.70°
+
+Fecha: 15032025
+Estación: BASE ORCADAS
+Amplitud: 2.80°
+
+Fecha: 14032025
+Estación: BASE CARLINI (EX JUBANY)
+Amplitud: 1.60°
+
+Fecha: 13032025
+Estación: METAN
+Amplitud: 2.40°
+
+Fecha: 12032025
+Estación: BASE ORCADAS
+Amplitud: 2.50°
+
+Fecha: 11032025
+Estación: BASE MARAMBIO
+Amplitud: 3.30°
+
+Fecha: 10032025
+Estación: BASE ORCADAS
+Amplitud: 3.30°
+
+Fecha: 09032025
+Estación: BASE CARLINI (EX JUBANY)
+Amplitud: 3.30°
+
+Fecha: 08032025
+Estación: BASE CARLINI (EX JUBANY)
+Amplitud: 3.40°
+
+Fecha: 07032025
+Estación: BASE ORCADAS
+Amplitud: 2.50°
+
+Fecha: 06032025
+Estación: BASE CARLINI (EX JUBANY)
+Amplitud: 2.00°
+
+Fecha: 05032025
+Estación: CORONEL SUAREZ AERO
+Amplitud: 2.80°
+
+Fecha: 04032025
+Estación: BASE ORCADAS
+Amplitud: 2.60°
+
+Fecha: 03032025
+Estación: CAMPO DE MAYO AERO
+Amplitud: 2.50°
+
+Fecha: 02032025
+Estación: BASE ORCADAS
+Amplitud: 1.60°
+
+Fecha: 01032025
+Estación: BASE CARLINI (EX JUBANY)
+Amplitud: 2.80°
+
+Fecha: 28022025
+Estación: AEROPARQUE AERO
+Amplitud: 4.00°
+
+Fecha: 27022025
+Estación: BASE ORCADAS
+Amplitud: 4.90°
+
+Fecha: 26022025
+Estación: BASE ORCADAS
+Amplitud: 3.10°
+
+Fecha: 25022025
+Estación: BASE CARLINI (EX JUBANY)
+Amplitud: 1.40°
+
+Fecha: 24022025
+Estación: PUNTA INDIO B.A.
+Amplitud: 2.50°
+
+Fecha: 23022025
+Estación: BASE MARAMBIO
+Amplitud: 2.80°
+
+Fecha: 22022025
+Estación: BASE ORCADAS
+Amplitud: 3.00°
+
+Fecha: 21022025
+Estación: BASE CARLINI (EX JUBANY)
+Amplitud: 2.20°
+
+Fecha: 20022025
+Estación: BASE CARLINI (EX JUBANY)
+Amplitud: 3.30°
+
+Fecha: 19022025
+Estación: BASE ORCADAS
+Amplitud: 2.20°
+
+Fecha: 18022025
+Estación: BASE CARLINI (EX JUBANY)
+Amplitud: 2.70°
+
+Fecha: 17022025
+Estación: MERCEDES AERO (CTES)
+Amplitud: 2.00°
+
+Fecha: 16022025
+Estación: BASE ORCADAS
+Amplitud: 2.70°
+
+Fecha: 15022025
+Estación: BASE ORCADAS
+Amplitud: 2.60°
+
+Fecha: 14022025
+Estación: BASE SAN MARTIN
+Amplitud: 2.00°
+
+Fecha: 13022025
+Estación: BASE ORCADAS
+Amplitud: 2.50°
+
+Fecha: 12022025
+Estación: BASE ORCADAS
+Amplitud: 1.40°
+
+Fecha: 11022025
+Estación: BASE ESPERANZA
+Amplitud: 3.90°
+
+Fecha: 10022025
+Estación: BASE MARAMBIO
+Amplitud: 2.90°
+
+Fecha: 09022025
+Estación: BASE CARLINI (EX JUBANY)
+Amplitud: 2.00°
+
+Fecha: 08022025
+Estación: BASE CARLINI (EX JUBANY)
+Amplitud: 2.50°
+
+Fecha: 07022025
+Estación: BASE MARAMBIO
+Amplitud: 3.20°
+
+Fecha: 06022025
+Estación: BASE MARAMBIO
+Amplitud: 3.40°
+
+Fecha: 05022025
+Estación: BASE ORCADAS
+Amplitud: 1.60°
+
+Fecha: 04022025
+Estación: BASE MARAMBIO
+Amplitud: 3.10°
+
+Fecha: 03022025
+Estación: BASE ESPERANZA
+Amplitud: 3.70°
+
+Fecha: 02022025
+Estación: BASE ORCADAS
+Amplitud: 3.10°
+
+Fecha: 01022025
+Estación: BASE ORCADAS
+Amplitud: 2.70°
+
+Fecha: 31012025
+Estación: BASE CARLINI (EX JUBANY)
+Amplitud: 1.70°
+
+Fecha: 30012025
+Estación: BASE ORCADAS
+Amplitud: 2.50°
+
+Fecha: 29012025
+Estación: BASE MARAMBIO
+Amplitud: 3.10°
+
+Fecha: 28012025
+Estación: BASE CARLINI (EX JUBANY)
+Amplitud: 1.60°
+
+Fecha: 27012025
+Estación: BASE CARLINI (EX JUBANY)
+Amplitud: 3.70°
+
+Fecha: 26012025
+Estación: BASE CARLINI (EX JUBANY)
+Amplitud: 4.10°
+
+Fecha: 25012025
+Estación: BASE CARLINI (EX JUBANY)
+Amplitud: 3.20°
+
+Fecha: 24012025
+Estación: BASE CARLINI (EX JUBANY)
+Amplitud: 3.10°
+
+Fecha: 23012025
+Estación: BASE SAN MARTIN
+Amplitud: 2.50°
+
+Fecha: 22012025
+Estación: RIO GRANDE B.A.
+Amplitud: 2.30°
+
+Fecha: 21012025
+Estación: BASE ORCADAS
+Amplitud: 1.90°
+
+Fecha: 20012025
+Estación: BASE ORCADAS
+Amplitud: 2.20°
+
+Fecha: 19012025
+Estación: BASE MARAMBIO
+Amplitud: 2.30°
+
+Fecha: 18012025
+Estación: BASE CARLINI (EX JUBANY)
+Amplitud: 3.20°
+
+Fecha: 17012025
+Estación: BASE MARAMBIO
+Amplitud: 2.50°
+
+Fecha: 16012025
+Estación: BASE CARLINI (EX JUBANY)
+Amplitud: 2.10°
+
+Fecha: 15012025
+Estación: BASE ORCADAS
+Amplitud: 2.90°
+
+Fecha: 14012025
+Estación: BASE SAN MARTIN
+Amplitud: 3.90°
+
+Fecha: 13012025
+Estación: BASE CARLINI (EX JUBANY)
+Amplitud: 2.90°
+
+Fecha: 12012025
+Estación: BASE ORCADAS
+Amplitud: 3.60°
+
+Fecha: 11012025
+Estación: BASE ORCADAS
+Amplitud: 2.70°
+
+Fecha: 10012025
+Estación: BASE ORCADAS
+Amplitud: 3.70°
+
+Fecha: 09012025
+Estación: BASE MARAMBIO
+Amplitud: 3.10°
+
+Fecha: 08012025
+Estación: BASE CARLINI (EX JUBANY)
+Amplitud: 4.60°
+
+Fecha: 07012025
+Estación: BASE CARLINI (EX JUBANY)
+Amplitud: 3.40°
+
+Fecha: 06012025
+Estación: BASE CARLINI (EX JUBANY)
+Amplitud: 3.10°
+
+Fecha: 05012025
+Estación: BASE CARLINI (EX JUBANY)
+Amplitud: 2.70°
+
+Fecha: 04012025
+Estación: BASE ORCADAS
+Amplitud: 2.30°
+
+Fecha: 03012025
+Estación: BASE CARLINI (EX JUBANY)
+Amplitud: 3.30°
+
+Fecha: 02012025
+Estación: BASE ESPERANZA
+Amplitud: 3.70°
+
+Fecha: 01012025
+Estación: COMODORO RIVADAVIA AERO
+Amplitud: 3.60°
+
+Fecha: 31122024
+Estación: BASE CARLINI (EX JUBANY)
+Amplitud: 3.40°
+
+Fecha: 30122024
+Estación: RIO GRANDE B.A.
+Amplitud: 2.10°
+
+Fecha: 29122024
+Estación: BASE CARLINI (EX JUBANY)
+Amplitud: 2.50°
+
+Fecha: 28122024
+Estación: BASE CARLINI (EX JUBANY)
+Amplitud: 3.50°
+
+Fecha: 27122024
+Estación: BASE SAN MARTIN
+Amplitud: 2.30°
+
+Fecha: 26122024
+Estación: BASE CARLINI (EX JUBANY)
+Amplitud: 2.80°
+
+Fecha: 25122024
+Estación: TRES ARROYOS
+Amplitud: 3.70°
+
+Fecha: 24122024
+Estación: BASE ORCADAS
+Amplitud: 2.00°
+
+Fecha: 23122024
+Estación: BASE SAN MARTIN
+Amplitud: 3.40°
+
+Fecha: 22122024
+Estación: BASE CARLINI (EX JUBANY)
+Amplitud: 1.50°
+
+Fecha: 21122024
+Estación: BASE CARLINI (EX JUBANY)
+Amplitud: 3.90°
+
+Fecha: 20122024
+Estación: BASE CARLINI (EX JUBANY)
+Amplitud: 2.00°
+
+Fecha: 19122024
+Estación: BASE CARLINI (EX JUBANY)
+Amplitud: 1.80°
+
+Fecha: 18122024
+Estación: BASE ORCADAS
+Amplitud: 1.70°
+
+Fecha: 17122024
+Estación: BASE ORCADAS
+Amplitud: 2.30°
+
+Fecha: 16122024
+Estación: BASE ORCADAS
+Amplitud: 2.20°
+
+Fecha: 15122024
+Estación: BASE SAN MARTIN
+Amplitud: 4.20°
+
+Fecha: 14122024
+Estación: BASE CARLINI (EX JUBANY)
+Amplitud: 2.10°
+
+Fecha: 13122024
+Estación: BASE CARLINI (EX JUBANY)
+Amplitud: 1.90°
+
+Fecha: 12122024
+Estación: BASE ORCADAS
+Amplitud: 3.40°
+
+Fecha: 11122024
+Estación: BASE CARLINI (EX JUBANY)
+Amplitud: 2.40°
+
+Fecha: 10122024
+Estación: BASE CARLINI (EX JUBANY)
+Amplitud: 2.60°
+
+Fecha: 09122024
+Estación: LAS LOMITAS
+Amplitud: 3.90°
+
+Fecha: 08122024
+Estación: METAN
+Amplitud: 0.90°
+
+Fecha: 07122024
+Estación: BASE SAN MARTIN
+Amplitud: 2.70°
+
+Fecha: 06122024
+Estación: BASE ORCADAS
+Amplitud: 4.60°
+
+Fecha: 05122024
+Estación: BASE MARAMBIO
+Amplitud: 2.50°
+
+Fecha: 04122024
+Estación: BASE CARLINI (EX JUBANY)
+Amplitud: 2.60°
+
+Fecha: 03122024
+Estación: BASE CARLINI (EX JUBANY)
+Amplitud: 2.50°
+
+Fecha: 02122024
+Estación: BASE ORCADAS
+Amplitud: 2.30°
+
+Fecha: 01122024
+Estación: PUNTA INDIO B.A.
+Amplitud: 2.30°
+
+Fecha: 30112024
+Estación: BASE CARLINI (EX JUBANY)
+Amplitud: 2.60°
+
+Fecha: 29112024
+Estación: BASE CARLINI (EX JUBANY)
+Amplitud: 2.70°
+
+Fecha: 28112024
+Estación: BASE CARLINI (EX JUBANY)
+Amplitud: 0.70°
+
+Fecha: 27112024
+Estación: BASE CARLINI (EX JUBANY)
+Amplitud: 2.90°
+
+Fecha: 26112024
+Estación: BASE CARLINI (EX JUBANY)
+Amplitud: 1.80°
+
+Fecha: 25112024
+Estación: BASE CARLINI (EX JUBANY)
+Amplitud: 1.40°
+
+Fecha: 24112024
+Estación: BASE CARLINI (EX JUBANY)
+Amplitud: 2.10°
+
+Fecha: 23112024
+Estación: BASE ORCADAS
+Amplitud: 2.50°
+
+Fecha: 22112024
+Estación: PUNTA INDIO B.A.
+Amplitud: 4.30°
+
+Fecha: 21112024
+Estación: BASE CARLINI (EX JUBANY)
+Amplitud: 4.60°
+
+Fecha: 20112024
+Estación: FORMOSA AERO
+Amplitud: 3.80°
+
+Fecha: 19112024
+Estación: RECONQUISTA AERO
+Amplitud: 3.40°
+
+Fecha: 18112024
+Estación: BASE CARLINI (EX JUBANY)
+Amplitud: 2.80°
+
+Fecha: 17112024
+Estación: BASE MARAMBIO
+Amplitud: 3.60°
+
+Fecha: 16112024
+Estación: TRES ARROYOS
+Amplitud: 3.00°
+
+Fecha: 15112024
+Estación: BASE SAN MARTIN
+Amplitud: 3.80°
+
+Fecha: 14112024
+Estación: BASE ORCADAS
+Amplitud: 1.80°
+
+Fecha: 13112024
+Estación: BASE MARAMBIO
+Amplitud: 2.80°
+
+Fecha: 12112024
+Estación: BASE CARLINI (EX JUBANY)
+Amplitud: 3.90°
+
+Fecha: 11112024
+Estación: GOBERNADOR GREGORES AERO
+Amplitud: 3.00°
+
+Fecha: 10112024
+Estación: BASE SAN MARTIN
+Amplitud: 5.20°
+
+Fecha: 09112024
+Estación: BASE CARLINI (EX JUBANY)
+Amplitud: 1.30°
+
+Fecha: 08112024
+Estación: RIO GRANDE B.A.
+Amplitud: 3.00°
+
+Fecha: 07112024
+Estación: BASE SAN MARTIN
+Amplitud: 2.90°
+
+Fecha: 06112024
+Estación: BASE SAN MARTIN
+Amplitud: 2.70°
+
+Fecha: 05112024
+Estación: BASE CARLINI (EX JUBANY)
+Amplitud: 3.30°
+
+Fecha: 04112024
+Estación: BASE CARLINI (EX JUBANY)
+Amplitud: 3.70°
+
+Fecha: 03112024
+Estación: BASE CARLINI (EX JUBANY)
+Amplitud: 3.30°
+
+Fecha: 02112024
+Estación: BASE ORCADAS
+Amplitud: 1.70°
+
+Fecha: 01112024
+Estación: BASE ORCADAS
+Amplitud: 3.20°
+
+Fecha: 31102024
+Estación: BASE CARLINI (EX JUBANY)
+Amplitud: 1.90°
+
+Fecha: 30102024
+Estación: BASE CARLINI (EX JUBANY)
+Amplitud: 3.10°
+
+Fecha: 29102024
+Estación: BASE SAN MARTIN
+Amplitud: 2.80°
+
+Fecha: 28102024
+Estación: BASE ESPERANZA
+Amplitud: 2.80°
+
+Fecha: 27102024
+Estación: BASE SAN MARTIN
+Amplitud: 3.60°
+
+Fecha: 26102024
+Estación: BASE CARLINI (EX JUBANY)
+Amplitud: 4.10°
+
+Fecha: 25102024
+Estación: BASE CARLINI (EX JUBANY)
+Amplitud: 3.00°
+
+Fecha: 24102024
+Estación: BASE ORCADAS
+Amplitud: 3.10°
+
+Fecha: 23102024
+Estación: BASE ORCADAS
+Amplitud: 1.70°
+
+Fecha: 22102024
+Estación: BASE CARLINI (EX JUBANY)
+Amplitud: 1.90°
+
+Fecha: 21102024
+Estación: BASE CARLINI (EX JUBANY)
+Amplitud: 1.40°
+
+Fecha: 20102024
+Estación: BASE CARLINI (EX JUBANY)
+Amplitud: 1.90°
+
+Fecha: 19102024
+Estación: BASE CARLINI (EX JUBANY)
+Amplitud: 1.60°
+
+Fecha: 18102024
+Estación: BASE CARLINI (EX JUBANY)
+Amplitud: 4.20°
+
+Fecha: 17102024
+Estación: BASE ORCADAS
+Amplitud: 3.40°
+
+Fecha: 16102024
+Estación: BASE CARLINI (EX JUBANY)
+Amplitud: 1.80°
+
+Fecha: 15102024
+Estación: CORRIENTES AERO
+Amplitud: 2.90°
+
+Fecha: 14102024
+Estación: GUALEGUAYCHU AERO
+Amplitud: 3.30°
+
+Fecha: 13102024
+Estación: BUENOS AIRES OBSERVATORIO
+Amplitud: 3.20°
+
+Fecha: 12102024
+Estación: BASE ORCADAS
+Amplitud: 3.60°
+
+Fecha: 11102024
+Estación: BASE ORCADAS
+Amplitud: 2.40°
+
+Fecha: 10102024
+Estación: ORAN AERO
+Amplitud: 2.60°
+
+Fecha: 09102024
+Estación: CHEPES
+Amplitud: 1.50°
+
+Fecha: 08102024
+Estación: SAN RAFAEL AERO
+Amplitud: 2.50°
+
+Fecha: 07102024
+Estación: PUNTA INDIO B.A.
+Amplitud: 2.80°
+
+Fecha: 06102024
+Estación: BASE ESPERANZA
+Amplitud: 2.30°
+
+Fecha: 05102024
+Estación: BASE ORCADAS
+Amplitud: 2.50°
+
+Fecha: 04102024
+Estación: USHUAIA AERO
+Amplitud: 3.20°
+
+Fecha: 03102024
+Estación: BASE MARAMBIO
+Amplitud: 3.20°
+
+Fecha: 02102024
+Estación: BASE ORCADAS
+Amplitud: 2.90°
+
+Fecha: 01102024
+Estación: GOBERNADOR GREGORES AERO
+Amplitud: 3.00°
+
+Fecha: 30092024
+Estación: BASE ORCADAS
+Amplitud: 2.60°
+
+Fecha: 29092024
+Estación: BASE ORCADAS
+Amplitud: 2.20°
+
+Fecha: 28092024
+Estación: BASE MARAMBIO
+Amplitud: 3.00°
+
+Fecha: 27092024
+Estación: BASE SAN MARTIN
+Amplitud: 4.50°
+
+Fecha: 26092024
+Estación: MERCEDES AERO (CTES)
+Amplitud: 3.80°
+
+Fecha: 25092024
+Estación: PASO DE LOS LIBRES AERO
+Amplitud: 2.80°
+
+Fecha: 24092024
+Estación: CONCORDIA AERO
+Amplitud: 3.60°
+
+Fecha: 23092024
+Estación: BASE ORCADAS
+Amplitud: 3.70°
+
+Fecha: 22092024
+Estación: EL BOLSON AERO
+Amplitud: 2.60°
+
+Fecha: 21092024
+Estación: USHUAIA AERO
+Amplitud: 4.80°
+
+Fecha: 20092024
+Estación: BASE CARLINI (EX JUBANY)
+Amplitud: 1.70°
+
+Fecha: 19092024
+Estación: PUERTO DESEADO AERO
+Amplitud: 2.80°
+
+Fecha: 18092024
+Estación: PUERTO DESEADO AERO
+Amplitud: 3.10°
+
+Fecha: 17092024
+Estación: BASE ESPERANZA
+Amplitud: 4.30°
+
+Fecha: 16092024
+Estación: BASE CARLINI (EX JUBANY)
+Amplitud: 4.80°
+
+Fecha: 15092024
+Estación: IGUAZU AERO
+Amplitud: 3.70°
+
+Fecha: 14092024
+Estación: BASE BELGRANO II
+Amplitud: 4.10°
+
+Fecha: 13092024
+Estación: POSADAS AERO
+Amplitud: 1.70°
+
+Fecha: 12092024
+Estación: BASE SAN MARTIN
+Amplitud: 3.20°
+
+Fecha: 11092024
+Estación: MERCEDES AERO (CTES)
+Amplitud: 3.50°
+
+Fecha: 10092024
+Estación: AEROPARQUE AERO
+Amplitud: 2.60°
+
+Fecha: 09092024
+Estación: BUENOS AIRES OBSERVATORIO
+Amplitud: 4.20°
+
+Fecha: 08092024
+Estación: BASE ORCADAS
+Amplitud: 4.50°
+
+Fecha: 07092024
+Estación: BASE CARLINI (EX JUBANY)
+Amplitud: 2.60°
+
+Fecha: 06092024
+Estación: BASE CARLINI (EX JUBANY)
+Amplitud: 1.80°
+
+Fecha: 05092024
+Estación: BASE CARLINI (EX JUBANY)
+Amplitud: 1.50°
+
+Fecha: 04092024
+Estación: BASE CARLINI (EX JUBANY)
+Amplitud: 3.30°
+
+Fecha: 03092024
+Estación: BASE CARLINI (EX JUBANY)
+Amplitud: 2.90°
+
+Fecha: 02092024
+Estación: BASE CARLINI (EX JUBANY)
+Amplitud: 3.80°
+
+Fecha: 01092024
+Estación: BASE CARLINI (EX JUBANY)
+Amplitud: 3.50°
+
+Fecha: 31082024
+Estación: SAN FERNANDO AERO
+Amplitud: 1.60°
+
+Fecha: 30082024
+Estación: BUENOS AIRES OBSERVATORIO
+Amplitud: 3.00°
+
+Fecha: 29082024
+Estación: BASE ORCADAS
+Amplitud: 2.40°
+
+Fecha: 28082024
+Estación: BASE CARLINI (EX JUBANY)
+Amplitud: 4.10°
+
+Fecha: 27082024
+Estación: BASE ORCADAS
+Amplitud: 1.80°
+
+Fecha: 26082024
+Estación: BASE CARLINI (EX JUBANY)
+Amplitud: 3.10°
+
+Fecha: 25082024
+Estación: BASE CARLINI (EX JUBANY)
+Amplitud: 2.10°
+
+Fecha: 24082024
+Estación: BASE CARLINI (EX JUBANY)
+Amplitud: 3.60°
+
+Fecha: 23082024
+Estación: BASE CARLINI (EX JUBANY)
+Amplitud: 0.90°
+
+Fecha: 22082024
+Estación: COMODORO RIVADAVIA AERO
+Amplitud: 2.10°
+
+Fecha: 21082024
+Estación: LABOULAYE AERO
+Amplitud: 2.00°
+
+Fecha: 20082024
+Estación: PARANA AERO
+Amplitud: 1.40°
+
+Fecha: 19082024
+Estación: USHUAIA AERO
+Amplitud: 2.00°
+
+Fecha: 18082024
+Estación: CONCORDIA AERO
+Amplitud: 1.90°
+
+======================================================
+4 - Máxima diferencia entre estaciones en un mismo día
+======================================================
+
+Fecha: 01012025
+  Estación Máx: LAS LOMITAS (41.5°)
+  Estación Mín: BASE BELGRANO II (-5.6°)
+  Diferencia: 47.10°
+
+Fecha: 01022025
+  Estación Máx: SAN JUAN AERO (42.2°)
+  Estación Mín: BASE BELGRANO II (-7.2°)
+  Diferencia: 49.40°
+
+Fecha: 01032025
+  Estación Máx: RESISTENCIA AERO (39.8°)
+  Estación Mín: BASE MARAMBIO (-8.4°)
+  Diferencia: 48.20°
+
+Fecha: 01042025
+  Estación Máx: BERNARDO DE IRIGOYEN AERO (29.0°)
+  Estación Mín: BASE BELGRANO II (-20.9°)
+  Diferencia: 49.90°
+
+Fecha: 01052025
+  Estación Máx: CATAMARCA AERO (31.4°)
+  Estación Mín: BASE BELGRANO II (-17.4°)
+  Diferencia: 48.80°
+
+Fecha: 01062025
+  Estación Máx: CATAMARCA AERO (22.0°)
+  Estación Mín: BASE BELGRANO II (-22.1°)
+  Diferencia: 44.10°
+
+Fecha: 01072025
+  Estación Máx: LA QUIACA OBSERVATORIO (19.0°)
+  Estación Mín: BASE BELGRANO II (-28.5°)
+  Diferencia: 47.50°
+
+Fecha: 01082025
+  Estación Máx: RIVADAVIA (34.0°)
+  Estación Mín: BASE BELGRANO II (-24.6°)
+  Diferencia: 58.60°
+
+Fecha: 01092024
+  Estación Máx: CATAMARCA AERO (28.6°)
+  Estación Mín: BASE BELGRANO II (-15.9°)
+  Diferencia: 44.50°
+
+Fecha: 01102024
+  Estación Máx: LAS LOMITAS (41.4°)
+  Estación Mín: BASE MARAMBIO (-21.6°)
+  Diferencia: 63.00°
+
+Fecha: 01112024
+  Estación Máx: SAN JUAN AERO (39.7°)
+  Estación Mín: BASE BELGRANO II (-11.9°)
+  Diferencia: 51.60°
+
+Fecha: 01122024
+  Estación Máx: RIVADAVIA (42.0°)
+  Estación Mín: BASE BELGRANO II (-8.8°)
+  Diferencia: 50.80°
+
+Fecha: 02012025
+  Estación Máx: LA RIOJA AERO (38.5°)
+  Estación Mín: BASE BELGRANO II (-5.6°)
+  Diferencia: 44.10°
+
+Fecha: 02022025
+  Estación Máx: RIVADAVIA (42.5°)
+  Estación Mín: BASE BELGRANO II (-6.7°)
+  Diferencia: 49.20°
+
+Fecha: 02032025
+  Estación Máx: RESISTENCIA AERO (41.8°)
+  Estación Mín: BASE BELGRANO II (-9.2°)
+  Diferencia: 51.00°
+
+Fecha: 02042025
+  Estación Máx: IGUAZU AERO (30.0°)
+  Estación Mín: BASE BELGRANO II (-23.6°)
+  Diferencia: 53.60°
+
+Fecha: 02052025
+  Estación Máx: SUNCHALES AERO (30.0°)
+  Estación Mín: BASE BELGRANO II (-18.1°)
+  Diferencia: 48.10°
+
+Fecha: 02062025
+  Estación Máx: TINOGASTA (24.0°)
+  Estación Mín: BASE BELGRANO II (-22.9°)
+  Diferencia: 46.90°
+
+Fecha: 02072025
+  Estación Máx: SANTIAGO DEL ESTERO AERO (17.6°)
+  Estación Mín: BASE BELGRANO II (-31.1°)
+  Diferencia: 48.70°
+
+Fecha: 02082025
+  Estación Máx: RIVADAVIA (32.0°)
+  Estación Mín: BASE BELGRANO II (-32.6°)
+  Diferencia: 64.60°
+
+Fecha: 02092024
+  Estación Máx: SAN JUAN AERO (38.2°)
+  Estación Mín: BASE BELGRANO II (-16.8°)
+  Diferencia: 55.00°
+
+Fecha: 02102024
+  Estación Máx: RIVADAVIA (33.0°)
+  Estación Mín: BASE BELGRANO II (-22.4°)
+  Diferencia: 55.40°
+
+Fecha: 02112024
+  Estación Máx: RIVADAVIA (36.5°)
+  Estación Mín: BASE MARAMBIO (-13.7°)
+  Diferencia: 50.20°
+
+Fecha: 02122024
+  Estación Máx: RIVADAVIA (36.5°)
+  Estación Mín: BASE BELGRANO II (-8.6°)
+  Diferencia: 45.10°
+
+Fecha: 03012025
+  Estación Máx: SAN JUAN AERO (37.5°)
+  Estación Mín: BASE BELGRANO II (-7.1°)
+  Diferencia: 44.60°
+
+Fecha: 03022025
+  Estación Máx: RIVADAVIA (44.0°)
+  Estación Mín: BASE MARAMBIO (-7.2°)
+  Diferencia: 51.20°
+
+Fecha: 03032025
+  Estación Máx: RESISTENCIA AERO (43.3°)
+  Estación Mín: BASE BELGRANO II (-8.1°)
+  Diferencia: 51.40°
+
+Fecha: 03042025
+  Estación Máx: IGUAZU AERO (29.7°)
+  Estación Mín: BASE BELGRANO II (-21.6°)
+  Diferencia: 51.30°
+
+Fecha: 03052025
+  Estación Máx: POSADAS AERO (29.8°)
+  Estación Mín: BASE BELGRANO II (-16.5°)
+  Diferencia: 46.30°
+
+Fecha: 03062025
+  Estación Máx: LAS LOMITAS (25.5°)
+  Estación Mín: BASE BELGRANO II (-24.1°)
+  Diferencia: 49.60°
+
+Fecha: 03072025
+  Estación Máx: TINOGASTA (22.5°)
+  Estación Mín: BASE BELGRANO II (-26.6°)
+  Diferencia: 49.10°
+
+Fecha: 03082025
+  Estación Máx: IGUAZU AERO (29.0°)
+  Estación Mín: BASE BELGRANO II (-29.1°)
+  Diferencia: 58.10°
+
+Fecha: 03092024
+  Estación Máx: IGUAZU AERO (33.9°)
+  Estación Mín: BASE BELGRANO II (-15.6°)
+  Diferencia: 49.50°
+
+Fecha: 03102024
+  Estación Máx: RIVADAVIA (33.5°)
+  Estación Mín: BASE BELGRANO II (-22.7°)
+  Diferencia: 56.20°
+
+Fecha: 03112024
+  Estación Máx: RIVADAVIA (33.0°)
+  Estación Mín: BASE BELGRANO II (-14.0°)
+  Diferencia: 47.00°
+
+Fecha: 03122024
+  Estación Máx: LA RIOJA AERO (32.0°)
+  Estación Mín: BASE MARAMBIO (-8.0°)
+  Diferencia: 40.00°
+
+Fecha: 04012025
+  Estación Máx: SAN JUAN AERO (41.5°)
+  Estación Mín: BASE BELGRANO II (-4.0°)
+  Diferencia: 45.50°
+
+Fecha: 04022025
+  Estación Máx: RIVADAVIA (46.5°)
+  Estación Mín: BASE BELGRANO II (-8.2°)
+  Diferencia: 54.70°
+
+Fecha: 04032025
+  Estación Máx: RESISTENCIA AERO (42.5°)
+  Estación Mín: BASE BELGRANO II (-8.1°)
+  Diferencia: 50.60°
+
+Fecha: 04042025
+  Estación Máx: RIVADAVIA (25.5°)
+  Estación Mín: BASE BELGRANO II (-23.4°)
+  Diferencia: 48.90°
+
+Fecha: 04052025
+  Estación Máx: POSADAS AERO (31.7°)
+  Estación Mín: BASE BELGRANO II (-11.6°)
+  Diferencia: 43.30°
+
+Fecha: 04062025
+  Estación Máx: FORMOSA AERO (30.1°)
+  Estación Mín: BASE BELGRANO II (-30.6°)
+  Diferencia: 60.70°
+
+Fecha: 04072025
+  Estación Máx: RIVADAVIA (26.0°)
+  Estación Mín: BASE BELGRANO II (-23.6°)
+  Diferencia: 49.60°
+
+Fecha: 04082025
+  Estación Máx: ORAN AERO (24.8°)
+  Estación Mín: BASE BELGRANO II (-26.6°)
+  Diferencia: 51.40°
+
+Fecha: 04092024
+  Estación Máx: RIVADAVIA (29.5°)
+  Estación Mín: BASE MARAMBIO (-17.3°)
+  Diferencia: 46.80°
+
+Fecha: 04102024
+  Estación Máx: RIVADAVIA (36.0°)
+  Estación Mín: BASE BELGRANO II (-27.7°)
+  Diferencia: 63.70°
+
+Fecha: 04112024
+  Estación Máx: CORRIENTES AERO (35.9°)
+  Estación Mín: BASE BELGRANO II (-9.6°)
+  Diferencia: 45.50°
+
+Fecha: 04122024
+  Estación Máx: SAN JUAN AERO (36.0°)
+  Estación Mín: BASE BELGRANO II (-8.6°)
+  Diferencia: 44.60°
+
+Fecha: 05012025
+  Estación Máx: SANTIAGO DEL ESTERO AERO (40.2°)
+  Estación Mín: BASE SAN MARTIN (-2.8°)
+  Diferencia: 43.00°
+
+Fecha: 05022025
+  Estación Máx: RIVADAVIA (45.0°)
+  Estación Mín: BASE BELGRANO II (-8.6°)
+  Diferencia: 53.60°
+
+Fecha: 05032025
+  Estación Máx: RESISTENCIA AERO (42.0°)
+  Estación Mín: BASE BELGRANO II (-9.6°)
+  Diferencia: 51.60°
+
+Fecha: 05042025
+  Estación Máx: ITUZAINGO (26.6°)
+  Estación Mín: BASE BELGRANO II (-24.2°)
+  Diferencia: 50.80°
+
+Fecha: 05052025
+  Estación Máx: PRESIDENCIA ROQUE SAENZ PEÑA AERO (31.7°)
+  Estación Mín: BASE BELGRANO II (-17.0°)
+  Diferencia: 48.70°
+
+Fecha: 05062025
+  Estación Máx: FORMOSA AERO (26.0°)
+  Estación Mín: BASE BELGRANO II (-31.1°)
+  Diferencia: 57.10°
+
+Fecha: 05072025
+  Estación Máx: RIVADAVIA (28.5°)
+  Estación Mín: BASE BELGRANO II (-21.6°)
+  Diferencia: 50.10°
+
+Fecha: 05082025
+  Estación Máx: RIVADAVIA (24.0°)
+  Estación Mín: BASE BELGRANO II (-30.9°)
+  Diferencia: 54.90°
+
+Fecha: 05092024
+  Estación Máx: ORAN AERO (29.2°)
+  Estación Mín: BASE MARAMBIO (-20.4°)
+  Diferencia: 49.60°
+
+Fecha: 05102024
+  Estación Máx: RIVADAVIA (40.5°)
+  Estación Mín: BASE BELGRANO II (-29.1°)
+  Diferencia: 69.60°
+
+Fecha: 05112024
+  Estación Máx: OBERA (35.0°)
+  Estación Mín: BASE BELGRANO II (-11.7°)
+  Diferencia: 46.70°
+
+Fecha: 05122024
+  Estación Máx: LA RIOJA AERO (39.5°)
+  Estación Mín: BASE BELGRANO II (-7.3°)
+  Diferencia: 46.80°
+
+Fecha: 06012025
+  Estación Máx: RIVADAVIA (41.5°)
+  Estación Mín: BASE BELGRANO II (-4.8°)
+  Diferencia: 46.30°
+
+Fecha: 06022025
+  Estación Máx: LAS LOMITAS (42.5°)
+  Estación Mín: BASE BELGRANO II (-7.6°)
+  Diferencia: 50.10°
+
+Fecha: 06032025
+  Estación Máx: SANTIAGO DEL ESTERO AERO (40.2°)
+  Estación Mín: BASE BELGRANO II (-11.3°)
+  Diferencia: 51.50°
+
+Fecha: 06042025
+  Estación Máx: TRELEW AERO (29.6°)
+  Estación Mín: BASE BELGRANO II (-20.7°)
+  Diferencia: 50.30°
+
+Fecha: 06052025
+  Estación Máx: CATAMARCA AERO (30.6°)
+  Estación Mín: BASE BELGRANO II (-17.3°)
+  Diferencia: 47.90°
+
+Fecha: 06062025
+  Estación Máx: OBERA (25.0°)
+  Estación Mín: BASE BELGRANO II (-31.2°)
+  Diferencia: 56.20°
+
+Fecha: 06072025
+  Estación Máx: RIVADAVIA (29.5°)
+  Estación Mín: BASE BELGRANO II (-17.1°)
+  Diferencia: 46.60°
+
+Fecha: 06082025
+  Estación Máx: RIVADAVIA (27.0°)
+  Estación Mín: BASE BELGRANO II (-23.1°)
+  Diferencia: 50.10°
+
+Fecha: 06092024
+  Estación Máx: RIVADAVIA (33.5°)
+  Estación Mín: BASE MARAMBIO (-20.1°)
+  Diferencia: 53.60°
+
+Fecha: 06102024
+  Estación Máx: RIVADAVIA (41.0°)
+  Estación Mín: BASE BELGRANO II (-34.3°)
+  Diferencia: 75.30°
+
+Fecha: 06112024
+  Estación Máx: FORMOSA AERO (35.4°)
+  Estación Mín: BASE BELGRANO II (-17.5°)
+  Diferencia: 52.90°
+
+Fecha: 06122024
+  Estación Máx: RIVADAVIA (37.5°)
+  Estación Mín: BASE MARAMBIO (-6.3°)
+  Diferencia: 43.80°
+
+Fecha: 07012025
+  Estación Máx: CATAMARCA AERO (39.5°)
+  Estación Mín: BASE BELGRANO II (-3.7°)
+  Diferencia: 43.20°
+
+Fecha: 07022025
+  Estación Máx: CATAMARCA AERO (40.5°)
+  Estación Mín: BASE BELGRANO II (-6.3°)
+  Diferencia: 46.80°
+
+Fecha: 07032025
+  Estación Máx: PRESIDENCIA ROQUE SAENZ PEÑA AERO (40.5°)
+  Estación Mín: BASE BELGRANO II (-11.1°)
+  Diferencia: 51.60°
+
+Fecha: 07042025
+  Estación Máx: IGUAZU AERO (29.4°)
+  Estación Mín: BASE BELGRANO II (-15.7°)
+  Diferencia: 45.10°
+
+Fecha: 07052025
+  Estación Máx: LAS LOMITAS (31.5°)
+  Estación Mín: BASE BELGRANO II (-15.1°)
+  Diferencia: 46.60°
+
+Fecha: 07062025
+  Estación Máx: LA RIOJA AERO (23.0°)
+  Estación Mín: BASE BELGRANO II (-34.4°)
+  Diferencia: 57.40°
+
+Fecha: 07072025
+  Estación Máx: RIVADAVIA (34.0°)
+  Estación Mín: BASE BELGRANO II (-27.0°)
+  Diferencia: 61.00°
+
+Fecha: 07082025
+  Estación Máx: LAS LOMITAS (23.9°)
+  Estación Mín: BASE SAN MARTIN (-21.2°)
+  Diferencia: 45.10°
+
+Fecha: 07092024
+  Estación Máx: LAS LOMITAS (34.4°)
+  Estación Mín: BASE BELGRANO II (-21.1°)
+  Diferencia: 55.50°
+
+Fecha: 07102024
+  Estación Máx: LAS LOMITAS (42.8°)
+  Estación Mín: BASE BELGRANO II (-34.2°)
+  Diferencia: 77.00°
+
+Fecha: 07112024
+  Estación Máx: LAS LOMITAS (32.1°)
+  Estación Mín: BASE BELGRANO II (-18.3°)
+  Diferencia: 50.40°
+
+Fecha: 07122024
+  Estación Máx: RIVADAVIA (33.0°)
+  Estación Mín: BASE BELGRANO II (-6.3°)
+  Diferencia: 39.30°
+
+Fecha: 08012025
+  Estación Máx: RIVADAVIA (41.5°)
+  Estación Mín: BASE BELGRANO II (-4.1°)
+  Diferencia: 45.60°
+
+Fecha: 08022025
+  Estación Máx: LA RIOJA AERO (42.6°)
+  Estación Mín: BASE BELGRANO II (-7.5°)
+  Diferencia: 50.10°
+
+Fecha: 08032025
+  Estación Máx: RESISTENCIA AERO (40.5°)
+  Estación Mín: BASE BELGRANO II (-13.0°)
+  Diferencia: 53.50°
+
+Fecha: 08042025
+  Estación Máx: CATAMARCA AERO (28.0°)
+  Estación Mín: BASE BELGRANO II (-22.3°)
+  Diferencia: 50.30°
+
+Fecha: 08052025
+  Estación Máx: FORMOSA AERO (33.0°)
+  Estación Mín: BASE BELGRANO II (-20.4°)
+  Diferencia: 53.40°
+
+Fecha: 08062025
+  Estación Máx: RIVADAVIA (22.5°)
+  Estación Mín: BASE BELGRANO II (-36.1°)
+  Diferencia: 58.60°
+
+Fecha: 08072025
+  Estación Máx: LAS LOMITAS (30.4°)
+  Estación Mín: BASE BELGRANO II (-27.1°)
+  Diferencia: 57.50°
+
+Fecha: 08082025
+  Estación Máx: CHEPES (22.2°)
+  Estación Mín: BASE BELGRANO II (-17.6°)
+  Diferencia: 39.80°
+
+Fecha: 08092024
+  Estación Máx: IGUAZU AERO (36.3°)
+  Estación Mín: BASE BELGRANO II (-21.7°)
+  Diferencia: 58.00°
+
+Fecha: 08102024
+  Estación Máx: LAS LOMITAS (36.4°)
+  Estación Mín: BASE BELGRANO II (-32.1°)
+  Diferencia: 68.50°
+
+Fecha: 08112024
+  Estación Máx: RIVADAVIA (34.0°)
+  Estación Mín: BASE MARAMBIO (-11.9°)
+  Diferencia: 45.90°
+
+Fecha: 08122024
+  Estación Máx: SAN JUAN AERO (30.5°)
+  Estación Mín: BASE BELGRANO II (-5.7°)
+  Diferencia: 36.20°
+
+Fecha: 09012025
+  Estación Máx: RIVADAVIA (39.5°)
+  Estación Mín: BASE BELGRANO II (-2.9°)
+  Diferencia: 42.40°
+
+Fecha: 09022025
+  Estación Máx: LA RIOJA AERO (44.2°)
+  Estación Mín: BASE BELGRANO II (-8.6°)
+  Diferencia: 52.80°
+
+Fecha: 09032025
+  Estación Máx: IGUAZU AERO (33.6°)
+  Estación Mín: BASE BELGRANO II (-15.4°)
+  Diferencia: 49.00°
+
+Fecha: 09042025
+  Estación Máx: CATAMARCA AERO (29.4°)
+  Estación Mín: BASE BELGRANO II (-15.5°)
+  Diferencia: 44.90°
+
+Fecha: 09052025
+  Estación Máx: IGUAZU AERO (30.2°)
+  Estación Mín: BASE BELGRANO II (-20.1°)
+  Diferencia: 50.30°
+
+Fecha: 09062025
+  Estación Máx: CATAMARCA AERO (22.0°)
+  Estación Mín: BASE BELGRANO II (-28.6°)
+  Diferencia: 50.60°
+
+Fecha: 09072025
+  Estación Máx: TERMAS DE RIO HONDO AERO (29.0°)
+  Estación Mín: BASE BELGRANO II (-22.8°)
+  Diferencia: 51.80°
+
+Fecha: 09082025
+  Estación Máx: VILLA REYNOLDS AERO (23.3°)
+  Estación Mín: BASE MARAMBIO (-18.3°)
+  Diferencia: 41.60°
+
+Fecha: 09092024
+  Estación Máx: IGUAZU AERO (37.3°)
+  Estación Mín: BASE MARAMBIO (-19.1°)
+  Diferencia: 56.40°
+
+Fecha: 09102024
+  Estación Máx: TRELEW AERO (31.3°)
+  Estación Mín: BASE BELGRANO II (-29.7°)
+  Diferencia: 61.00°
+
+Fecha: 09112024
+  Estación Máx: SAN JUAN AERO (37.5°)
+  Estación Mín: BASE BELGRANO II (-11.6°)
+  Diferencia: 49.10°
+
+Fecha: 09122024
+  Estación Máx: CATAMARCA AERO (33.5°)
+  Estación Mín: BASE ORCADAS (-5.6°)
+  Diferencia: 39.10°
+
+Fecha: 10012025
+  Estación Máx: FORMOSA AERO (37.6°)
+  Estación Mín: BASE BELGRANO II (-5.0°)
+  Diferencia: 42.60°
+
+Fecha: 10022025
+  Estación Máx: LA RIOJA AERO (45.0°)
+  Estación Mín: BASE BELGRANO II (-10.6°)
+  Diferencia: 55.60°
+
+Fecha: 10032025
+  Estación Máx: SAN RAFAEL AERO (32.3°)
+  Estación Mín: BASE BELGRANO II (-16.4°)
+  Diferencia: 48.70°
+
+Fecha: 10042025
+  Estación Máx: RIVADAVIA (29.5°)
+  Estación Mín: BASE BELGRANO II (-16.0°)
+  Diferencia: 45.50°
+
+Fecha: 10052025
+  Estación Máx: CATAMARCA AERO (30.0°)
+  Estación Mín: BASE MARAMBIO (-16.6°)
+  Diferencia: 46.60°
+
+Fecha: 10062025
+  Estación Máx: TERMAS DE RIO HONDO AERO (23.8°)
+  Estación Mín: BASE BELGRANO II (-28.6°)
+  Diferencia: 52.40°
+
+Fecha: 10072025
+  Estación Máx: LAS LOMITAS (28.9°)
+  Estación Mín: BASE BELGRANO II (-19.7°)
+  Diferencia: 48.60°
+
+Fecha: 10082025
+  Estación Máx: CATAMARCA AERO (24.0°)
+  Estación Mín: BASE MARAMBIO (-20.3°)
+  Diferencia: 44.30°
+
+Fecha: 10092024
+  Estación Máx: LAS LOMITAS (38.1°)
+  Estación Mín: BASE SAN MARTIN (-23.3°)
+  Diferencia: 61.40°
+
+Fecha: 10102024
+  Estación Máx: NEUQUEN AERO (29.2°)
+  Estación Mín: BASE BELGRANO II (-24.8°)
+  Diferencia: 54.00°
+
+Fecha: 10112024
+  Estación Máx: LAS LOMITAS (41.1°)
+  Estación Mín: BASE BELGRANO II (-14.2°)
+  Diferencia: 55.30°
+
+Fecha: 10122024
+  Estación Máx: SAN JUAN AERO (37.8°)
+  Estación Mín: BASE BELGRANO II (-7.1°)
+  Diferencia: 44.90°
+
+Fecha: 11012025
+  Estación Máx: SANTIAGO DEL ESTERO AERO (37.5°)
+  Estación Mín: BASE BELGRANO II (-5.5°)
+  Diferencia: 43.00°
+
+Fecha: 11022025
+  Estación Máx: RECONQUISTA AERO (43.7°)
+  Estación Mín: BASE BELGRANO II (-7.8°)
+  Diferencia: 51.50°
+
+Fecha: 11032025
+  Estación Máx: RESISTENCIA AERO (35.5°)
+  Estación Mín: BASE BELGRANO II (-19.1°)
+  Diferencia: 54.60°
+
+Fecha: 11042025
+  Estación Máx: CATAMARCA AERO (30.1°)
+  Estación Mín: BASE BELGRANO II (-17.1°)
+  Diferencia: 47.20°
+
+Fecha: 11052025
+  Estación Máx: TERMAS DE RIO HONDO AERO (29.4°)
+  Estación Mín: BASE BELGRANO II (-11.6°)
+  Diferencia: 41.00°
+
+Fecha: 11062025
+  Estación Máx: RIVADAVIA (23.5°)
+  Estación Mín: BASE MARAMBIO (-20.0°)
+  Diferencia: 43.50°
+
+Fecha: 11072025
+  Estación Máx: FORMOSA AERO (25.2°)
+  Estación Mín: BASE BELGRANO II (-15.9°)
+  Diferencia: 41.10°
+
+Fecha: 11082025
+  Estación Máx: RIVADAVIA (26.5°)
+  Estación Mín: BASE MARAMBIO (-22.8°)
+  Diferencia: 49.30°
+
+Fecha: 11092024
+  Estación Máx: LAS LOMITAS (37.1°)
+  Estación Mín: BASE SAN MARTIN (-22.0°)
+  Diferencia: 59.10°
+
+Fecha: 11102024
+  Estación Máx: CATAMARCA AERO (33.4°)
+  Estación Mín: BASE BELGRANO II (-19.3°)
+  Diferencia: 52.70°
+
+Fecha: 11112024
+  Estación Máx: LAS LOMITAS (40.5°)
+  Estación Mín: BASE BELGRANO II (-15.0°)
+  Diferencia: 55.50°
+
+Fecha: 11122024
+  Estación Máx: LA RIOJA AERO (39.0°)
+  Estación Mín: BASE BELGRANO II (-6.4°)
+  Diferencia: 45.40°
+
+Fecha: 12012025
+  Estación Máx: TRELEW AERO (43.6°)
+  Estación Mín: BASE BELGRANO II (-4.9°)
+  Diferencia: 48.50°
+
+Fecha: 12022025
+  Estación Máx: RIVADAVIA (42.0°)
+  Estación Mín: BASE MARAMBIO (-8.4°)
+  Diferencia: 50.40°
+
+Fecha: 12032025
+  Estación Máx: PRESIDENCIA ROQUE SAENZ PEÑA AERO (36.1°)
+  Estación Mín: BASE BELGRANO II (-22.7°)
+  Diferencia: 58.80°
+
+Fecha: 12042025
+  Estación Máx: RESISTENCIA AERO (29.6°)
+  Estación Mín: BASE BELGRANO II (-20.6°)
+  Diferencia: 50.20°
+
+Fecha: 12052025
+  Estación Máx: CATAMARCA AERO (29.0°)
+  Estación Mín: BASE MARAMBIO (-19.2°)
+  Diferencia: 48.20°
+
+Fecha: 12062025
+  Estación Máx: TINOGASTA (31.5°)
+  Estación Mín: BASE ORCADAS (-18.6°)
+  Diferencia: 50.10°
+
+Fecha: 12072025
+  Estación Máx: IGUAZU AERO (27.2°)
+  Estación Mín: BASE BELGRANO II (-20.3°)
+  Diferencia: 47.50°
+
+Fecha: 12082025
+  Estación Máx: JACHAL (30.8°)
+  Estación Mín: BASE MARAMBIO (-27.7°)
+  Diferencia: 58.50°
+
+Fecha: 12092024
+  Estación Máx: BERNARDO DE IRIGOYEN AERO (28.0°)
+  Estación Mín: BASE MARAMBIO (-21.2°)
+  Diferencia: 49.20°
+
+Fecha: 12102024
+  Estación Máx: RIVADAVIA (36.0°)
+  Estación Mín: BASE BELGRANO II (-23.2°)
+  Diferencia: 59.20°
+
+Fecha: 12112024
+  Estación Máx: LA RIOJA AERO (33.0°)
+  Estación Mín: BASE BELGRANO II (-17.7°)
+  Diferencia: 50.70°
+
+Fecha: 12122024
+  Estación Máx: LA RIOJA AERO (40.1°)
+  Estación Mín: BASE BELGRANO II (-7.9°)
+  Diferencia: 48.00°
+
+Fecha: 13012025
+  Estación Máx: LA RIOJA AERO (40.0°)
+  Estación Mín: BASE BELGRANO II (-3.9°)
+  Diferencia: 43.90°
+
+Fecha: 13022025
+  Estación Máx: LAS LOMITAS (39.4°)
+  Estación Mín: BASE BELGRANO II (-7.6°)
+  Diferencia: 47.00°
+
+Fecha: 13032025
+  Estación Máx: IGUAZU AERO (31.8°)
+  Estación Mín: BASE BELGRANO II (-18.1°)
+  Diferencia: 49.90°
+
+Fecha: 13042025
+  Estación Máx: RIVADAVIA (29.5°)
+  Estación Mín: BASE BELGRANO II (-25.1°)
+  Diferencia: 54.60°
+
+Fecha: 13052025
+  Estación Máx: RIVADAVIA (30.0°)
+  Estación Mín: BASE MARAMBIO (-18.9°)
+  Diferencia: 48.90°
+
+Fecha: 13062025
+  Estación Máx: FORMOSA AERO (24.6°)
+  Estación Mín: BASE BELGRANO II (-23.3°)
+  Diferencia: 47.90°
+
+Fecha: 13072025
+  Estación Máx: POSADAS AERO (27.2°)
+  Estación Mín: BASE BELGRANO II (-21.6°)
+  Diferencia: 48.80°
+
+Fecha: 13082025
+  Estación Máx: LAS LOMITAS (29.0°)
+  Estación Mín: BASE MARAMBIO (-26.6°)
+  Diferencia: 55.60°
+
+Fecha: 13092024
+  Estación Máx: RIVADAVIA (33.0°)
+  Estación Mín: BASE MARAMBIO (-20.2°)
+  Diferencia: 53.20°
+
+Fecha: 13102024
+  Estación Máx: RIVADAVIA (36.5°)
+  Estación Mín: BASE BELGRANO II (-21.6°)
+  Diferencia: 58.10°
+
+Fecha: 13112024
+  Estación Máx: CATAMARCA AERO (37.0°)
+  Estación Mín: BASE BELGRANO II (-12.6°)
+  Diferencia: 49.60°
+
+Fecha: 13122024
+  Estación Máx: LA RIOJA AERO (37.0°)
+  Estación Mín: BASE BELGRANO II (-7.5°)
+  Diferencia: 44.50°
+
+Fecha: 14012025
+  Estación Máx: LA RIOJA AERO (41.2°)
+  Estación Mín: BASE BELGRANO II (-3.6°)
+  Diferencia: 44.80°
+
+Fecha: 14022025
+  Estación Máx: LA RIOJA AERO (39.8°)
+  Estación Mín: BASE BELGRANO II (-9.6°)
+  Diferencia: 49.40°
+
+Fecha: 14032025
+  Estación Máx: PRESIDENCIA ROQUE SAENZ PEÑA AERO (31.6°)
+  Estación Mín: BASE BELGRANO II (-14.5°)
+  Diferencia: 46.10°
+
+Fecha: 14042025
+  Estación Máx: SANTIAGO DEL ESTERO AERO (29.2°)
+  Estación Mín: BASE BELGRANO II (-22.1°)
+  Diferencia: 51.30°
+
+Fecha: 14052025
+  Estación Máx: FORMOSA AERO (31.4°)
+  Estación Mín: BASE MARAMBIO (-19.2°)
+  Diferencia: 50.60°
+
+Fecha: 14062025
+  Estación Máx: LAS LOMITAS (21.4°)
+  Estación Mín: BASE BELGRANO II (-27.1°)
+  Diferencia: 48.50°
+
+Fecha: 14072025
+  Estación Máx: LAS LOMITAS (31.0°)
+  Estación Mín: BASE BELGRANO II (-22.1°)
+  Diferencia: 53.10°
+
+Fecha: 14082025
+  Estación Máx: LAS LOMITAS (25.5°)
+  Estación Mín: BASE MARAMBIO (-23.7°)
+  Diferencia: 49.20°
+
+Fecha: 14092024
+  Estación Máx: RIVADAVIA (27.5°)
+  Estación Mín: BASE BELGRANO II (-19.5°)
+  Diferencia: 47.00°
+
+Fecha: 14102024
+  Estación Máx: RIVADAVIA (37.0°)
+  Estación Mín: BASE BELGRANO II (-17.9°)
+  Diferencia: 54.90°
+
+Fecha: 14112024
+  Estación Máx: LA RIOJA AERO (38.8°)
+  Estación Mín: BASE BELGRANO II (-11.6°)
+  Diferencia: 50.40°
+
+Fecha: 14122024
+  Estación Máx: CATAMARCA AERO (36.5°)
+  Estación Mín: BASE BELGRANO II (-9.1°)
+  Diferencia: 45.60°
+
+Fecha: 15012025
+  Estación Máx: RIVADAVIA (43.5°)
+  Estación Mín: BASE BELGRANO II (-2.4°)
+  Diferencia: 45.90°
+
+Fecha: 15022025
+  Estación Máx: RIVADAVIA (41.0°)
+  Estación Mín: BASE BELGRANO II (-10.1°)
+  Diferencia: 51.10°
+
+Fecha: 15032025
+  Estación Máx: PRESIDENCIA ROQUE SAENZ PEÑA AERO (33.0°)
+  Estación Mín: BASE BELGRANO II (-9.4°)
+  Diferencia: 42.40°
+
+Fecha: 15042025
+  Estación Máx: LAS LOMITAS (31.2°)
+  Estación Mín: BASE BELGRANO II (-22.7°)
+  Diferencia: 53.90°
+
+Fecha: 15052025
+  Estación Máx: SANTIAGO DEL ESTERO AERO (31.8°)
+  Estación Mín: BASE BELGRANO II (-19.5°)
+  Diferencia: 51.30°
+
+Fecha: 15062025
+  Estación Máx: JACHAL (28.6°)
+  Estación Mín: BASE BELGRANO II (-26.1°)
+  Diferencia: 54.70°
+
+Fecha: 15072025
+  Estación Máx: RIVADAVIA (34.0°)
+  Estación Mín: BASE BELGRANO II (-19.1°)
+  Diferencia: 53.10°
+
+Fecha: 15082025
+  Estación Máx: RIVADAVIA (28.0°)
+  Estación Mín: BASE BELGRANO II (-21.6°)
+  Diferencia: 49.60°
+
+Fecha: 15092024
+  Estación Máx: RIVADAVIA (32.0°)
+  Estación Mín: BASE BELGRANO II (-19.4°)
+  Diferencia: 51.40°
+
+Fecha: 15102024
+  Estación Máx: LAS LOMITAS (36.8°)
+  Estación Mín: BASE MARAMBIO (-16.0°)
+  Diferencia: 52.80°
+
+Fecha: 15112024
+  Estación Máx: SAN JUAN AERO (39.7°)
+  Estación Mín: BASE BELGRANO II (-12.6°)
+  Diferencia: 52.30°
+
+Fecha: 15122024
+  Estación Máx: LA RIOJA AERO (38.0°)
+  Estación Mín: BASE BELGRANO II (-7.3°)
+  Diferencia: 45.30°
+
+Fecha: 16012025
+  Estación Máx: RIVADAVIA (44.5°)
+  Estación Mín: BASE BELGRANO II (-3.4°)
+  Diferencia: 47.90°
+
+Fecha: 16022025
+  Estación Máx: RESISTENCIA AERO (40.8°)
+  Estación Mín: BASE BELGRANO II (-12.1°)
+  Diferencia: 52.90°
+
+Fecha: 16032025
+  Estación Máx: PRESIDENCIA ROQUE SAENZ PEÑA AERO (35.0°)
+  Estación Mín: BASE BELGRANO II (-14.7°)
+  Diferencia: 49.70°
+
+Fecha: 16042025
+  Estación Máx: RIVADAVIA (32.0°)
+  Estación Mín: BASE BELGRANO II (-23.6°)
+  Diferencia: 55.60°
+
+Fecha: 16052025
+  Estación Máx: CERES AERO (33.3°)
+  Estación Mín: BASE BELGRANO II (-19.1°)
+  Diferencia: 52.40°
+
+Fecha: 16062025
+  Estación Máx: TINOGASTA (28.0°)
+  Estación Mín: BASE BELGRANO II (-26.9°)
+  Diferencia: 54.90°
+
+Fecha: 16072025
+  Estación Máx: FORMOSA AERO (29.0°)
+  Estación Mín: BASE BELGRANO II (-21.4°)
+  Diferencia: 50.40°
+
+Fecha: 16082025
+  Estación Máx: LAS LOMITAS (30.4°)
+  Estación Mín: BASE BELGRANO II (-24.0°)
+  Diferencia: 54.40°
+
+Fecha: 16092024
+  Estación Máx: RIVADAVIA (32.5°)
+  Estación Mín: BASE MARAMBIO (-19.3°)
+  Diferencia: 51.80°
+
+Fecha: 16102024
+  Estación Máx: TINOGASTA (35.0°)
+  Estación Mín: BASE MARAMBIO (-17.0°)
+  Diferencia: 52.00°
+
+Fecha: 16112024
+  Estación Máx: LAS LOMITAS (42.7°)
+  Estación Mín: BASE BELGRANO II (-10.4°)
+  Diferencia: 53.10°
+
+Fecha: 16122024
+  Estación Máx: LA RIOJA AERO (37.0°)
+  Estación Mín: BASE BELGRANO II (-5.6°)
+  Diferencia: 42.60°
+
+Fecha: 17012025
+  Estación Máx: RIVADAVIA (42.5°)
+  Estación Mín: BASE BELGRANO II (-4.4°)
+  Diferencia: 46.90°
+
+Fecha: 17022025
+  Estación Máx: LAS LOMITAS (40.4°)
+  Estación Mín: BASE BELGRANO II (-10.3°)
+  Diferencia: 50.70°
+
+Fecha: 17032025
+  Estación Máx: CATAMARCA AERO (33.6°)
+  Estación Mín: BASE BELGRANO II (-15.1°)
+  Diferencia: 48.70°
+
+Fecha: 17042025
+  Estación Máx: RESISTENCIA AERO (33.1°)
+  Estación Mín: BASE BELGRANO II (-24.1°)
+  Diferencia: 57.20°
+
+Fecha: 17052025
+  Estación Máx: SAN JUAN AERO (34.0°)
+  Estación Mín: BASE MARAMBIO (-19.2°)
+  Diferencia: 53.20°
+
+Fecha: 17062025
+  Estación Máx: IGUAZU AERO (27.4°)
+  Estación Mín: BASE BELGRANO II (-26.6°)
+  Diferencia: 54.00°
+
+Fecha: 17072025
+  Estación Máx: CATAMARCA AERO (24.5°)
+  Estación Mín: BASE BELGRANO II (-19.6°)
+  Diferencia: 44.10°
+
+Fecha: 17082025
+  Estación Máx: LAS LOMITAS (30.4°)
+  Estación Mín: BASE BELGRANO II (-30.3°)
+  Diferencia: 60.70°
+
+Fecha: 17092024
+  Estación Máx: CATAMARCA AERO (35.0°)
+  Estación Mín: BASE MARAMBIO (-20.2°)
+  Diferencia: 55.20°
+
+Fecha: 17102024
+  Estación Máx: RIVADAVIA (40.0°)
+  Estación Mín: BASE MARAMBIO (-18.7°)
+  Diferencia: 58.70°
+
+Fecha: 17112024
+  Estación Máx: LAS LOMITAS (41.4°)
+  Estación Mín: BASE BELGRANO II (-11.0°)
+  Diferencia: 52.40°
+
+Fecha: 17122024
+  Estación Máx: LA RIOJA AERO (38.5°)
+  Estación Mín: BASE BELGRANO II (-5.5°)
+  Diferencia: 44.00°
+
+Fecha: 18012025
+  Estación Máx: RIVADAVIA (43.0°)
+  Estación Mín: BASE MARAMBIO (-4.6°)
+  Diferencia: 47.60°
+
+Fecha: 18022025
+  Estación Máx: NEUQUEN AERO (33.9°)
+  Estación Mín: BASE BELGRANO II (-11.3°)
+  Diferencia: 45.20°
+
+Fecha: 18032025
+  Estación Máx: RESISTENCIA AERO (36.3°)
+  Estación Mín: BASE BELGRANO II (-12.9°)
+  Diferencia: 49.20°
+
+Fecha: 18042025
+  Estación Máx: RESISTENCIA AERO (33.5°)
+  Estación Mín: BASE BELGRANO II (-22.0°)
+  Diferencia: 55.50°
+
+Fecha: 18052025
+  Estación Máx: RIVADAVIA (29.5°)
+  Estación Mín: BASE MARAMBIO (-26.3°)
+  Diferencia: 55.80°
+
+Fecha: 18062025
+  Estación Máx: IGUAZU AERO (27.6°)
+  Estación Mín: BASE BELGRANO II (-20.6°)
+  Diferencia: 48.20°
+
+Fecha: 18072025
+  Estación Máx: VILLA REYNOLDS AERO (27.2°)
+  Estación Mín: BASE BELGRANO II (-21.0°)
+  Diferencia: 48.20°
+
+Fecha: 18082024
+  Estación Máx: LAS LOMITAS (36.8°)
+  Estación Mín: BASE BELGRANO II (-32.7°)
+  Diferencia: 69.50°
+
+Fecha: 18092024
+  Estación Máx: RIVADAVIA (38.5°)
+  Estación Mín: BASE MARAMBIO (-21.1°)
+  Diferencia: 59.60°
+
+Fecha: 18102024
+  Estación Máx: RIVADAVIA (34.5°)
+  Estación Mín: BASE MARAMBIO (-16.7°)
+  Diferencia: 51.20°
+
+Fecha: 18112024
+  Estación Máx: POSADAS AERO (34.2°)
+  Estación Mín: BASE BELGRANO II (-12.6°)
+  Diferencia: 46.80°
+
+Fecha: 18122024
+  Estación Máx: LAS LOMITAS (38.0°)
+  Estación Mín: BASE BELGRANO II (-5.6°)
+  Diferencia: 43.60°
+
+Fecha: 19012025
+  Estación Máx: FORMOSA AERO (38.4°)
+  Estación Mín: BASE BELGRANO II (-3.8°)
+  Diferencia: 42.20°
+
+Fecha: 19022025
+  Estación Máx: BAHIA BLANCA AERO (37.7°)
+  Estación Mín: BASE BELGRANO II (-11.1°)
+  Diferencia: 48.80°
+
+Fecha: 19032025
+  Estación Máx: SANTIAGO DEL ESTERO AERO (36.0°)
+  Estación Mín: BASE BELGRANO II (-9.3°)
+  Diferencia: 45.30°
+
+Fecha: 19042025
+  Estación Máx: ITUZAINGO (30.4°)
+  Estación Mín: BASE BELGRANO II (-28.1°)
+  Diferencia: 58.50°
+
+Fecha: 19052025
+  Estación Máx: IGUAZU AERO (29.1°)
+  Estación Mín: BASE MARAMBIO (-24.8°)
+  Diferencia: 53.90°
+
+Fecha: 19062025
+  Estación Máx: IGUAZU AERO (22.5°)
+  Estación Mín: BASE BELGRANO II (-23.9°)
+  Diferencia: 46.40°
+
+Fecha: 19072025
+  Estación Máx: RIVADAVIA (26.5°)
+  Estación Mín: BASE BELGRANO II (-23.6°)
+  Diferencia: 50.10°
+
+Fecha: 19082024
+  Estación Máx: IGUAZU AERO (33.4°)
+  Estación Mín: BASE BELGRANO II (-31.2°)
+  Diferencia: 64.60°
+
+Fecha: 19092024
+  Estación Máx: LAS LOMITAS (41.8°)
+  Estación Mín: BASE MARAMBIO (-23.2°)
+  Diferencia: 65.00°
+
+Fecha: 19102024
+  Estación Máx: SAN JUAN AERO (36.3°)
+  Estación Mín: BASE BELGRANO II (-13.7°)
+  Diferencia: 50.00°
+
+Fecha: 19112024
+  Estación Máx: IGUAZU AERO (33.8°)
+  Estación Mín: BASE BELGRANO II (-14.0°)
+  Diferencia: 47.80°
+
+Fecha: 19122024
+  Estación Máx: CATAMARCA AERO (37.5°)
+  Estación Mín: BASE BELGRANO II (-6.7°)
+  Diferencia: 44.20°
+
+Fecha: 20012025
+  Estación Máx: NEUQUEN AERO (36.7°)
+  Estación Mín: BASE MARAMBIO (-4.2°)
+  Diferencia: 40.90°
+
+Fecha: 20022025
+  Estación Máx: LA RIOJA AERO (37.6°)
+  Estación Mín: BASE BELGRANO II (-13.5°)
+  Diferencia: 51.10°
+
+Fecha: 20032025
+  Estación Máx: RESISTENCIA AERO (36.6°)
+  Estación Mín: BASE BELGRANO II (-10.6°)
+  Diferencia: 47.20°
+
+Fecha: 20042025
+  Estación Máx: LAS LOMITAS (28.3°)
+  Estación Mín: BASE BELGRANO II (-29.1°)
+  Diferencia: 57.40°
+
+Fecha: 20052025
+  Estación Máx: OBERA (28.0°)
+  Estación Mín: BASE BELGRANO II (-18.1°)
+  Diferencia: 46.10°
+
+Fecha: 20062025
+  Estación Máx: RIVADAVIA (23.0°)
+  Estación Mín: BASE BELGRANO II (-21.9°)
+  Diferencia: 44.90°
+
+Fecha: 20072025
+  Estación Máx: RIVADAVIA (30.5°)
+  Estación Mín: BASE BELGRANO II (-24.4°)
+  Diferencia: 54.90°
+
+Fecha: 20082024
+  Estación Máx: IGUAZU AERO (34.8°)
+  Estación Mín: BASE BELGRANO II (-25.1°)
+  Diferencia: 59.90°
+
+Fecha: 20092024
+  Estación Máx: RIVADAVIA (39.8°)
+  Estación Mín: BASE MARAMBIO (-24.7°)
+  Diferencia: 64.50°
+
+Fecha: 20102024
+  Estación Máx: SAN JUAN AERO (41.0°)
+  Estación Mín: BASE BELGRANO II (-15.6°)
+  Diferencia: 56.60°
+
+Fecha: 20112024
+  Estación Máx: IGUAZU AERO (32.6°)
+  Estación Mín: BASE BELGRANO II (-14.7°)
+  Diferencia: 47.30°
+
+Fecha: 20122024
+  Estación Máx: LA RIOJA AERO (41.0°)
+  Estación Mín: BASE BELGRANO II (-7.6°)
+  Diferencia: 48.60°
+
+Fecha: 21012025
+  Estación Máx: RIVADAVIA (40.5°)
+  Estación Mín: BASE BELGRANO II (-4.3°)
+  Diferencia: 44.80°
+
+Fecha: 21022025
+  Estación Máx: SAN JUAN AERO (40.3°)
+  Estación Mín: BASE BELGRANO II (-6.6°)
+  Diferencia: 46.90°
+
+Fecha: 21032025
+  Estación Máx: FORMOSA AERO (37.5°)
+  Estación Mín: BASE BELGRANO II (-9.6°)
+  Diferencia: 47.10°
+
+Fecha: 21042025
+  Estación Máx: FORMOSA AERO (27.3°)
+  Estación Mín: BASE BELGRANO II (-30.2°)
+  Diferencia: 57.50°
+
+Fecha: 21052025
+  Estación Máx: IGUAZU AERO (27.6°)
+  Estación Mín: BASE BELGRANO II (-22.3°)
+  Diferencia: 49.90°
+
+Fecha: 21062025
+  Estación Máx: VILLA DE MARIA DEL RIO SECO (22.2°)
+  Estación Mín: BASE BELGRANO II (-17.1°)
+  Diferencia: 39.30°
+
+Fecha: 21072025
+  Estación Máx: LAS LOMITAS (31.6°)
+  Estación Mín: BASE BELGRANO II (-25.1°)
+  Diferencia: 56.70°
+
+Fecha: 21082024
+  Estación Máx: IGUAZU AERO (33.8°)
+  Estación Mín: BASE BELGRANO II (-27.6°)
+  Diferencia: 61.40°
+
+Fecha: 21092024
+  Estación Máx: ORAN AERO (36.7°)
+  Estación Mín: BASE MARAMBIO (-25.0°)
+  Diferencia: 61.70°
+
+Fecha: 21102024
+  Estación Máx: RIVADAVIA (39.0°)
+  Estación Mín: BASE BELGRANO II (-16.1°)
+  Diferencia: 55.10°
+
+Fecha: 21112024
+  Estación Máx: NEUQUEN AERO (34.3°)
+  Estación Mín: BASE BELGRANO II (-11.9°)
+  Diferencia: 46.20°
+
+Fecha: 21122024
+  Estación Máx: ORAN AERO (37.0°)
+  Estación Mín: BASE BELGRANO II (-7.6°)
+  Diferencia: 44.60°
+
+Fecha: 22012025
+  Estación Máx: LAS LOMITAS (40.5°)
+  Estación Mín: BASE ORCADAS (-2.6°)
+  Diferencia: 43.10°
+
+Fecha: 22022025
+  Estación Máx: SAN JUAN AERO (42.4°)
+  Estación Mín: BASE BELGRANO II (-8.1°)
+  Diferencia: 50.50°
+
+Fecha: 22032025
+  Estación Máx: CATAMARCA AERO (34.9°)
+  Estación Mín: BASE BELGRANO II (-5.7°)
+  Diferencia: 40.60°
+
+Fecha: 22042025
+  Estación Máx: CERES AERO (29.3°)
+  Estación Mín: BASE BELGRANO II (-19.7°)
+  Diferencia: 49.00°
+
+Fecha: 22052025
+  Estación Máx: OBERA (23.8°)
+  Estación Mín: BASE BELGRANO II (-34.6°)
+  Diferencia: 58.40°
+
+Fecha: 22062025
+  Estación Máx: IGUAZU AERO (23.6°)
+  Estación Mín: BASE BELGRANO II (-17.6°)
+  Diferencia: 41.20°
+
+Fecha: 22072025
+  Estación Máx: RIVADAVIA (34.5°)
+  Estación Mín: BASE BELGRANO II (-22.4°)
+  Diferencia: 56.90°
+
+Fecha: 22082024
+  Estación Máx: BERNARDO DE IRIGOYEN AERO (25.5°)
+  Estación Mín: BASE BELGRANO II (-27.2°)
+  Diferencia: 52.70°
+
+Fecha: 22092024
+  Estación Máx: RIVADAVIA (43.5°)
+  Estación Mín: BASE MARAMBIO (-26.6°)
+  Diferencia: 70.10°
+
+Fecha: 22102024
+  Estación Máx: RIVADAVIA (40.0°)
+  Estación Mín: BASE BELGRANO II (-18.4°)
+  Diferencia: 58.40°
+
+Fecha: 22112024
+  Estación Máx: SAN JUAN AERO (36.5°)
+  Estación Mín: BASE BELGRANO II (-16.1°)
+  Diferencia: 52.60°
+
+Fecha: 22122024
+  Estación Máx: SAN JUAN AERO (36.9°)
+  Estación Mín: BASE BELGRANO II (-9.3°)
+  Diferencia: 46.20°
+
+Fecha: 23012025
+  Estación Máx: PASO DE LOS LIBRES AERO (40.3°)
+  Estación Mín: BASE BELGRANO II (-4.2°)
+  Diferencia: 44.50°
+
+Fecha: 23022025
+  Estación Máx: LA RIOJA AERO (42.5°)
+  Estación Mín: BASE BELGRANO II (-7.1°)
+  Diferencia: 49.60°
+
+Fecha: 23032025
+  Estación Máx: ITUZAINGO (35.0°)
+  Estación Mín: BASE BELGRANO II (-9.6°)
+  Diferencia: 44.60°
+
+Fecha: 23042025
+  Estación Máx: RESISTENCIA AERO (32.5°)
+  Estación Mín: BASE BELGRANO II (-10.1°)
+  Diferencia: 42.60°
+
+Fecha: 23052025
+  Estación Máx: CATAMARCA AERO (26.5°)
+  Estación Mín: BASE BELGRANO II (-32.3°)
+  Diferencia: 58.80°
+
+Fecha: 23062025
+  Estación Máx: IGUAZU AERO (20.0°)
+  Estación Mín: BASE BELGRANO II (-12.5°)
+  Diferencia: 32.50°
+
+Fecha: 23072025
+  Estación Máx: IGUAZU AERO (28.4°)
+  Estación Mín: BASE MARAMBIO (-20.5°)
+  Diferencia: 48.90°
+
+Fecha: 23082024
+  Estación Máx: RIVADAVIA (22.5°)
+  Estación Mín: BASE BELGRANO II (-27.8°)
+  Diferencia: 50.30°
+
+Fecha: 23092024
+  Estación Máx: LAS LOMITAS (42.0°)
+  Estación Mín: BASE MARAMBIO (-26.4°)
+  Diferencia: 68.40°
+
+Fecha: 23102024
+  Estación Máx: RIVADAVIA (41.5°)
+  Estación Mín: BASE MARAMBIO (-14.7°)
+  Diferencia: 56.20°
+
+Fecha: 23112024
+  Estación Máx: LAS LOMITAS (38.4°)
+  Estación Mín: BASE BELGRANO II (-14.7°)
+  Diferencia: 53.10°
+
+Fecha: 23122024
+  Estación Máx: LA RIOJA AERO (40.0°)
+  Estación Mín: BASE BELGRANO II (-8.9°)
+  Diferencia: 48.90°
+
+Fecha: 24012025
+  Estación Máx: LAS LOMITAS (40.0°)
+  Estación Mín: BASE BELGRANO II (-4.1°)
+  Diferencia: 44.10°
+
+Fecha: 24022025
+  Estación Máx: LA RIOJA AERO (43.0°)
+  Estación Mín: BASE MARAMBIO (-9.8°)
+  Diferencia: 52.80°
+
+Fecha: 24032025
+  Estación Máx: ITUZAINGO (36.5°)
+  Estación Mín: BASE BELGRANO II (-10.2°)
+  Diferencia: 46.70°
+
+Fecha: 24042025
+  Estación Máx: CATAMARCA AERO (29.0°)
+  Estación Mín: BASE MARAMBIO (-12.0°)
+  Diferencia: 41.00°
+
+Fecha: 24052025
+  Estación Máx: FORMOSA AERO (28.6°)
+  Estación Mín: BASE BELGRANO II (-34.3°)
+  Diferencia: 62.90°
+
+Fecha: 24062025
+  Estación Máx: JACHAL (23.8°)
+  Estación Mín: BASE BELGRANO II (-21.6°)
+  Diferencia: 45.40°
+
+Fecha: 24072025
+  Estación Máx: JACHAL (28.5°)
+  Estación Mín: BASE MARAMBIO (-23.7°)
+  Diferencia: 52.20°
+
+Fecha: 24082024
+  Estación Máx: RIVADAVIA (22.0°)
+  Estación Mín: BASE BELGRANO II (-28.4°)
+  Diferencia: 50.40°
+
+Fecha: 24092024
+  Estación Máx: IGUAZU AERO (37.2°)
+  Estación Mín: BASE MARAMBIO (-24.4°)
+  Diferencia: 61.60°
+
+Fecha: 24102024
+  Estación Máx: RIVADAVIA (36.0°)
+  Estación Mín: BASE BELGRANO II (-14.3°)
+  Diferencia: 50.30°
+
+Fecha: 24112024
+  Estación Máx: LA RIOJA AERO (41.4°)
+  Estación Mín: BASE BELGRANO II (-15.6°)
+  Diferencia: 57.00°
+
+Fecha: 24122024
+  Estación Máx: LA RIOJA AERO (35.4°)
+  Estación Mín: BASE BELGRANO II (-7.3°)
+  Diferencia: 42.70°
+
+Fecha: 25012025
+  Estación Máx: RIVADAVIA (40.5°)
+  Estación Mín: BASE MARAMBIO (-5.2°)
+  Diferencia: 45.70°
+
+Fecha: 25022025
+  Estación Máx: RIVADAVIA (42.0°)
+  Estación Mín: BASE MARAMBIO (-12.2°)
+  Diferencia: 54.20°
+
+Fecha: 25032025
+  Estación Máx: BERNARDO DE IRIGOYEN AERO (30.3°)
+  Estación Mín: BASE MARAMBIO (-16.7°)
+  Diferencia: 47.00°
+
+Fecha: 25042025
+  Estación Máx: CATAMARCA AERO (31.5°)
+  Estación Mín: BASE BELGRANO II (-15.1°)
+  Diferencia: 46.60°
+
+Fecha: 25052025
+  Estación Máx: LAS LOMITAS (30.0°)
+  Estación Mín: BASE BELGRANO II (-33.3°)
+  Diferencia: 63.30°
+
+Fecha: 25062025
+  Estación Máx: SALTA AERO (26.0°)
+  Estación Mín: BASE BELGRANO II (-28.1°)
+  Diferencia: 54.10°
+
+Fecha: 25072025
+  Estación Máx: SALTA AERO (30.4°)
+  Estación Mín: BASE MARAMBIO (-21.8°)
+  Diferencia: 52.20°
+
+Fecha: 25082024
+  Estación Máx: RIVADAVIA (23.0°)
+  Estación Mín: BASE BELGRANO II (-25.5°)
+  Diferencia: 48.50°
+
+Fecha: 25092024
+  Estación Máx: IGUAZU AERO (36.9°)
+  Estación Mín: BASE MARAMBIO (-22.2°)
+  Diferencia: 59.10°
+
+Fecha: 25102024
+  Estación Máx: RIVADAVIA (37.0°)
+  Estación Mín: BASE MARAMBIO (-13.9°)
+  Diferencia: 50.90°
+
+Fecha: 25112024
+  Estación Máx: LAS LOMITAS (42.0°)
+  Estación Mín: BASE BELGRANO II (-15.9°)
+  Diferencia: 57.90°
+
+Fecha: 25122024
+  Estación Máx: SAN JULIAN AERO (37.0°)
+  Estación Mín: BASE BELGRANO II (-8.7°)
+  Diferencia: 45.70°
+
+Fecha: 26012025
+  Estación Máx: NEUQUEN AERO (40.8°)
+  Estación Mín: BASE BELGRANO II (-6.3°)
+  Diferencia: 47.10°
+
+Fecha: 26022025
+  Estación Máx: PRESIDENCIA ROQUE SAENZ PEÑA AERO (40.4°)
+  Estación Mín: BASE MARAMBIO (-12.3°)
+  Diferencia: 52.70°
+
+Fecha: 26032025
+  Estación Máx: MERCEDES AERO (CTES) (33.0°)
+  Estación Mín: BASE MARAMBIO (-17.8°)
+  Diferencia: 50.80°
+
+Fecha: 26042025
+  Estación Máx: FORMOSA AERO (29.6°)
+  Estación Mín: BASE BELGRANO II (-15.0°)
+  Diferencia: 44.60°
+
+Fecha: 26052025
+  Estación Máx: FORMOSA AERO (30.3°)
+  Estación Mín: BASE BELGRANO II (-31.1°)
+  Diferencia: 61.40°
+
+Fecha: 26062025
+  Estación Máx: ORAN AERO (20.5°)
+  Estación Mín: BASE BELGRANO II (-34.5°)
+  Diferencia: 55.00°
+
+Fecha: 26072025
+  Estación Máx: FORMOSA AERO (29.5°)
+  Estación Mín: BASE MARAMBIO (-18.9°)
+  Diferencia: 48.40°
+
+Fecha: 26082024
+  Estación Máx: TINOGASTA (27.0°)
+  Estación Mín: BASE BELGRANO II (-24.3°)
+  Diferencia: 51.30°
+
+Fecha: 26092024
+  Estación Máx: BERNARDO DE IRIGOYEN AERO (28.5°)
+  Estación Mín: BASE BELGRANO II (-19.6°)
+  Diferencia: 48.10°
+
+Fecha: 26102024
+  Estación Máx: RIVADAVIA (32.0°)
+  Estación Mín: BASE MARAMBIO (-14.9°)
+  Diferencia: 46.90°
+
+Fecha: 26112024
+  Estación Máx: RIVADAVIA (40.5°)
+  Estación Mín: BASE BELGRANO II (-8.1°)
+  Diferencia: 48.60°
+
+Fecha: 26122024
+  Estación Máx: COMODORO RIVADAVIA AERO (37.1°)
+  Estación Mín: BASE BELGRANO II (-10.0°)
+  Diferencia: 47.10°
+
+Fecha: 27012025
+  Estación Máx: RIVADAVIA (42.5°)
+  Estación Mín: BASE BELGRANO II (-7.5°)
+  Diferencia: 50.00°
+
+Fecha: 27022025
+  Estación Máx: RIVADAVIA (37.5°)
+  Estación Mín: BASE MARAMBIO (-11.7°)
+  Diferencia: 49.20°
+
+Fecha: 27032025
+  Estación Máx: FORMOSA AERO (34.0°)
+  Estación Mín: BASE BELGRANO II (-12.1°)
+  Diferencia: 46.10°
+
+Fecha: 27042025
+  Estación Máx: RIVADAVIA (27.0°)
+  Estación Mín: BASE BELGRANO II (-12.5°)
+  Diferencia: 39.50°
+
+Fecha: 27052025
+  Estación Máx: FORMOSA AERO (27.9°)
+  Estación Mín: BASE BELGRANO II (-32.6°)
+  Diferencia: 60.50°
+
+Fecha: 27062025
+  Estación Máx: RIVADAVIA (21.5°)
+  Estación Mín: BASE BELGRANO II (-21.5°)
+  Diferencia: 43.00°
+
+Fecha: 27072025
+  Estación Máx: FORMOSA AERO (23.9°)
+  Estación Mín: BASE BELGRANO II (-18.1°)
+  Diferencia: 42.00°
+
+Fecha: 27082024
+  Estación Máx: RIVADAVIA (28.0°)
+  Estación Mín: BASE BELGRANO II (-26.3°)
+  Diferencia: 54.30°
+
+Fecha: 27092024
+  Estación Máx: RIVADAVIA (32.0°)
+  Estación Mín: BASE MARAMBIO (-19.3°)
+  Diferencia: 51.30°
+
+Fecha: 27102024
+  Estación Máx: RIVADAVIA (35.0°)
+  Estación Mín: BASE MARAMBIO (-12.7°)
+  Diferencia: 47.70°
+
+Fecha: 27112024
+  Estación Máx: LAS LOMITAS (39.4°)
+  Estación Mín: BASE BELGRANO II (-10.2°)
+  Diferencia: 49.60°
+
+Fecha: 27122024
+  Estación Máx: CATAMARCA AERO (38.7°)
+  Estación Mín: BASE BELGRANO II (-8.9°)
+  Diferencia: 47.60°
+
+Fecha: 28012025
+  Estación Máx: RIVADAVIA (44.0°)
+  Estación Mín: BASE BELGRANO II (-8.6°)
+  Diferencia: 52.60°
+
+Fecha: 28022025
+  Estación Máx: PRESIDENCIA ROQUE SAENZ PEÑA AERO (38.6°)
+  Estación Mín: BASE MARAMBIO (-13.2°)
+  Diferencia: 51.80°
+
+Fecha: 28032025
+  Estación Máx: LAS LOMITAS (31.2°)
+  Estación Mín: BASE BELGRANO II (-15.1°)
+  Diferencia: 46.30°
+
+Fecha: 28042025
+  Estación Máx: CATAMARCA AERO (28.7°)
+  Estación Mín: BASE BELGRANO II (-9.1°)
+  Diferencia: 37.80°
+
+Fecha: 28052025
+  Estación Máx: IGUAZU AERO (21.8°)
+  Estación Mín: BASE BELGRANO II (-30.2°)
+  Diferencia: 52.00°
+
+Fecha: 28062025
+  Estación Máx: IGUAZU AERO (26.6°)
+  Estación Mín: BASE BELGRANO II (-21.1°)
+  Diferencia: 47.70°
+
+Fecha: 28072025
+  Estación Máx: RIVADAVIA (19.0°)
+  Estación Mín: BASE BELGRANO II (-16.6°)
+  Diferencia: 35.60°
+
+Fecha: 28082024
+  Estación Máx: RIVADAVIA (28.0°)
+  Estación Mín: BASE BELGRANO II (-22.1°)
+  Diferencia: 50.10°
+
+Fecha: 28092024
+  Estación Máx: RIVADAVIA (36.0°)
+  Estación Mín: BASE MARAMBIO (-20.2°)
+  Diferencia: 56.20°
+
+Fecha: 28102024
+  Estación Máx: RIVADAVIA (37.0°)
+  Estación Mín: BASE MARAMBIO (-11.2°)
+  Diferencia: 48.20°
+
+Fecha: 28112024
+  Estación Máx: LAS LOMITAS (39.0°)
+  Estación Mín: BASE BELGRANO II (-7.7°)
+  Diferencia: 46.70°
+
+Fecha: 28122024
+  Estación Máx: RIVADAVIA (39.0°)
+  Estación Mín: BASE BELGRANO II (-4.7°)
+  Diferencia: 43.70°
+
+Fecha: 29012025
+  Estación Máx: NEUQUEN AERO (40.5°)
+  Estación Mín: BASE BELGRANO II (-8.6°)
+  Diferencia: 49.10°
+
+Fecha: 29032025
+  Estación Máx: ITUZAINGO (33.0°)
+  Estación Mín: BASE BELGRANO II (-16.4°)
+  Diferencia: 49.40°
+
+Fecha: 29042025
+  Estación Máx: CATAMARCA AERO (29.7°)
+  Estación Mín: BASE BELGRANO II (-9.1°)
+  Diferencia: 38.80°
+
+Fecha: 29052025
+  Estación Máx: VILLA REYNOLDS AERO (20.9°)
+  Estación Mín: BASE BELGRANO II (-22.8°)
+  Diferencia: 43.70°
+
+Fecha: 29062025
+  Estación Máx: IGUAZU AERO (20.0°)
+  Estación Mín: BASE BELGRANO II (-20.8°)
+  Diferencia: 40.80°
+
+Fecha: 29072025
+  Estación Máx: USPALLATA (23.5°)
+  Estación Mín: BASE BELGRANO II (-18.6°)
+  Diferencia: 42.10°
+
+Fecha: 29082024
+  Estación Máx: LAS LOMITAS (32.5°)
+  Estación Mín: BASE MARAMBIO (-16.8°)
+  Diferencia: 49.30°
+
+Fecha: 29092024
+  Estación Máx: LAS LOMITAS (40.0°)
+  Estación Mín: BASE MARAMBIO (-22.0°)
+  Diferencia: 62.00°
+
+Fecha: 29102024
+  Estación Máx: LAS LOMITAS (39.0°)
+  Estación Mín: BASE MARAMBIO (-12.2°)
+  Diferencia: 51.20°
+
+Fecha: 29112024
+  Estación Máx: LAS LOMITAS (37.1°)
+  Estación Mín: BASE BELGRANO II (-7.8°)
+  Diferencia: 44.90°
+
+Fecha: 29122024
+  Estación Máx: LA RIOJA AERO (39.0°)
+  Estación Mín: BASE BELGRANO II (-5.6°)
+  Diferencia: 44.60°
+
+Fecha: 30012025
+  Estación Máx: TRELEW AERO (42.5°)
+  Estación Mín: BASE BELGRANO II (-8.8°)
+  Diferencia: 51.30°
+
+Fecha: 30032025
+  Estación Máx: TINOGASTA (36.5°)
+  Estación Mín: BASE BELGRANO II (-16.5°)
+  Diferencia: 53.00°
+
+Fecha: 30042025
+  Estación Máx: RIVADAVIA (28.5°)
+  Estación Mín: BASE BELGRANO II (-13.6°)
+  Diferencia: 42.10°
+
+Fecha: 30052025
+  Estación Máx: CORDOBA OBSERVATORIO (22.5°)
+  Estación Mín: BASE MARAMBIO (-14.8°)
+  Diferencia: 37.30°
+
+Fecha: 30062025
+  Estación Máx: LA QUIACA OBSERVATORIO (15.5°)
+  Estación Mín: BASE BELGRANO II (-23.6°)
+  Diferencia: 39.10°
+
+Fecha: 30072025
+  Estación Máx: JACHAL (27.5°)
+  Estación Mín: BASE BELGRANO II (-28.4°)
+  Diferencia: 55.90°
+
+Fecha: 30082024
+  Estación Máx: IGUAZU AERO (33.4°)
+  Estación Mín: BASE BELGRANO II (-13.3°)
+  Diferencia: 46.70°
+
+Fecha: 30092024
+  Estación Máx: RIVADAVIA (44.5°)
+  Estación Mín: BASE MARAMBIO (-16.4°)
+  Diferencia: 60.90°
+
+Fecha: 30102024
+  Estación Máx: LAS LOMITAS (40.5°)
+  Estación Mín: BASE MARAMBIO (-10.7°)
+  Diferencia: 51.20°
+
+Fecha: 30112024
+  Estación Máx: TINOGASTA (35.5°)
+  Estación Mín: BASE BELGRANO II (-7.2°)
+  Diferencia: 42.70°
+
+Fecha: 30122024
+  Estación Máx: RIVADAVIA (40.0°)
+  Estación Mín: BASE BELGRANO II (-4.4°)
+  Diferencia: 44.40°
+
+Fecha: 31012025
+  Estación Máx: SAN JUAN AERO (40.0°)
+  Estación Mín: BASE BELGRANO II (-7.7°)
+  Diferencia: 47.70°
+
+Fecha: 31032025
+  Estación Máx: RIVADAVIA (31.5°)
+  Estación Mín: BASE BELGRANO II (-18.6°)
+  Diferencia: 50.10°
+
+Fecha: 31052025
+  Estación Máx: RIVADAVIA (23.5°)
+  Estación Mín: BASE BELGRANO II (-19.1°)
+  Diferencia: 42.60°
+
+Fecha: 31072025
+  Estación Máx: LAS LOMITAS (32.7°)
+  Estación Mín: BASE BELGRANO II (-30.1°)
+  Diferencia: 62.80°
+
+Fecha: 31082024
+  Estación Máx: IGUAZU AERO (30.6°)
+  Estación Mín: BASE BELGRANO II (-18.0°)
+  Diferencia: 48.60°
+
+Fecha: 31102024
+  Estación Máx: RIVADAVIA (39.0°)
+  Estación Mín: BASE MARAMBIO (-12.6°)
+  Diferencia: 51.60°
+
+Fecha: 31122024
+  Estación Máx: RIVADAVIA (43.5°)
+  Estación Mín: BASE BELGRANO II (-2.7°)
+  Diferencia: 46.20°
+
+======================================================
+5 - Mínima diferencia entre estaciones en un mismo día
+======================================================
+
+Fecha: 01012025
+  Estación Máx: ESQUEL AERO (22.4°)
+  Estación Mín: MONTE CASEROS AERO (22.4°)
+  Diferencia: 0.00°
+
+Fecha: 01022025
+  Estación Máx: GOBERNADOR GREGORES AERO (19.5°)
+  Estación Mín: LABOULAYE AERO (19.5°)
+  Diferencia: 0.00°
+
+Fecha: 01032025
+  Estación Máx: BASE ESPERANZA (5.0°)
+  Estación Mín: ESQUEL AERO (5.0°)
+  Diferencia: 0.00°
+
+Fecha: 01042025
+  Estación Máx: AZUL AERO (18.4°)
+  Estación Mín: BERNARDO DE IRIGOYEN AERO (18.4°)
+  Diferencia: 0.00°
+
+Fecha: 01052025
+  Estación Máx: AZUL AERO (19.5°)
+  Estación Mín: TARTAGAL AERO (19.5°)
+  Diferencia: 0.00°
+
+Fecha: 01062025
+  Estación Máx: BASE BELGRANO II (-16.8°)
+  Estación Mín: BASE MARAMBIO (-16.8°)
+  Diferencia: 0.00°
+
+Fecha: 01072025
+  Estación Máx: BASE ESPERANZA (2.0°)
+  Estación Mín: JUJUY AERO (2.0°)
+  Diferencia: 0.00°
+
+Fecha: 01082025
+  Estación Máx: BARILOCHE AERO (9.1°)
+  Estación Mín: SAN LUIS AERO (9.1°)
+  Diferencia: 0.00°
+
+Fecha: 01092024
+  Estación Máx: BASE SAN MARTIN (0.0°)
+  Estación Mín: MALARGUE AERO (0.0°)
+  Diferencia: 0.00°
+
+Fecha: 01102024
+  Estación Máx: EZEIZA AERO (20.5°)
+  Estación Mín: PASO DE LOS LIBRES AERO (20.5°)
+  Diferencia: 0.00°
+
+Fecha: 01112024
+  Estación Máx: BARILOCHE AERO (16.7°)
+  Estación Mín: CERES AERO (16.7°)
+  Diferencia: 0.00°
+
+Fecha: 01122024
+  Estación Máx: AEROPARQUE AERO (22.6°)
+  Estación Mín: RESISTENCIA AERO (22.6°)
+  Diferencia: 0.00°
+
+Fecha: 02012025
+  Estación Máx: BASE SAN MARTIN (8.7°)
+  Estación Mín: LA QUIACA OBSERVATORIO (8.7°)
+  Diferencia: 0.00°
+
+Fecha: 02022025
+  Estación Máx: BASE CARLINI (EX JUBANY) (7.0°)
+  Estación Mín: USHUAIA AERO (7.0°)
+  Diferencia: 0.00°
+
+Fecha: 02032025
+  Estación Máx: EL BOLSON AERO (24.5°)
+  Estación Mín: RESISTENCIA AERO (24.5°)
+  Diferencia: 0.00°
+
+Fecha: 02042025
+  Estación Máx: EL BOLSON AERO (16.4°)
+  Estación Mín: CONCORDIA AERO (16.4°)
+  Diferencia: 0.00°
+
+Fecha: 02052025
+  Estación Máx: BARILOCHE AERO (10.3°)
+  Estación Mín: SANTA ROSA AERO (10.3°)
+  Diferencia: 0.00°
+
+Fecha: 02062025
+  Estación Máx: BASE SAN MARTIN (1.3°)
+  Estación Mín: MARCOS JUAREZ AERO (1.3°)
+  Diferencia: 0.00°
+
+Fecha: 02072025
+  Estación Máx: BASE ESPERANZA (-6.5°)
+  Estación Mín: SAN JUAN AERO (-6.5°)
+  Diferencia: 0.00°
+
+Fecha: 02082025
+  Estación Máx: BAHIA BLANCA AERO (17.6°)
+  Estación Mín: IGUAZU AERO (17.6°)
+  Diferencia: 0.00°
+
+Fecha: 02092024
+  Estación Máx: BARILOCHE AERO (6.9°)
+  Estación Mín: CERES AERO (6.9°)
+  Diferencia: 0.00°
+
+Fecha: 02102024
+  Estación Máx: BARILOCHE AERO (11.5°)
+  Estación Mín: RAFAELA AERO (11.5°)
+  Diferencia: 0.00°
+
+Fecha: 02112024
+  Estación Máx: BERNARDO DE IRIGOYEN AERO (21.0°)
+  Estación Mín: CATAMARCA AERO (21.0°)
+  Diferencia: 0.00°
+
+Fecha: 02122024
+  Estación Máx: BAHIA BLANCA AERO (15.0°)
+  Estación Mín: CHAMICAL AERO (15.0°)
+  Diferencia: 0.00°
+
+Fecha: 03012025
+  Estación Máx: BASE ESPERANZA (8.5°)
+  Estación Mín: LA QUIACA OBSERVATORIO (8.5°)
+  Diferencia: 0.00°
+
+Fecha: 03022025
+  Estación Máx: BARILOCHE AERO (17.4°)
+  Estación Mín: CORONEL SUAREZ AERO (17.4°)
+  Diferencia: 0.00°
+
+Fecha: 03032025
+  Estación Máx: AEROPARQUE AERO (25.4°)
+  Estación Mín: MERCEDES AERO (CTES) (25.4°)
+  Diferencia: 0.00°
+
+Fecha: 03042025
+  Estación Máx: BASE CARLINI (EX JUBANY) (2.0°)
+  Estación Mín: PUERTO MADRYN AERO (2.0°)
+  Diferencia: 0.00°
+
+Fecha: 03052025
+  Estación Máx: BARILOCHE AERO (11.2°)
+  Estación Mín: CORDOBA AERO (11.2°)
+  Diferencia: 0.00°
+
+Fecha: 03062025
+  Estación Máx: BASE ORCADAS (0.4°)
+  Estación Mín: EL CALAFATE AERO (0.4°)
+  Diferencia: 0.00°
+
+Fecha: 03072025
+  Estación Máx: BASE ESPERANZA (5.2°)
+  Estación Mín: BAHIA BLANCA AERO (5.2°)
+  Diferencia: 0.00°
+
+Fecha: 03082025
+  Estación Máx: AEROPARQUE AERO (18.0°)
+  Estación Mín: ITUZAINGO (18.0°)
+  Diferencia: 0.00°
+
+Fecha: 03092024
+  Estación Máx: BENITO JUAREZ (16.0°)
+  Estación Mín: OBERA (16.0°)
+  Diferencia: 0.00°
+
+Fecha: 03102024
+  Estación Máx: AZUL AERO (18.8°)
+  Estación Mín: RIVADAVIA (18.8°)
+  Diferencia: 0.00°
+
+Fecha: 03112024
+  Estación Máx: BARILOCHE AERO (13.4°)
+  Estación Mín: BUENOS AIRES OBSERVATORIO (13.4°)
+  Diferencia: 0.00°
+
+Fecha: 03122024
+  Estación Máx: BASE ESPERANZA (0.5°)
+  Estación Mín: EL BOLSON AERO (0.5°)
+  Diferencia: 0.00°
+
+Fecha: 04012025
+  Estación Máx: LA QUIACA OBSERVATORIO (17.5°)
+  Estación Mín: GENERAL PICO AERO (17.5°)
+  Diferencia: 0.00°
+
+Fecha: 04022025
+  Estación Máx: BARILOCHE AERO (23.8°)
+  Estación Mín: CERES AERO (23.8°)
+  Diferencia: 0.00°
+
+Fecha: 04032025
+  Estación Máx: AZUL AERO (23.0°)
+  Estación Mín: TARTAGAL AERO (23.0°)
+  Diferencia: 0.00°
+
+Fecha: 04042025
+  Estación Máx: AEROPARQUE AERO (17.0°)
+  Estación Mín: IGUAZU AERO (17.0°)
+  Diferencia: 0.00°
+
+Fecha: 04052025
+  Estación Máx: BASE CARLINI (EX JUBANY) (4.0°)
+  Estación Mín: MALARGUE AERO (4.0°)
+  Diferencia: 0.00°
+
+Fecha: 04062025
+  Estación Máx: BASE SAN MARTIN (0.9°)
+  Estación Mín: SAN JULIAN AERO (0.9°)
+  Diferencia: 0.00°
+
+Fecha: 04072025
+  Estación Máx: BASE CARLINI (EX JUBANY) (2.0°)
+  Estación Mín: CHEPES (2.0°)
+  Diferencia: 0.00°
+
+Fecha: 04082025
+  Estación Máx: AZUL AERO (11.0°)
+  Estación Mín: LA RIOJA AERO (11.0°)
+  Diferencia: 0.00°
+
+Fecha: 04092024
+  Estación Máx: BASE BELGRANO II (-10.7°)
+  Estación Mín: BASE SAN MARTIN (-10.7°)
+  Diferencia: 0.00°
+
+Fecha: 04102024
+  Estación Máx: EL BOLSON AERO (15.2°)
+  Estación Mín: CORDOBA OBSERVATORIO (15.2°)
+  Diferencia: 0.00°
+
+Fecha: 04112024
+  Estación Máx: AEROPARQUE AERO (23.2°)
+  Estación Mín: TARTAGAL AERO (23.2°)
+  Diferencia: 0.00°
+
+Fecha: 04122024
+  Estación Máx: GOBERNADOR GREGORES AERO (15.5°)
+  Estación Mín: CHAMICAL AERO (15.5°)
+  Diferencia: 0.00°
+
+Fecha: 05012025
+  Estación Máx: AZUL AERO (26.0°)
+  Estación Mín: CHEPES (26.0°)
+  Diferencia: 0.00°
+
+Fecha: 05022025
+  Estación Máx: AZUL AERO (23.5°)
+  Estación Mín: TINOGASTA (23.5°)
+  Diferencia: 0.00°
+
+Fecha: 05032025
+  Estación Máx: BARILOCHE AERO (24.1°)
+  Estación Mín: CORDOBA OBSERVATORIO (24.1°)
+  Diferencia: 0.00°
+
+Fecha: 05042025
+  Estación Máx: BASE CARLINI (EX JUBANY) (4.4°)
+  Estación Mín: RIO CUARTO AERO (4.4°)
+  Diferencia: 0.00°
+
+Fecha: 05052025
+  Estación Máx: AEROPARQUE AERO (21.3°)
+  Estación Mín: POSADAS AERO (21.3°)
+  Diferencia: 0.00°
+
+Fecha: 05062025
+  Estación Máx: AEROPARQUE AERO (15.0°)
+  Estación Mín: OBERA (15.0°)
+  Diferencia: 0.00°
+
+Fecha: 05072025
+  Estación Máx: BASE CARLINI (EX JUBANY) (2.2°)
+  Estación Mín: CATAMARCA AERO (2.2°)
+  Diferencia: 0.00°
+
+Fecha: 05082025
+  Estación Máx: BAHIA BLANCA AERO (13.3°)
+  Estación Mín: POSADAS AERO (13.3°)
+  Diferencia: 0.00°
+
+Fecha: 05092024
+  Estación Máx: AZUL AERO (16.4°)
+  Estación Mín: CATAMARCA AERO (16.4°)
+  Diferencia: 0.00°
+
+Fecha: 05102024
+  Estación Máx: BASE CARLINI (EX JUBANY) (-0.6°)
+  Estación Mín: ESQUEL AERO (-0.6°)
+  Diferencia: 0.00°
+
+Fecha: 05112024
+  Estación Máx: AEROPARQUE AERO (23.0°)
+  Estación Mín: OBERA (23.0°)
+  Diferencia: 0.00°
+
+Fecha: 05122024
+  Estación Máx: BARILOCHE AERO (14.7°)
+  Estación Mín: LABOULAYE AERO (14.7°)
+  Diferencia: 0.00°
+
+Fecha: 06012025
+  Estación Máx: EL CALAFATE AERO (19.9°)
+  Estación Mín: CORDOBA AERO (19.9°)
+  Diferencia: 0.00°
+
+Fecha: 06022025
+  Estación Máx: BASE CARLINI (EX JUBANY) (6.0°)
+  Estación Mín: RIO GALLEGOS AERO (6.0°)
+  Diferencia: 0.00°
+
+Fecha: 06032025
+  Estación Máx: BARILOCHE AERO (19.2°)
+  Estación Mín: VILLA REYNOLDS AERO (19.2°)
+  Diferencia: 0.00°
+
+Fecha: 06042025
+  Estación Máx: BASE CARLINI (EX JUBANY) (5.0°)
+  Estación Mín: LA QUIACA OBSERVATORIO (5.0°)
+  Diferencia: 0.00°
+
+Fecha: 06052025
+  Estación Máx: AEROPARQUE AERO (22.3°)
+  Estación Mín: LAS LOMITAS (22.3°)
+  Diferencia: 0.00°
+
+Fecha: 06062025
+  Estación Máx: BASE ORCADAS (0.9°)
+  Estación Mín: CORDOBA AERO (0.9°)
+  Diferencia: 0.00°
+
+Fecha: 06072025
+  Estación Máx: AEROPARQUE AERO (14.0°)
+  Estación Mín: RAFAELA AERO (14.0°)
+  Diferencia: 0.00°
+
+Fecha: 06082025
+  Estación Máx: CHAPELCO AERO (13.0°)
+  Estación Mín: BERNARDO DE IRIGOYEN AERO (13.0°)
+  Diferencia: 0.00°
+
+Fecha: 06092024
+  Estación Máx: BARILOCHE AERO (10.0°)
+  Estación Mín: EL PALOMAR AERO (10.0°)
+  Diferencia: 0.00°
+
+Fecha: 06102024
+  Estación Máx: BARILOCHE AERO (19.5°)
+  Estación Mín: ITUZAINGO (19.5°)
+  Diferencia: 0.00°
+
+Fecha: 06112024
+  Estación Máx: BARILOCHE AERO (15.7°)
+  Estación Mín: SAN MARTIN (MZA) (15.7°)
+  Diferencia: 0.00°
+
+Fecha: 06122024
+  Estación Máx: BASE CARLINI (EX JUBANY) (2.5°)
+  Estación Mín: PERITO MORENO AERO (2.5°)
+  Diferencia: 0.00°
+
+Fecha: 07012025
+  Estación Máx: LA QUIACA OBSERVATORIO (16.3°)
+  Estación Mín: CORONEL SUAREZ AERO (16.3°)
+  Diferencia: 0.00°
+
+Fecha: 07022025
+  Estación Máx: BARILOCHE AERO (28.0°)
+  Estación Mín: CATAMARCA AERO (28.0°)
+  Diferencia: 0.00°
+
+Fecha: 07032025
+  Estación Máx: BASE ESPERANZA (6.5°)
+  Estación Mín: SAN JULIAN AERO (6.5°)
+  Diferencia: 0.00°
+
+Fecha: 07042025
+  Estación Máx: BASE MARAMBIO (8.4°)
+  Estación Mín: CATAMARCA AERO (8.4°)
+  Diferencia: 0.00°
+
+Fecha: 07052025
+  Estación Máx: BAHIA BLANCA AERO (15.5°)
+  Estación Mín: ESCUELA DE AVIACION MILITAR AERO (15.5°)
+  Diferencia: 0.00°
+
+Fecha: 07062025
+  Estación Máx: AEROPARQUE AERO (15.7°)
+  Estación Mín: TARTAGAL AERO (15.7°)
+  Diferencia: 0.00°
+
+Fecha: 07072025
+  Estación Máx: BARILOCHE AERO (11.0°)
+  Estación Mín: BUENOS AIRES OBSERVATORIO (11.0°)
+  Diferencia: 0.00°
+
+Fecha: 07082025
+  Estación Máx: AZUL AERO (11.5°)
+  Estación Mín: CHAMICAL AERO (11.5°)
+  Diferencia: 0.00°
+
+Fecha: 07092024
+  Estación Máx: BARILOCHE AERO (9.1°)
+  Estación Mín: CERES AERO (9.1°)
+  Diferencia: 0.00°
+
+Fecha: 07102024
+  Estación Máx: BAHIA BLANCA AERO (24.5°)
+  Estación Mín: ORAN AERO (24.5°)
+  Diferencia: 0.00°
+
+Fecha: 07112024
+  Estación Máx: BENITO JUAREZ (19.2°)
+  Estación Mín: POSADAS AERO (19.2°)
+  Diferencia: 0.00°
+
+Fecha: 07122024
+  Estación Máx: AZUL AERO (18.6°)
+  Estación Mín: VILLA DE MARIA DEL RIO SECO (18.6°)
+  Diferencia: 0.00°
+
+Fecha: 08012025
+  Estación Máx: BASE ESPERANZA (9.5°)
+  Estación Mín: RIO GRANDE B.A. (9.5°)
+  Diferencia: 0.00°
+
+Fecha: 08022025
+  Estación Máx: BARILOCHE AERO (25.6°)
+  Estación Mín: CERES AERO (25.6°)
+  Diferencia: 0.00°
+
+Fecha: 08032025
+  Estación Máx: BARILOCHE AERO (17.8°)
+  Estación Mín: GUALEGUAYCHU AERO (17.8°)
+  Diferencia: 0.00°
+
+Fecha: 08042025
+  Estación Máx: BASE ESPERANZA (8.0°)
+  Estación Mín: TINOGASTA (8.0°)
+  Diferencia: 0.00°
+
+Fecha: 08052025
+  Estación Máx: BAHIA BLANCA AERO (18.6°)
+  Estación Mín: BERNARDO DE IRIGOYEN AERO (18.6°)
+  Diferencia: 0.00°
+
+Fecha: 08062025
+  Estación Máx: AZUL AERO (10.5°)
+  Estación Mín: ITUZAINGO (10.5°)
+  Diferencia: 0.00°
+
+Fecha: 08072025
+  Estación Máx: AEROPARQUE AERO (14.0°)
+  Estación Mín: TARTAGAL AERO (14.0°)
+  Diferencia: 0.00°
+
+Fecha: 08082025
+  Estación Máx: BASE CARLINI (EX JUBANY) (-0.3°)
+  Estación Mín: BAHIA BLANCA AERO (-0.3°)
+  Diferencia: 0.00°
+
+Fecha: 08092024
+  Estación Máx: BARILOCHE AERO (9.6°)
+  Estación Mín: BUENOS AIRES OBSERVATORIO (9.6°)
+  Diferencia: 0.00°
+
+Fecha: 08102024
+  Estación Máx: BASE SAN MARTIN (4.7°)
+  Estación Mín: USHUAIA AERO (4.7°)
+  Diferencia: 0.00°
+
+Fecha: 08112024
+  Estación Máx: CHAPELCO AERO (21.0°)
+  Estación Mín: LA RIOJA AERO (21.0°)
+  Diferencia: 0.00°
+
+Fecha: 08122024
+  Estación Máx: BASE ORCADAS (-0.5°)
+  Estación Mín: BASE CARLINI (EX JUBANY) (-0.5°)
+  Diferencia: 0.00°
+
+Fecha: 09012025
+  Estación Máx: BASE CARLINI (EX JUBANY) (5.7°)
+  Estación Mín: BARILOCHE AERO (5.7°)
+  Diferencia: 0.00°
+
+Fecha: 09022025
+  Estación Máx: BASE ORCADAS (5.7°)
+  Estación Mín: BARILOCHE AERO (5.7°)
+  Diferencia: 0.00°
+
+Fecha: 09032025
+  Estación Máx: AZUL AERO (21.0°)
+  Estación Mín: POSADAS AERO (21.0°)
+  Diferencia: 0.00°
+
+Fecha: 09042025
+  Estación Máx: EL CALAFATE AERO (16.7°)
+  Estación Mín: PARANA AERO (16.7°)
+  Diferencia: 0.00°
+
+Fecha: 09052025
+  Estación Máx: AZUL AERO (21.0°)
+  Estación Mín: LAS LOMITAS (21.0°)
+  Diferencia: 0.00°
+
+Fecha: 09062025
+  Estación Máx: BASE CARLINI (EX JUBANY) (0.0°)
+  Estación Mín: GOBERNADOR GREGORES AERO (0.0°)
+  Diferencia: 0.00°
+
+Fecha: 09072025
+  Estación Máx: BAHIA BLANCA AERO (9.7°)
+  Estación Mín: SAN MARTIN (MZA) (9.7°)
+  Diferencia: 0.00°
+
+Fecha: 09082025
+  Estación Máx: BASE CARLINI (EX JUBANY) (1.0°)
+  Estación Mín: MARIANO MORENO AERO (1.0°)
+  Diferencia: 0.00°
+
+Fecha: 09092024
+  Estación Máx: BARILOCHE AERO (11.6°)
+  Estación Mín: SANTIAGO DEL ESTERO AERO (11.6°)
+  Diferencia: 0.00°
+
+Fecha: 09102024
+  Estación Máx: AEROPARQUE AERO (19.3°)
+  Estación Mín: LAS LOMITAS (19.3°)
+  Diferencia: 0.00°
+
+Fecha: 09112024
+  Estación Máx: CHAPELCO AERO (16.0°)
+  Estación Mín: CONCORDIA AERO (16.0°)
+  Diferencia: 0.00°
+
+Fecha: 09122024
+  Estación Máx: BASE SAN MARTIN (4.4°)
+  Estación Mín: TANDIL AERO (4.4°)
+  Diferencia: 0.00°
+
+Fecha: 10012025
+  Estación Máx: BENITO JUAREZ (23.0°)
+  Estación Mín: CERES AERO (23.0°)
+  Diferencia: 0.00°
+
+Fecha: 10022025
+  Estación Máx: COMODORO RIVADAVIA AERO (23.0°)
+  Estación Mín: AEROPARQUE AERO (23.0°)
+  Diferencia: 0.00°
+
+Fecha: 10032025
+  Estación Máx: ESQUEL AERO (17.3°)
+  Estación Mín: LA RIOJA AERO (17.3°)
+  Diferencia: 0.00°
+
+Fecha: 10042025
+  Estación Máx: BARILOCHE AERO (14.7°)
+  Estación Mín: VICTORICA (14.7°)
+  Diferencia: 0.00°
+
+Fecha: 10052025
+  Estación Máx: BARILOCHE AERO (15.6°)
+  Estación Mín: RESISTENCIA AERO (15.6°)
+  Diferencia: 0.00°
+
+Fecha: 10062025
+  Estación Máx: BASE BELGRANO II (-14.0°)
+  Estación Mín: BASE ESPERANZA (-14.0°)
+  Diferencia: 0.00°
+
+Fecha: 10072025
+  Estación Máx: AZUL AERO (12.0°)
+  Estación Mín: LA RIOJA AERO (12.0°)
+  Diferencia: 0.00°
+
+Fecha: 10082025
+  Estación Máx: BASE CARLINI (EX JUBANY) (0.8°)
+  Estación Mín: VENADO TUERTO AERO (0.8°)
+  Diferencia: 0.00°
+
+Fecha: 10092024
+  Estación Máx: AZUL AERO (15.5°)
+  Estación Mín: CHAMICAL AERO (15.5°)
+  Diferencia: 0.00°
+
+Fecha: 10102024
+  Estación Máx: EL CALAFATE AERO (13.3°)
+  Estación Mín: JUJUY U N (13.3°)
+  Diferencia: 0.00°
+
+Fecha: 10112024
+  Estación Máx: BOLIVAR AERO (22.8°)
+  Estación Mín: RIVADAVIA (22.8°)
+  Diferencia: 0.00°
+
+Fecha: 10122024
+  Estación Máx: BARILOCHE AERO (20.9°)
+  Estación Mín: CATAMARCA AERO (20.9°)
+  Diferencia: 0.00°
+
+Fecha: 11012025
+  Estación Máx: LA QUIACA OBSERVATORIO (15.5°)
+  Estación Mín: JACHAL (15.5°)
+  Diferencia: 0.00°
+
+Fecha: 11022025
+  Estación Máx: AZUL AERO (27.5°)
+  Estación Mín: CHAMICAL AERO (27.5°)
+  Diferencia: 0.00°
+
+Fecha: 11032025
+  Estación Máx: BOLIVAR AERO (19.9°)
+  Estación Mín: ORAN AERO (19.9°)
+  Diferencia: 0.00°
+
+Fecha: 11042025
+  Estación Máx: BARILOCHE AERO (12.4°)
+  Estación Mín: TRELEW AERO (12.4°)
+  Diferencia: 0.00°
+
+Fecha: 11052025
+  Estación Máx: BARILOCHE AERO (10.5°)
+  Estación Mín: PRESIDENCIA ROQUE SAENZ PEÑA AERO (10.5°)
+  Diferencia: 0.00°
+
+Fecha: 11062025
+  Estación Máx: CHAPELCO AERO (9.0°)
+  Estación Mín: METAN (9.0°)
+  Diferencia: 0.00°
+
+Fecha: 11072025
+  Estación Máx: BASE ESPERANZA (2.3°)
+  Estación Mín: CONCORDIA AERO (2.3°)
+  Diferencia: 0.00°
+
+Fecha: 11082025
+  Estación Máx: BASE CARLINI (EX JUBANY) (1.0°)
+  Estación Mín: TARTAGAL AERO (1.0°)
+  Diferencia: 0.00°
+
+Fecha: 11092024
+  Estación Máx: AEROPARQUE AERO (17.0°)
+  Estación Mín: PASO DE LOS LIBRES AERO (17.0°)
+  Diferencia: 0.00°
+
+Fecha: 11102024
+  Estación Máx: BARILOCHE AERO (9.8°)
+  Estación Mín: MARCOS JUAREZ AERO (9.8°)
+  Diferencia: 0.00°
+
+Fecha: 11112024
+  Estación Máx: BASE MARAMBIO (0.3°)
+  Estación Mín: EL BOLSON AERO (0.3°)
+  Diferencia: 0.00°
+
+Fecha: 11122024
+  Estación Máx: PERITO MORENO AERO (20.1°)
+  Estación Mín: BUENOS AIRES OBSERVATORIO (20.1°)
+  Diferencia: 0.00°
+
+Fecha: 12012025
+  Estación Máx: EL CALAFATE AERO (21.4°)
+  Estación Mín: POSADAS AERO (21.4°)
+  Diferencia: 0.00°
+
+Fecha: 12022025
+  Estación Máx: BARILOCHE AERO (24.4°)
+  Estación Mín: PASO DE LOS LIBRES AERO (24.4°)
+  Diferencia: 0.00°
+
+Fecha: 12032025
+  Estación Máx: CORDOBA AERO (17.5°)
+  Estación Mín: BERNARDO DE IRIGOYEN AERO (17.5°)
+  Diferencia: 0.00°
+
+Fecha: 12042025
+  Estación Máx: BASE MARAMBIO (-1.4°)
+  Estación Mín: MALARGUE AERO (-1.4°)
+  Diferencia: 0.00°
+
+Fecha: 12052025
+  Estación Máx: BARILOCHE AERO (15.0°)
+  Estación Mín: LA RIOJA AERO (15.0°)
+  Diferencia: 0.00°
+
+Fecha: 12062025
+  Estación Máx: BASE CARLINI (EX JUBANY) (5.0°)
+  Estación Mín: NUEVE DE JULIO (5.0°)
+  Diferencia: 0.00°
+
+Fecha: 12072025
+  Estación Máx: BARILOCHE AERO (14.3°)
+  Estación Mín: BERNARDO DE IRIGOYEN AERO (14.3°)
+  Diferencia: 0.00°
+
+Fecha: 12082025
+  Estación Máx: BARILOCHE AERO (9.4°)
+  Estación Mín: VILLA DOLORES AERO (9.4°)
+  Diferencia: 0.00°
+
+Fecha: 12092024
+  Estación Máx: BASE ORCADAS (1.2°)
+  Estación Mín: BENITO JUAREZ (1.2°)
+  Diferencia: 0.00°
+
+Fecha: 12102024
+  Estación Máx: BARILOCHE AERO (11.8°)
+  Estación Mín: MORON AERO (11.8°)
+  Diferencia: 0.00°
+
+Fecha: 12112024
+  Estación Máx: ESQUEL AERO (12.6°)
+  Estación Mín: TARTAGAL AERO (12.6°)
+  Diferencia: 0.00°
+
+Fecha: 12122024
+  Estación Máx: GOBERNADOR GREGORES AERO (20.5°)
+  Estación Mín: MARIANO MORENO AERO (20.5°)
+  Diferencia: 0.00°
+
+Fecha: 13012025
+  Estación Máx: EL CALAFATE AERO (18.9°)
+  Estación Mín: GUALEGUAYCHU AERO (18.9°)
+  Diferencia: 0.00°
+
+Fecha: 13022025
+  Estación Máx: LA QUIACA OBSERVATORIO (19.0°)
+  Estación Mín: RAFAELA AERO (19.0°)
+  Diferencia: 0.00°
+
+Fecha: 13032025
+  Estación Máx: AZUL AERO (19.5°)
+  Estación Mín: POSADAS AERO (19.5°)
+  Diferencia: 0.00°
+
+Fecha: 13042025
+  Estación Máx: BASE CARLINI (EX JUBANY) (2.5°)
+  Estación Mín: GOBERNADOR GREGORES AERO (2.5°)
+  Diferencia: 0.00°
+
+Fecha: 13052025
+  Estación Máx: CHAPELCO AERO (13.5°)
+  Estación Mín: PUNTA INDIO B.A. (13.5°)
+  Diferencia: 0.00°
+
+Fecha: 13062025
+  Estación Máx: AZUL AERO (10.0°)
+  Estación Mín: PUNTA INDIO B.A. (10.0°)
+  Diferencia: 0.00°
+
+Fecha: 13072025
+  Estación Máx: BARILOCHE AERO (13.4°)
+  Estación Mín: ORAN AERO (13.4°)
+  Diferencia: 0.00°
+
+Fecha: 13082025
+  Estación Máx: BARILOCHE AERO (8.1°)
+  Estación Mín: SAN RAFAEL AERO (8.1°)
+  Diferencia: 0.00°
+
+Fecha: 13092024
+  Estación Máx: CHAPELCO AERO (11.0°)
+  Estación Mín: CHEPES (11.0°)
+  Diferencia: 0.00°
+
+Fecha: 13102024
+  Estación Máx: BARILOCHE AERO (16.3°)
+  Estación Mín: PASO DE LOS LIBRES AERO (16.3°)
+  Diferencia: 0.00°
+
+Fecha: 13112024
+  Estación Máx: BASE CARLINI (EX JUBANY) (3.3°)
+  Estación Mín: EL BOLSON AERO (3.3°)
+  Diferencia: 0.00°
+
+Fecha: 13122024
+  Estación Máx: BARILOCHE AERO (21.6°)
+  Estación Mín: BUENOS AIRES OBSERVATORIO (21.6°)
+  Diferencia: 0.00°
+
+Fecha: 14012025
+  Estación Máx: BASE ESPERANZA (6.5°)
+  Estación Mín: ESQUEL AERO (6.5°)
+  Diferencia: 0.00°
+
+Fecha: 14022025
+  Estación Máx: CORONEL SUAREZ AERO (23.5°)
+  Estación Mín: SAN JUAN AERO (23.5°)
+  Diferencia: 0.00°
+
+Fecha: 14032025
+  Estación Máx: BASE MARAMBIO (-5.2°)
+  Estación Mín: BASE ESPERANZA (-5.2°)
+  Diferencia: 0.00°
+
+Fecha: 14042025
+  Estación Máx: BAHIA BLANCA AERO (12.9°)
+  Estación Mín: PILAR OBSERVATORIO (12.9°)
+  Diferencia: 0.00°
+
+Fecha: 14052025
+  Estación Máx: CHAPELCO AERO (14.0°)
+  Estación Mín: PUNTA INDIO B.A. (14.0°)
+  Diferencia: 0.00°
+
+Fecha: 14062025
+  Estación Máx: AEROPARQUE AERO (13.5°)
+  Estación Mín: RESISTENCIA AERO (13.5°)
+  Diferencia: 0.00°
+
+Fecha: 14072025
+  Estación Máx: AEROPARQUE AERO (14.0°)
+  Estación Mín: TERMAS DE RIO HONDO AERO (14.0°)
+  Diferencia: 0.00°
+
+Fecha: 14082025
+  Estación Máx: AZUL AERO (11.5°)
+  Estación Mín: SALTA AERO (11.5°)
+  Diferencia: 0.00°
+
+Fecha: 14092024
+  Estación Máx: BARILOCHE AERO (12.9°)
+  Estación Mín: MONTE CASEROS AERO (12.9°)
+  Diferencia: 0.00°
+
+Fecha: 14102024
+  Estación Máx: AEROPARQUE AERO (20.0°)
+  Estación Mín: CHEPES (20.0°)
+  Diferencia: 0.00°
+
+Fecha: 14112024
+  Estación Máx: BASE ORCADAS (1.0°)
+  Estación Mín: BASE ESPERANZA (1.0°)
+  Diferencia: 0.00°
+
+Fecha: 14122024
+  Estación Máx: BASE BELGRANO II (-0.5°)
+  Estación Mín: BASE ESPERANZA (-0.5°)
+  Diferencia: 0.00°
+
+Fecha: 15012025
+  Estación Máx: LA QUIACA OBSERVATORIO (17.2°)
+  Estación Mín: JUNIN AERO (17.2°)
+  Diferencia: 0.00°
+
+Fecha: 15022025
+  Estación Máx: BARILOCHE AERO (22.5°)
+  Estación Mín: CHEPES (22.5°)
+  Diferencia: 0.00°
+
+Fecha: 15032025
+  Estación Máx: RIO GALLEGOS AERO (18.8°)
+  Estación Mín: FORMOSA AERO (18.8°)
+  Diferencia: 0.00°
+
+Fecha: 15042025
+  Estación Máx: BASE ESPERANZA (12.0°)
+  Estación Mín: METAN (12.0°)
+  Diferencia: 0.00°
+
+Fecha: 15052025
+  Estación Máx: AZUL AERO (18.6°)
+  Estación Mín: GUALEGUAYCHU AERO (18.6°)
+  Diferencia: 0.00°
+
+Fecha: 15062025
+  Estación Máx: BASE CARLINI (EX JUBANY) (-4.4°)
+  Estación Mín: RIO GRANDE B.A. (-4.4°)
+  Diferencia: 0.00°
+
+Fecha: 15072025
+  Estación Máx: AZUL AERO (13.6°)
+  Estación Mín: MORON AERO (13.6°)
+  Diferencia: 0.00°
+
+Fecha: 15082025
+  Estación Máx: AZUL AERO (10.0°)
+  Estación Mín: MENDOZA AERO (10.0°)
+  Diferencia: 0.00°
+
+Fecha: 15092024
+  Estación Máx: BASE MARAMBIO (-1.0°)
+  Estación Mín: LA QUIACA OBSERVATORIO (-1.0°)
+  Diferencia: 0.00°
+
+Fecha: 15102024
+  Estación Máx: BAHIA BLANCA AERO (22.1°)
+  Estación Mín: TARTAGAL AERO (22.1°)
+  Diferencia: 0.00°
+
+Fecha: 15112024
+  Estación Máx: BASE CARLINI (EX JUBANY) (5.5°)
+  Estación Mín: RIO GALLEGOS AERO (5.5°)
+  Diferencia: 0.00°
+
+Fecha: 15122024
+  Estación Máx: BASE ESPERANZA (6.0°)
+  Estación Mín: CHAPELCO AERO (6.0°)
+  Diferencia: 0.00°
+
+Fecha: 16012025
+  Estación Máx: BARILOCHE AERO (21.8°)
+  Estación Mín: MENDOZA OBSERVATORIO (21.8°)
+  Diferencia: 0.00°
+
+Fecha: 16022025
+  Estación Máx: CHAPELCO AERO (23.0°)
+  Estación Mín: LA RIOJA AERO (23.0°)
+  Diferencia: 0.00°
+
+Fecha: 16032025
+  Estación Máx: BARILOCHE AERO (22.3°)
+  Estación Mín: LAS LOMITAS (22.3°)
+  Diferencia: 0.00°
+
+Fecha: 16042025
+  Estación Máx: AEROPARQUE AERO (18.5°)
+  Estación Mín: TARTAGAL AERO (18.5°)
+  Diferencia: 0.00°
+
+Fecha: 16052025
+  Estación Máx: AZUL AERO (20.5°)
+  Estación Mín: PILAR OBSERVATORIO (20.5°)
+  Diferencia: 0.00°
+
+Fecha: 16062025
+  Estación Máx: AZUL AERO (9.5°)
+  Estación Mín: ITUZAINGO (9.5°)
+  Diferencia: 0.00°
+
+Fecha: 16072025
+  Estación Máx: AZUL AERO (13.0°)
+  Estación Mín: PRESIDENCIA ROQUE SAENZ PEÑA AERO (13.0°)
+  Diferencia: 0.00°
+
+Fecha: 16082025
+  Estación Máx: BASE ESPERANZA (3.0°)
+  Estación Mín: JUNIN AERO (3.0°)
+  Diferencia: 0.00°
+
+Fecha: 16092024
+  Estación Máx: CHAPELCO AERO (17.0°)
+  Estación Mín: CATAMARCA AERO (17.0°)
+  Diferencia: 0.00°
+
+Fecha: 16102024
+  Estación Máx: BARILOCHE AERO (19.7°)
+  Estación Mín: PRESIDENCIA ROQUE SAENZ PEÑA AERO (19.7°)
+  Diferencia: 0.00°
+
+Fecha: 16112024
+  Estación Máx: CHAPELCO AERO (17.6°)
+  Estación Mín: ORAN AERO (17.6°)
+  Diferencia: 0.00°
+
+Fecha: 16122024
+  Estación Máx: BASE MARAMBIO (-0.8°)
+  Estación Mín: BASE ORCADAS (-0.8°)
+  Diferencia: 0.00°
+
+Fecha: 17012025
+  Estación Máx: BARILOCHE AERO (21.5°)
+  Estación Mín: EL PALOMAR AERO (21.5°)
+  Diferencia: 0.00°
+
+Fecha: 17022025
+  Estación Máx: BARILOCHE AERO (22.9°)
+  Estación Mín: RESISTENCIA AERO (22.9°)
+  Diferencia: 0.00°
+
+Fecha: 17032025
+  Estación Máx: BARILOCHE AERO (19.3°)
+  Estación Mín: MONTE CASEROS AERO (19.3°)
+  Diferencia: 0.00°
+
+Fecha: 17042025
+  Estación Máx: BARILOCHE AERO (11.2°)
+  Estación Mín: JUJUY U N (11.2°)
+  Diferencia: 0.00°
+
+Fecha: 17052025
+  Estación Máx: BARILOCHE AERO (9.9°)
+  Estación Mín: SAN RAFAEL AERO (9.9°)
+  Diferencia: 0.00°
+
+Fecha: 17062025
+  Estación Máx: AZUL AERO (13.4°)
+  Estación Mín: TARTAGAL AERO (13.4°)
+  Diferencia: 0.00°
+
+Fecha: 17072025
+  Estación Máx: BASE CARLINI (EX JUBANY) (-1.0°)
+  Estación Mín: RIO CUARTO AERO (-1.0°)
+  Diferencia: 0.00°
+
+Fecha: 17082025
+  Estación Máx: BASE CARLINI (EX JUBANY) (1.5°)
+  Estación Mín: TANDIL AERO (1.5°)
+  Diferencia: 0.00°
+
+Fecha: 17092024
+  Estación Máx: BASE SAN MARTIN (-5.0°)
+  Estación Mín: MAQUINCHAO (-5.0°)
+  Diferencia: 0.00°
+
+Fecha: 17102024
+  Estación Máx: BARILOCHE AERO (15.6°)
+  Estación Mín: CORDOBA AERO (15.6°)
+  Diferencia: 0.00°
+
+Fecha: 17112024
+  Estación Máx: BASE ESPERANZA (1.8°)
+  Estación Mín: RIO GRANDE B.A. (1.8°)
+  Diferencia: 0.00°
+
+Fecha: 17122024
+  Estación Máx: EL CALAFATE AERO (23.9°)
+  Estación Mín: ORAN AERO (23.9°)
+  Diferencia: 0.00°
+
+Fecha: 18012025
+  Estación Máx: BENITO JUAREZ (25.8°)
+  Estación Mín: LAS LOMITAS (25.8°)
+  Diferencia: 0.00°
+
+Fecha: 18022025
+  Estación Máx: BASE CARLINI (EX JUBANY) (3.5°)
+  Estación Mín: BOLIVAR AERO (3.5°)
+  Diferencia: 0.00°
+
+Fecha: 18032025
+  Estación Máx: BASE ESPERANZA (4.2°)
+  Estación Mín: PUERTO DESEADO AERO (4.2°)
+  Diferencia: 0.00°
+
+Fecha: 18042025
+  Estación Máx: BARILOCHE AERO (16.0°)
+  Estación Mín: RAFAELA AERO (16.0°)
+  Diferencia: 0.00°
+
+Fecha: 18052025
+  Estación Máx: BARILOCHE AERO (7.6°)
+  Estación Mín: LA PLATA AERO (7.6°)
+  Diferencia: 0.00°
+
+Fecha: 18062025
+  Estación Máx: BASE ORCADAS (0.3°)
+  Estación Mín: EZEIZA AERO (0.3°)
+  Diferencia: 0.00°
+
+Fecha: 18072025
+  Estación Máx: BASE CARLINI (EX JUBANY) (1.1°)
+  Estación Mín: PIGUE AERO (1.1°)
+  Diferencia: 0.00°
+
+Fecha: 18082024
+  Estación Máx: BARILOCHE AERO (4.6°)
+  Estación Mín: BOLIVAR AERO (4.6°)
+  Diferencia: 0.00°
+
+Fecha: 18092024
+  Estación Máx: EL CALAFATE AERO (8.9°)
+  Estación Mín: SALTA AERO (8.9°)
+  Diferencia: 0.00°
+
+Fecha: 18102024
+  Estación Máx: GOBERNADOR GREGORES AERO (17.0°)
+  Estación Mín: AEROPARQUE AERO (17.0°)
+  Diferencia: 0.00°
+
+Fecha: 18112024
+  Estación Máx: BOLIVAR AERO (22.6°)
+  Estación Mín: PRESIDENCIA ROQUE SAENZ PEÑA AERO (22.6°)
+  Diferencia: 0.00°
+
+Fecha: 18122024
+  Estación Máx: BARILOCHE AERO (17.9°)
+  Estación Mín: LABOULAYE AERO (17.9°)
+  Diferencia: 0.00°
+
+Fecha: 19012025
+  Estación Máx: PEHUAJO AERO (25.8°)
+  Estación Mín: RIVADAVIA (25.8°)
+  Diferencia: 0.00°
+
+Fecha: 19022025
+  Estación Máx: EL CALAFATE AERO (20.9°)
+  Estación Mín: CATAMARCA AERO (20.9°)
+  Diferencia: 0.00°
+
+Fecha: 19032025
+  Estación Máx: BASE SAN MARTIN (2.9°)
+  Estación Mín: EL BOLSON AERO (2.9°)
+  Diferencia: 0.00°
+
+Fecha: 19042025
+  Estación Máx: CAMPO DE MAYO AERO (19.3°)
+  Estación Mín: RIVADAVIA (19.3°)
+  Diferencia: 0.00°
+
+Fecha: 19052025
+  Estación Máx: BARILOCHE AERO (7.9°)
+  Estación Mín: CAMPO DE MAYO AERO (7.9°)
+  Diferencia: 0.00°
+
+Fecha: 19062025
+  Estación Máx: AEROPARQUE AERO (15.0°)
+  Estación Mín: ITUZAINGO (15.0°)
+  Diferencia: 0.00°
+
+Fecha: 19072025
+  Estación Máx: BASE CARLINI (EX JUBANY) (1.3°)
+  Estación Mín: MARCOS JUAREZ AERO (1.3°)
+  Diferencia: 0.00°
+
+Fecha: 19082024
+  Estación Máx: AEROPARQUE AERO (14.5°)
+  Estación Mín: MERCEDES AERO (CTES) (14.5°)
+  Diferencia: 0.00°
+
+Fecha: 19092024
+  Estación Máx: BARILOCHE AERO (12.2°)
+  Estación Mín: VIEDMA AERO (12.2°)
+  Diferencia: 0.00°
+
+Fecha: 19102024
+  Estación Máx: RIO GRANDE B.A. (15.0°)
+  Estación Mín: OBERA (15.0°)
+  Diferencia: 0.00°
+
+Fecha: 19112024
+  Estación Máx: BASE ESPERANZA (8.3°)
+  Estación Mín: MAR DEL PLATA AERO (8.3°)
+  Diferencia: 0.00°
+
+Fecha: 19122024
+  Estación Máx: BARILOCHE AERO (16.0°)
+  Estación Mín: PIGUE AERO (16.0°)
+  Diferencia: 0.00°
+
+Fecha: 20012025
+  Estación Máx: BASE MARAMBIO (-0.7°)
+  Estación Mín: BASE ESPERANZA (-0.7°)
+  Diferencia: 0.00°
+
+Fecha: 20022025
+  Estación Máx: BARILOCHE AERO (23.0°)
+  Estación Mín: LAS LOMITAS (23.0°)
+  Diferencia: 0.00°
+
+Fecha: 20032025
+  Estación Máx: PERITO MORENO AERO (22.0°)
+  Estación Mín: TUCUMAN AERO (22.0°)
+  Diferencia: 0.00°
+
+Fecha: 20042025
+  Estación Máx: BASE ESPERANZA (8.3°)
+  Estación Mín: MORON AERO (8.3°)
+  Diferencia: 0.00°
+
+Fecha: 20052025
+  Estación Máx: AZUL AERO (13.7°)
+  Estación Mín: MONTE CASEROS AERO (13.7°)
+  Diferencia: 0.00°
+
+Fecha: 20062025
+  Estación Máx: BASE CARLINI (EX JUBANY) (0.0°)
+  Estación Mín: GUALEGUAYCHU AERO (0.0°)
+  Diferencia: 0.00°
+
+Fecha: 20072025
+  Estación Máx: BASE CARLINI (EX JUBANY) (0.6°)
+  Estación Mín: NEUQUEN AERO (0.6°)
+  Diferencia: 0.00°
+
+Fecha: 20082024
+  Estación Máx: AZUL AERO (10.0°)
+  Estación Mín: CHAMICAL AERO (10.0°)
+  Diferencia: 0.00°
+
+Fecha: 20092024
+  Estación Máx: AZUL AERO (19.2°)
+  Estación Mín: CORRIENTES AERO (19.2°)
+  Diferencia: 0.00°
+
+Fecha: 20102024
+  Estación Máx: BARILOCHE AERO (14.5°)
+  Estación Mín: TERMAS DE RIO HONDO AERO (14.5°)
+  Diferencia: 0.00°
+
+Fecha: 20112024
+  Estación Máx: BASE MARAMBIO (5.5°)
+  Estación Mín: EL BOLSON AERO (5.5°)
+  Diferencia: 0.00°
+
+Fecha: 20122024
+  Estación Máx: BARILOCHE AERO (17.8°)
+  Estación Mín: MARCOS JUAREZ AERO (17.8°)
+  Diferencia: 0.00°
+
+Fecha: 21012025
+  Estación Máx: BARILOCHE AERO (23.9°)
+  Estación Mín: CATAMARCA AERO (23.9°)
+  Diferencia: 0.00°
+
+Fecha: 21022025
+  Estación Máx: EL BOLSON AERO (25.0°)
+  Estación Mín: CHEPES (25.0°)
+  Diferencia: 0.00°
+
+Fecha: 21032025
+  Estación Máx: BARILOCHE AERO (20.0°)
+  Estación Mín: METAN (20.0°)
+  Diferencia: 0.00°
+
+Fecha: 21042025
+  Estación Máx: BARILOCHE AERO (14.1°)
+  Estación Mín: AEROPARQUE AERO (14.1°)
+  Diferencia: 0.00°
+
+Fecha: 21052025
+  Estación Máx: BARILOCHE AERO (8.6°)
+  Estación Mín: MERLO AERO (8.6°)
+  Diferencia: 0.00°
+
+Fecha: 21062025
+  Estación Máx: BASE CARLINI (EX JUBANY) (2.5°)
+  Estación Mín: BENITO JUAREZ (2.5°)
+  Diferencia: 0.00°
+
+Fecha: 21072025
+  Estación Máx: BARILOCHE AERO (4.1°)
+  Estación Mín: SANTA ROSA AERO (4.1°)
+  Diferencia: 0.00°
+
+Fecha: 21082024
+  Estación Máx: AEROPARQUE AERO (14.3°)
+  Estación Mín: TARTAGAL AERO (14.3°)
+  Diferencia: 0.00°
+
+Fecha: 21092024
+  Estación Máx: BASE ORCADAS (-5.0°)
+  Estación Mín: GOBERNADOR GREGORES AERO (-5.0°)
+  Diferencia: 0.00°
+
+Fecha: 21102024
+  Estación Máx: BARILOCHE AERO (16.0°)
+  Estación Mín: SAN MARTIN (MZA) (16.0°)
+  Diferencia: 0.00°
+
+Fecha: 21112024
+  Estación Máx: BASE MARAMBIO (4.5°)
+  Estación Mín: EL BOLSON AERO (4.5°)
+  Diferencia: 0.00°
+
+Fecha: 21122024
+  Estación Máx: BARILOCHE AERO (22.0°)
+  Estación Mín: ITUZAINGO (22.0°)
+  Diferencia: 0.00°
+
+Fecha: 22012025
+  Estación Máx: EL CALAFATE AERO (19.9°)
+  Estación Mín: CERES AERO (19.9°)
+  Diferencia: 0.00°
+
+Fecha: 22022025
+  Estación Máx: CHAPELCO AERO (25.4°)
+  Estación Mín: LA RIOJA AERO (25.4°)
+  Diferencia: 0.00°
+
+Fecha: 22032025
+  Estación Máx: BASE ESPERANZA (3.7°)
+  Estación Mín: USHUAIA AERO (3.7°)
+  Diferencia: 0.00°
+
+Fecha: 22042025
+  Estación Máx: BARILOCHE AERO (15.9°)
+  Estación Mín: BUENOS AIRES OBSERVATORIO (15.9°)
+  Diferencia: 0.00°
+
+Fecha: 22052025
+  Estación Máx: AZUL AERO (13.5°)
+  Estación Mín: CHAMICAL AERO (13.5°)
+  Diferencia: 0.00°
+
+Fecha: 22062025
+  Estación Máx: BASE ORCADAS (1.8°)
+  Estación Mín: TRELEW AERO (1.8°)
+  Diferencia: 0.00°
+
+Fecha: 22072025
+  Estación Máx: BAHIA BLANCA AERO (10.3°)
+  Estación Mín: AEROPARQUE AERO (10.3°)
+  Diferencia: 0.00°
+
+Fecha: 22082024
+  Estación Máx: BAHIA BLANCA AERO (9.1°)
+  Estación Mín: TUCUMAN AERO (9.1°)
+  Diferencia: 0.00°
+
+Fecha: 22092024
+  Estación Máx: AZUL AERO (19.3°)
+  Estación Mín: CERES AERO (19.3°)
+  Diferencia: 0.00°
+
+Fecha: 22102024
+  Estación Máx: BASE ORCADAS (0.0°)
+  Estación Mín: CHAPELCO AERO (0.0°)
+  Diferencia: 0.00°
+
+Fecha: 22112024
+  Estación Máx: BASE CARLINI (EX JUBANY) (10.0°)
+  Estación Mín: GOBERNADOR GREGORES AERO (10.0°)
+  Diferencia: 0.00°
+
+Fecha: 22122024
+  Estación Máx: GOBERNADOR GREGORES AERO (21.5°)
+  Estación Mín: TERMAS DE RIO HONDO AERO (21.5°)
+  Diferencia: 0.00°
+
+Fecha: 23012025
+  Estación Máx: BARILOCHE AERO (19.4°)
+  Estación Mín: NEUQUEN AERO (19.4°)
+  Diferencia: 0.00°
+
+Fecha: 23022025
+  Estación Máx: BARILOCHE AERO (23.0°)
+  Estación Mín: MARCOS JUAREZ AERO (23.0°)
+  Diferencia: 0.00°
+
+Fecha: 23032025
+  Estación Máx: AZUL AERO (17.8°)
+  Estación Mín: CAMPO DE MAYO AERO (17.8°)
+  Diferencia: 0.00°
+
+Fecha: 23042025
+  Estación Máx: BARILOCHE AERO (16.3°)
+  Estación Mín: PILAR OBSERVATORIO (16.3°)
+  Diferencia: 0.00°
+
+Fecha: 23052025
+  Estación Máx: AEROPARQUE AERO (16.2°)
+  Estación Mín: ORAN AERO (16.2°)
+  Diferencia: 0.00°
+
+Fecha: 23062025
+  Estación Máx: BARILOCHE AERO (5.8°)
+  Estación Mín: FORMOSA AERO (5.8°)
+  Diferencia: 0.00°
+
+Fecha: 23072025
+  Estación Máx: BARILOCHE AERO (6.4°)
+  Estación Mín: GUALEGUAYCHU AERO (6.4°)
+  Diferencia: 0.00°
+
+Fecha: 23082024
+  Estación Máx: BASE CARLINI (EX JUBANY) (-0.6°)
+  Estación Mín: PILAR OBSERVATORIO (-0.6°)
+  Diferencia: 0.00°
+
+Fecha: 23092024
+  Estación Máx: AEROPARQUE AERO (19.0°)
+  Estación Mín: TERMAS DE RIO HONDO AERO (19.0°)
+  Diferencia: 0.00°
+
+Fecha: 23102024
+  Estación Máx: AZUL AERO (18.8°)
+  Estación Mín: AEROPARQUE AERO (18.8°)
+  Diferencia: 0.00°
+
+Fecha: 23112024
+  Estación Máx: BARILOCHE AERO (18.0°)
+  Estación Mín: EL PALOMAR AERO (18.0°)
+  Diferencia: 0.00°
+
+Fecha: 23122024
+  Estación Máx: BARILOCHE AERO (21.2°)
+  Estación Mín: ORAN AERO (21.2°)
+  Diferencia: 0.00°
+
+Fecha: 24012025
+  Estación Máx: EL BOLSON AERO (23.0°)
+  Estación Mín: CONCORDIA AERO (23.0°)
+  Diferencia: 0.00°
+
+Fecha: 24022025
+  Estación Máx: AZUL AERO (27.0°)
+  Estación Mín: MENDOZA AERO (27.0°)
+  Diferencia: 0.00°
+
+Fecha: 24032025
+  Estación Máx: BAHIA BLANCA AERO (19.5°)
+  Estación Mín: MONTE CASEROS AERO (19.5°)
+  Diferencia: 0.00°
+
+Fecha: 24042025
+  Estación Máx: BARILOCHE AERO (13.9°)
+  Estación Mín: CORDOBA AERO (13.9°)
+  Diferencia: 0.00°
+
+Fecha: 24052025
+  Estación Máx: BASE ORCADAS (1.4°)
+  Estación Mín: PUERTO DESEADO AERO (1.4°)
+  Diferencia: 0.00°
+
+Fecha: 24062025
+  Estación Máx: BASE CARLINI (EX JUBANY) (1.6°)
+  Estación Mín: COMODORO RIVADAVIA AERO (1.6°)
+  Diferencia: 0.00°
+
+Fecha: 24072025
+  Estación Máx: AZUL AERO (12.0°)
+  Estación Mín: ITUZAINGO (12.0°)
+  Diferencia: 0.00°
+
+Fecha: 24082024
+  Estación Máx: BASE CARLINI (EX JUBANY) (0.5°)
+  Estación Mín: EZEIZA AERO (0.5°)
+  Diferencia: 0.00°
+
+Fecha: 24092024
+  Estación Máx: BARILOCHE AERO (8.4°)
+  Estación Mín: JUNIN AERO (8.4°)
+  Diferencia: 0.00°
+
+Fecha: 24102024
+  Estación Máx: CAMPO DE MAYO AERO (21.3°)
+  Estación Mín: IGUAZU AERO (21.3°)
+  Diferencia: 0.00°
+
+Fecha: 24112024
+  Estación Máx: BASE SAN MARTIN (1.9°)
+  Estación Mín: RIO GALLEGOS AERO (1.9°)
+  Diferencia: 0.00°
+
+Fecha: 24122024
+  Estación Máx: MAR DEL PLATA AERO (19.3°)
+  Estación Mín: CORRIENTES AERO (19.3°)
+  Diferencia: 0.00°
+
+Fecha: 25012025
+  Estación Máx: CHAPELCO AERO (23.0°)
+  Estación Mín: CORRIENTES AERO (23.0°)
+  Diferencia: 0.00°
+
+Fecha: 25022025
+  Estación Máx: BUENOS AIRES OBSERVATORIO (27.0°)
+  Estación Mín: CORRIENTES AERO (27.0°)
+  Diferencia: 0.00°
+
+Fecha: 25032025
+  Estación Máx: CATAMARCA AERO (18.5°)
+  Estación Mín: CERES AERO (18.5°)
+  Diferencia: 0.00°
+
+Fecha: 25042025
+  Estación Máx: CHAPELCO AERO (12.1°)
+  Estación Mín: DOLORES AERO (12.1°)
+  Diferencia: 0.00°
+
+Fecha: 25052025
+  Estación Máx: AEROPARQUE AERO (17.5°)
+  Estación Mín: IGUAZU AERO (17.5°)
+  Diferencia: 0.00°
+
+Fecha: 25062025
+  Estación Máx: BARILOCHE AERO (3.4°)
+  Estación Mín: GUALEGUAYCHU AERO (3.4°)
+  Diferencia: 0.00°
+
+Fecha: 25072025
+  Estación Máx: AEROPARQUE AERO (13.8°)
+  Estación Mín: IGUAZU AERO (13.8°)
+  Diferencia: 0.00°
+
+Fecha: 25082024
+  Estación Máx: BASE CARLINI (EX JUBANY) (1.8°)
+  Estación Mín: RECONQUISTA AERO (1.8°)
+  Diferencia: 0.00°
+
+Fecha: 25092024
+  Estación Máx: AEROPARQUE AERO (19.3°)
+  Estación Mín: LAS LOMITAS (19.3°)
+  Diferencia: 0.00°
+
+Fecha: 25102024
+  Estación Máx: BARILOCHE AERO (14.0°)
+  Estación Mín: CAMPO DE MAYO AERO (14.0°)
+  Diferencia: 0.00°
+
+Fecha: 25112024
+  Estación Máx: BASE BELGRANO II (-6.8°)
+  Estación Mín: BASE MARAMBIO (-6.8°)
+  Diferencia: 0.00°
+
+Fecha: 25122024
+  Estación Máx: BASE CARLINI (EX JUBANY) (5.6°)
+  Estación Mín: LA QUIACA OBSERVATORIO (5.6°)
+  Diferencia: 0.00°
+
+Fecha: 26012025
+  Estación Máx: RIO GRANDE B.A. (17.4°)
+  Estación Mín: VIEDMA AERO (17.4°)
+  Diferencia: 0.00°
+
+Fecha: 26022025
+  Estación Máx: AZUL AERO (23.8°)
+  Estación Mín: OBERA (23.8°)
+  Diferencia: 0.00°
+
+Fecha: 26032025
+  Estación Máx: BARILOCHE AERO (20.4°)
+  Estación Mín: MERCEDES AERO (CTES) (20.4°)
+  Diferencia: 0.00°
+
+Fecha: 26042025
+  Estación Máx: BARILOCHE AERO (9.7°)
+  Estación Mín: LA PLATA AERO (9.7°)
+  Diferencia: 0.00°
+
+Fecha: 26052025
+  Estación Máx: AZUL AERO (16.0°)
+  Estación Mín: TERMAS DE RIO HONDO AERO (16.0°)
+  Diferencia: 0.00°
+
+Fecha: 26062025
+  Estación Máx: BASE MARAMBIO (-11.7°)
+  Estación Mín: BASE ESPERANZA (-11.7°)
+  Diferencia: 0.00°
+
+Fecha: 26072025
+  Estación Máx: AZUL AERO (9.0°)
+  Estación Mín: CATAMARCA AERO (9.0°)
+  Diferencia: 0.00°
+
+Fecha: 26082024
+  Estación Máx: BARILOCHE AERO (8.8°)
+  Estación Mín: TRELEW AERO (8.8°)
+  Diferencia: 0.00°
+
+Fecha: 26092024
+  Estación Máx: CHAPELCO AERO (18.0°)
+  Estación Mín: POSADAS AERO (18.0°)
+  Diferencia: 0.00°
+
+Fecha: 26102024
+  Estación Máx: RIO GRANDE B.A. (14.4°)
+  Estación Mín: BERNARDO DE IRIGOYEN AERO (14.4°)
+  Diferencia: 0.00°
+
+Fecha: 26112024
+  Estación Máx: BASE ESPERANZA (5.5°)
+  Estación Mín: EL BOLSON AERO (5.5°)
+  Diferencia: 0.00°
+
+Fecha: 26122024
+  Estación Máx: BASE CARLINI (EX JUBANY) (4.8°)
+  Estación Mín: LA QUIACA OBSERVATORIO (4.6°)
+  Diferencia: 0.20°
+
+Fecha: 27012025
+  Estación Máx: BARILOCHE AERO (19.5°)
+  Estación Mín: BOLIVAR AERO (19.5°)
+  Diferencia: 0.00°
+
+Fecha: 27022025
+  Estación Máx: BARILOCHE AERO (20.2°)
+  Estación Mín: METAN (20.2°)
+  Diferencia: 0.00°
+
+Fecha: 27032025
+  Estación Máx: BASE ESPERANZA (5.2°)
+  Estación Mín: SANTA CRUZ AERO (5.2°)
+  Diferencia: 0.00°
+
+Fecha: 27042025
+  Estación Máx: BASE CARLINI (EX JUBANY) (4.0°)
+  Estación Mín: PUERTO DESEADO AERO (4.0°)
+  Diferencia: 0.00°
+
+Fecha: 27052025
+  Estación Máx: BARILOCHE AERO (6.4°)
+  Estación Mín: RIO CUARTO AERO (6.4°)
+  Diferencia: 0.00°
+
+Fecha: 27062025
+  Estación Máx: BAHIA BLANCA AERO (6.8°)
+  Estación Mín: CORRIENTES AERO (6.8°)
+  Diferencia: 0.00°
+
+Fecha: 27072025
+  Estación Máx: AEROPARQUE AERO (13.0°)
+  Estación Mín: FORMOSA AERO (13.0°)
+  Diferencia: 0.00°
+
+Fecha: 27082024
+  Estación Máx: BASE CARLINI (EX JUBANY) (1.3°)
+  Estación Mín: CORDOBA AERO (1.3°)
+  Diferencia: 0.00°
+
+Fecha: 27092024
+  Estación Máx: BARILOCHE AERO (9.4°)
+  Estación Mín: VILLA DOLORES AERO (9.4°)
+  Diferencia: 0.00°
+
+Fecha: 27102024
+  Estación Máx: BASE CARLINI (EX JUBANY) (1.7°)
+  Estación Mín: TANDIL AERO (1.7°)
+  Diferencia: 0.00°
+
+Fecha: 27112024
+  Estación Máx: BASE MARAMBIO (10.5°)
+  Estación Mín: VICTORICA (10.5°)
+  Diferencia: 0.00°
+
+Fecha: 27122024
+  Estación Máx: BASE MARAMBIO (9.5°)
+  Estación Mín: EL BOLSON AERO (9.5°)
+  Diferencia: 0.00°
+
+Fecha: 28012025
+  Estación Máx: BASE SAN MARTIN (7.0°)
+  Estación Mín: LA QUIACA OBSERVATORIO (7.0°)
+  Diferencia: 0.00°
+
+Fecha: 28022025
+  Estación Máx: CHAPELCO AERO (23.0°)
+  Estación Mín: PUNTA INDIO B.A. (23.0°)
+  Diferencia: 0.00°
+
+Fecha: 28032025
+  Estación Máx: BARILOCHE AERO (17.2°)
+  Estación Mín: DOLORES AERO (17.2°)
+  Diferencia: 0.00°
+
+Fecha: 28042025
+  Estación Máx: BASE CARLINI (EX JUBANY) (4.1°)
+  Estación Mín: CORONEL SUAREZ AERO (4.1°)
+  Diferencia: 0.00°
+
+Fecha: 28052025
+  Estación Máx: BASE MARAMBIO (-4.6°)
+  Estación Mín: PUERTO MADRYN AERO (-4.6°)
+  Diferencia: 0.00°
+
+Fecha: 28062025
+  Estación Máx: BARILOCHE AERO (1.3°)
+  Estación Mín: MERLO AERO (1.3°)
+  Diferencia: 0.00°
+
+Fecha: 28072025
+  Estación Máx: BARILOCHE AERO (2.8°)
+  Estación Mín: BOLIVAR AERO (2.8°)
+  Diferencia: 0.00°
+
+Fecha: 28082024
+  Estación Máx: BARILOCHE AERO (13.4°)
+  Estación Mín: BERNARDO DE IRIGOYEN AERO (13.4°)
+  Diferencia: 0.00°
+
+Fecha: 28092024
+  Estación Máx: BARILOCHE AERO (10.6°)
+  Estación Mín: GUALEGUAYCHU AERO (10.6°)
+  Diferencia: 0.00°
+
+Fecha: 28102024
+  Estación Máx: BASE BELGRANO II (0.8°)
+  Estación Mín: EL BOLSON AERO (0.8°)
+  Diferencia: 0.00°
+
+Fecha: 28112024
+  Estación Máx: BASE MARAMBIO (7.1°)
+  Estación Mín: SAN JULIAN AERO (7.1°)
+  Diferencia: 0.00°
+
+Fecha: 28122024
+  Estación Máx: AEROPARQUE AERO (24.0°)
+  Estación Mín: CHEPES (24.0°)
+  Diferencia: 0.00°
+
+Fecha: 29012025
+  Estación Máx: LA QUIACA OBSERVATORIO (19.2°)
+  Estación Mín: CATAMARCA AERO (19.2°)
+  Diferencia: 0.00°
+
+Fecha: 29032025
+  Estación Máx: BASE ORCADAS (3.0°)
+  Estación Mín: GOBERNADOR GREGORES AERO (3.0°)
+  Diferencia: 0.00°
+
+Fecha: 29042025
+  Estación Máx: BASE ORCADAS (3.3°)
+  Estación Mín: MAR DEL PLATA AERO (3.3°)
+  Diferencia: 0.00°
+
+Fecha: 29052025
+  Estación Máx: BASE ESPERANZA (0.5°)
+  Estación Mín: EL PALOMAR AERO (0.5°)
+  Diferencia: 0.00°
+
+Fecha: 29062025
+  Estación Máx: BAHIA BLANCA AERO (7.7°)
+  Estación Mín: CORRIENTES AERO (7.7°)
+  Diferencia: 0.00°
+
+Fecha: 29072025
+  Estación Máx: BASE ESPERANZA (3.5°)
+  Estación Mín: EL BOLSON AERO (3.5°)
+  Diferencia: 0.00°
+
+Fecha: 29082024
+  Estación Máx: BAHIA BLANCA AERO (17.2°)
+  Estación Mín: BERNARDO DE IRIGOYEN AERO (17.2°)
+  Diferencia: 0.00°
+
+Fecha: 29092024
+  Estación Máx: BARILOCHE AERO (10.0°)
+  Estación Mín: BOLIVAR AERO (10.0°)
+  Diferencia: 0.00°
+
+Fecha: 29102024
+  Estación Máx: BASE CARLINI (EX JUBANY) (2.8°)
+  Estación Mín: MAQUINCHAO (2.8°)
+  Diferencia: 0.00°
+
+Fecha: 29112024
+  Estación Máx: BARILOCHE AERO (22.2°)
+  Estación Mín: SAUCE VIEJO AERO (22.2°)
+  Diferencia: 0.00°
+
+Fecha: 29122024
+  Estación Máx: BASE ESPERANZA (12.0°)
+  Estación Mín: DOLORES AERO (12.0°)
+  Diferencia: 0.00°
+
+Fecha: 30012025
+  Estación Máx: PUNTA INDIO B.A. (27.6°)
+  Estación Mín: NEUQUEN AERO (27.6°)
+  Diferencia: 0.00°
+
+Fecha: 30032025
+  Estación Máx: BARILOCHE AERO (12.6°)
+  Estación Mín: TRES ARROYOS (12.6°)
+  Diferencia: 0.00°
+
+Fecha: 30042025
+  Estación Máx: BASE ESPERANZA (4.0°)
+  Estación Mín: GOBERNADOR GREGORES AERO (4.0°)
+  Diferencia: 0.00°
+
+Fecha: 30052025
+  Estación Máx: BARILOCHE AERO (9.0°)
+  Estación Mín: ITUZAINGO (9.0°)
+  Diferencia: 0.00°
+
+Fecha: 30062025
+  Estación Máx: BASE ORCADAS (2.2°)
+  Estación Mín: CORRIENTES AERO (2.2°)
+  Diferencia: 0.00°
+
+Fecha: 30072025
+  Estación Máx: EL CALAFATE AERO (0.4°)
+  Estación Mín: SAN JUAN AERO (0.4°)
+  Diferencia: 0.00°
+
+Fecha: 30082024
+  Estación Máx: BARILOCHE AERO (15.0°)
+  Estación Mín: ITUZAINGO (15.0°)
+  Diferencia: 0.00°
+
+Fecha: 30092024
+  Estación Máx: AZUL AERO (22.6°)
+  Estación Mín: CORDOBA OBSERVATORIO (22.6°)
+  Diferencia: 0.00°
+
+Fecha: 30102024
+  Estación Máx: RIO GRANDE B.A. (17.3°)
+  Estación Mín: MONTE CASEROS AERO (17.3°)
+  Diferencia: 0.00°
+
+Fecha: 30112024
+  Estación Máx: BASE BELGRANO II (-4.0°)
+  Estación Mín: BASE ESPERANZA (-4.0°)
+  Diferencia: 0.00°
+
+Fecha: 30122024
+  Estación Máx: BASE MARAMBIO (11.7°)
+  Estación Mín: COMODORO RIVADAVIA AERO (11.7°)
+  Diferencia: 0.00°
+
+Fecha: 31012025
+  Estación Máx: GOBERNADOR GREGORES AERO (18.0°)
+  Estación Mín: BOLIVAR AERO (18.0°)
+  Diferencia: 0.00°
+
+Fecha: 31032025
+  Estación Máx: BARILOCHE AERO (13.6°)
+  Estación Mín: BUENOS AIRES OBSERVATORIO (13.6°)
+  Diferencia: 0.00°
+
+Fecha: 31052025
+  Estación Máx: BASE CARLINI (EX JUBANY) (3.0°)
+  Estación Mín: CONCORDIA AERO (3.0°)
+  Diferencia: 0.00°
+
+Fecha: 31072025
+  Estación Máx: BARILOCHE AERO (10.1°)
+  Estación Mín: MARCOS JUAREZ AERO (10.1°)
+  Diferencia: 0.00°
+
+Fecha: 31082024
+  Estación Máx: AZUL AERO (9.6°)
+  Estación Mín: PARANA AERO (9.6°)
+  Diferencia: 0.00°
+
+Fecha: 31102024
+  Estación Máx: COMODORO RIVADAVIA AERO (24.0°)
+  Estación Mín: LA RIOJA AERO (24.0°)
+  Diferencia: 0.00°
+
+Fecha: 31122024
+  Estación Máx: BASE ESPERANZA (8.0°)
+  Estación Mín: USHUAIA AERO (8.0°)
+  Diferencia: 0.00°
 

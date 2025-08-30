@@ -1,11 +1,11 @@
 from collections import defaultdict #Se utiliza para proporcionar un valor predeterminado para una clave inexistente en el diccionario, eliminando la necesidad de verificar si la clave existe antes de usarla.
-from itertools import islice
+from itertools import islice #Para saltear lineas
 
 # ------------------ Creación del diccionario principal ------------------
 datos = defaultdict(lambda: {"fecha": [], "tmax": [], "tmin": []})
 
 # ------------------ Lectura del archivo ------------------
-with open("Practicos/Practico1/temperaturas_prueba.txt", "r", encoding="latin-1") as archivo:
+with open("Practicos/Practico1/registro_temperatura365d.txt", "r", encoding="latin-1") as archivo:
     # Saltamos las dos primeras líneas del encabezado
     for linea in islice(archivo, 3, None):
         
@@ -31,10 +31,11 @@ with open("Practicos/Practico1/temperaturas_prueba.txt", "r", encoding="latin-1"
         datos[estacion]["tmin"].append(tmin)
         
         """ Ejemplo de como funciona esto: datos = {
-            "AEROPARQUE AERO": {
-                "fecha": ["17082025", "18082025", ...], 
-                "tmax": [14.2, 15.0, ...],
-                "tmin": [10.0, 9.5, ...] 
+            "AEROPARQUE AERO": {                        | ESTACION
+            
+                "fecha": ["17082025", "18082025", ...], |
+                "tmax": [14.2, 15.0, ...],              |INFO
+                "tmin": [10.0, 9.5, ...]                |
                 },
                 "CORDOBA OBSERVATORIO": { 
                 "fecha": [...], 
@@ -72,12 +73,12 @@ with open("Practicos/Practico1/reporte_CelesteNuñez.txt", "w") as reporte:
     reporte.write("2 - Estación con mayor amplitud térmica en el día\n")
     reporte.write("==================================================\n\n")
 
-    # Creamos un diccionario para almacenar la estación con mayor amplitud por cada fecha
+    # Creamos un diccionario para almacenar la estación con mayor amplitud
     mayor_amplitud_dia = defaultdict(lambda: {"estacion": "", "amplitud": None})
 
     # Recorremos todas las estaciones y sus datos
     for estacion, info in datos.items():
-        #Iterar en paralelo todas las listas
+        #Iterar en paralelo todas las listas (la tmax, tmin, fecha juntas)
         for tmax, tmin, fecha in zip(info["tmax"], info["tmin"], info["fecha"]):
             if tmax is not None and tmin is not None:
                 # Calculamos la amplitud térmica del día
@@ -103,17 +104,17 @@ with open("Practicos/Practico1/reporte_CelesteNuñez.txt", "w") as reporte:
 
     # Recorremos todas las estaciones y sus datos
     for estacion, info in datos.items():
-        #Iterar en paralelo todas las listas
+        #Iterar en paralelo todas las listas (la tmax, tmin, fecha juntas)
         for tmax, tmin, fecha in zip(info["tmax"], info["tmin"], info["fecha"]):
             if tmax is not None and tmin is not None:
                 # Calculamos la amplitud térmica del día
                 amplitud = tmax - tmin
-                # Actualizamos si es la mayor amplitud registrada para esa fecha
+                # Actualizamos si es la menor amplitud registrada para esa fecha
                 if (menor_amplitud_dia[fecha]["amplitud"] is None) or (amplitud < menor_amplitud_dia[fecha]["amplitud"]):
                     menor_amplitud_dia[fecha]["amplitud"] = amplitud
                     menor_amplitud_dia[fecha]["estacion"] = estacion
 
-    # Escribimos el reporte por fecha, mostrando la estación con mayor amplitud
+    # Escribimos el reporte por fecha, mostrando la estación con menor amplitud
     for fecha in menor_amplitud_dia.keys():
         est = menor_amplitud_dia[fecha]["estacion"]
         amp = menor_amplitud_dia[fecha]["amplitud"]
@@ -122,7 +123,77 @@ with open("Practicos/Practico1/reporte_CelesteNuñez.txt", "w") as reporte:
 #4: La máxima diferencia de temperatura entre minima y máxima temperatura entre
     #dos estaciones meteorológicas en un mismo día, indicando las temperaturas y las
     #estaciones que las registraron.  
-    reporte.write("==================================================\n")
-    reporte.write("4 - Máxima diferencia de temperatura entre estaciones\n")
-    reporte.write("==================================================\n\n")
+    reporte.write("======================================================\n")
+    reporte.write("4 - Máxima diferencia entre estaciones en un mismo día\n")
+    reporte.write("======================================================\n\n")
 
+    # Diccionario para almacenar info por fecha
+    max_diferencia_por_dia = defaultdict(lambda: {"tmax": None, "tmin": None, "est_max": "", "est_min": ""})
+
+    # Recorremos todas las estaciones y sus datos
+    for estacion, info in datos.items():
+        for tmax, tmin, fecha in zip(info["tmax"], info["tmin"], info["fecha"]):
+            if tmax is not None:
+                # Comparamos la máxima temperatura del día
+                if (max_diferencia_por_dia[fecha]["tmax"] is None) or (tmax > max_diferencia_por_dia[fecha]["tmax"]):
+                    max_diferencia_por_dia[fecha]["tmax"] = tmax
+                    max_diferencia_por_dia[fecha]["est_max"] = estacion
+            if tmin is not None:
+                # Comparamos la mínima temperatura del día
+                if (max_diferencia_por_dia[fecha]["tmin"] is None) or (tmin < max_diferencia_por_dia[fecha]["tmin"]):
+                    max_diferencia_por_dia[fecha]["tmin"] = tmin
+                    max_diferencia_por_dia[fecha]["est_min"] = estacion
+
+    # Escribimos el reporte por fecha
+    for fecha in sorted(max_diferencia_por_dia.keys()):
+        info_dia = max_diferencia_por_dia[fecha]
+        if info_dia["tmax"] is not None and info_dia["tmin"] is not None:
+            diff = info_dia["tmax"] - info_dia["tmin"]
+            reporte.write(f"Fecha: {fecha}\n")
+            reporte.write(f"  Estación Máx: {info_dia['est_max']} ({info_dia['tmax']}°)\n")
+            reporte.write(f"  Estación Mín: {info_dia['est_min']} ({info_dia['tmin']}°)\n")
+            reporte.write(f"  Diferencia: {diff:.2f}°\n\n")
+            
+#5: La mínima diferencia de temperatura entre minima y máxima temperatura entre
+    #dos estaciones meteorológicas en un mismo día, indicando las temperaturas y las
+    #estaciones que las registraron.
+    reporte.write("======================================================\n")
+    reporte.write("5 - Mínima diferencia entre estaciones en un mismo día\n")
+    reporte.write("======================================================\n\n")
+    
+    # Diccionario para almacenar la mínima diferencia por día
+    min_diferencia_por_dia = defaultdict(lambda: {
+        "tmax": None, "tmin": None, "est_max": "", "est_min": "", "diferencia": None
+    })
+
+    #Armamos una lista con las temperatuas maximas y minimas y sus estaciones asociadas
+    for fecha in sorted(set().union(*[info["fecha"] for info in datos.values()])): # Junta las fechas de la lista "fecha" en un unico conjunto set()   
+        tmax_list = [(est, t) #Tupla a guardar en la lista
+                        for est, info in datos.items() #Recorre el diccionario con las estaciones
+                            for f, t in zip(info["fecha"], info["tmax"]) #Accedemos a la tmax de cada dia
+                            if f == fecha and t is not None] #Condición para filtrar por fecha y tmax
+
+        tmin_list = [(est, t)
+                        for est, info in datos.items()
+                            for f, t in zip(info["fecha"], info["tmin"]) if f == fecha and t is not None]
+
+        # Buscamos la mínima diferencia válida
+        for est_max, tmax in tmax_list:
+            for est_min, tmin in tmin_list:
+                    diff = abs(tmax - tmin)
+                    if (min_diferencia_por_dia[fecha]["diferencia"] is None) or (diff < min_diferencia_por_dia[fecha]["diferencia"]):
+                        min_diferencia_por_dia[fecha]["diferencia"] = diff
+                        min_diferencia_por_dia[fecha]["tmax"] = tmax
+                        min_diferencia_por_dia[fecha]["tmin"] = tmin
+                        min_diferencia_por_dia[fecha]["est_max"] = est_max
+                        min_diferencia_por_dia[fecha]["est_min"] = est_min
+
+    # Escribimos el reporte
+    for fecha, info_dia in min_diferencia_por_dia.items():
+        if info_dia["diferencia"] is not None:
+            reporte.write(f"Fecha: {fecha}\n")
+            reporte.write(f"  Estación Máx: {info_dia['est_max']} ({info_dia['tmax']}°)\n")
+            reporte.write(f"  Estación Mín: {info_dia['est_min']} ({info_dia['tmin']}°)\n")
+            reporte.write(f"  Diferencia: {info_dia['diferencia']:.2f}°\n\n")
+        
+    
