@@ -5,7 +5,7 @@ from itertools import islice #Para saltear lineas
 datos = defaultdict(lambda: {"fecha": [], "tmax": [], "tmin": []})
 
 # ------------------ Lectura del archivo ------------------
-with open("Practicos/Practico1/registro_temperatura365d.txt", "r", encoding="latin-1") as archivo:
+with open("Practicos/Practico1/registro_temperatura365d.txt.txt", "r", encoding="latin-1") as archivo:
     # Saltamos las dos primeras líneas del encabezado
     for linea in islice(archivo, 3, None):
         
