@@ -44,6 +44,17 @@ Antes de esto, todo era más abrastracto pero desde acá es dependiente del HW, 
 **No se q titulo es xd**
 
 → Codigo fuente del programador:
+```int suma (int a, int b){
+    int x = a+ b;
+    return x;
+}
+
+int main (int argc, char* argv[]){
+int resultado = 0; 
+     resultado = suma(3, 5);
+        return 0;
+}
+```
 
 [Ejemplo Código fuente](CompiladoresCodigo.cpp)
 
