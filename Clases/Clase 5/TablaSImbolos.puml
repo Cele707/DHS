@@ -1,0 +1,35 @@
+//VER = ALT + D
+
+@startuml TablaSimbolos
+
+class TablaSimbolos <<singleton>>{
+    -List <Contexto> contexto
+    +getTablaSImbolos(): TablaSimbolos
+    +addContexto()
+    +deleteContexto()
+    +addSimbolo(ID)
+    +buscarSimbolo(String, nombre): ID
+    +buscarSimboloContexto(String, nombre): //seria buscar localmente, dentro de la parentesis
+}
+
+class Contexto{
+    -diccionario <ID> simbolos
+    + addSimbolo(ID id)
+    + buscarSimbolo(String, nombre): ID
+
+}
+class ID <<abstract>>{
+    -String nombre
+    -String tipoDato
+    -bool inicializado
+    -bool usado
+    + setInicializado()
+    + getInicializado()
+    + getUsado()
+    + setUsado()
+} 
+
+TablaSimbolos -right-> Contexto
+Contexto -right-> ID
+
+@enduml
