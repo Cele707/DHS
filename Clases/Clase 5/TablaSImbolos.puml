@@ -29,7 +29,18 @@ class ID <<abstract>>{
     + setUsado()
 } 
 
+class Variable {
+
+}
+
+class Funcion {
+    - List<ID> args
+    - getListaArgs() : Lista<ID>
+}
+
 TablaSimbolos -right-> Contexto
 Contexto -right-> ID
+ID <|-- Variable
+ID <|-- Funcion
 
 @enduml

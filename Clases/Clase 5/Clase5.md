@@ -10,8 +10,5 @@ no signo de ? y esas cosas
 agregar comparaciones y operaciones logicas, contemplar numeros negativos tmb para aritmeticas
 
 **Tabla de simbolos**
--contexto
--tabla id valido
--
+desde el ultimo, hasta el primero, desde el contexto (dentro de la funcion) hasta lo global
 
-alt + d abrir plantUML preview
