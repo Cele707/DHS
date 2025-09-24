@@ -13,7 +13,6 @@
             // Archivo a parsear
             "input": "/home/cele/Repositorios Git/DHS/Practicos/Practico2/input/entrada.txt",
             // Simbolo inicial
-            //"startRule": "programa",
             "startRule": "programa",
             // Muestra Arbol Sintactico
             "printParseTree": true,
