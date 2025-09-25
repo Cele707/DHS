@@ -1,7 +1,5 @@
 *.pyc
 *.class
-<<<<<<< HEAD
+compilador*
 .antlr
-=======
->>>>>>> origin/main
 target
