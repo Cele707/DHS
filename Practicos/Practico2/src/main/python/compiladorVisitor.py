@@ -74,18 +74,43 @@ class compiladorVisitor(ParseTreeVisitor):
         return self.visitChildren(ctx)
 
 
-    # Visit a parse tree produced by compiladorParser#forInit.
-    def visitForInit(self, ctx:compiladorParser.ForInitContext):
+    # Visit a parse tree produced by compiladorParser#f_inicializacion.
+    def visitF_inicializacion(self, ctx:compiladorParser.F_inicializacionContext):
         return self.visitChildren(ctx)
 
 
-    # Visit a parse tree produced by compiladorParser#forCond.
-    def visitForCond(self, ctx:compiladorParser.ForCondContext):
+    # Visit a parse tree produced by compiladorParser#f_inicializador.
+    def visitF_inicializador(self, ctx:compiladorParser.F_inicializadorContext):
         return self.visitChildren(ctx)
 
 
-    # Visit a parse tree produced by compiladorParser#forUpdate.
-    def visitForUpdate(self, ctx:compiladorParser.ForUpdateContext):
+    # Visit a parse tree produced by compiladorParser#f_lista_inic.
+    def visitF_lista_inic(self, ctx:compiladorParser.F_lista_inicContext):
+        return self.visitChildren(ctx)
+
+
+    # Visit a parse tree produced by compiladorParser#f_condicion.
+    def visitF_condicion(self, ctx:compiladorParser.F_condicionContext):
+        return self.visitChildren(ctx)
+
+
+    # Visit a parse tree produced by compiladorParser#f_actualizacion.
+    def visitF_actualizacion(self, ctx:compiladorParser.F_actualizacionContext):
+        return self.visitChildren(ctx)
+
+
+    # Visit a parse tree produced by compiladorParser#f_lista_cya.
+    def visitF_lista_cya(self, ctx:compiladorParser.F_lista_cyaContext):
+        return self.visitChildren(ctx)
+
+
+    # Visit a parse tree produced by compiladorParser#f_lista_prima.
+    def visitF_lista_prima(self, ctx:compiladorParser.F_lista_primaContext):
+        return self.visitChildren(ctx)
+
+
+    # Visit a parse tree produced by compiladorParser#exp_for.
+    def visitExp_for(self, ctx:compiladorParser.Exp_forContext):
         return self.visitChildren(ctx)
 
 

@@ -1,1 +1,1 @@
-b = ++a * 2;
+for (int x = 0, int a = 1, z = 2; x < 5, int y = 2, c = 3; ++x, int a = a * z, b = a * a);

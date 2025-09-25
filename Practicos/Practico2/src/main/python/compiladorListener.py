@@ -125,30 +125,75 @@ class compiladorListener(ParseTreeListener):
         pass
 
 
-    # Enter a parse tree produced by compiladorParser#forInit.
-    def enterForInit(self, ctx:compiladorParser.ForInitContext):
+    # Enter a parse tree produced by compiladorParser#f_inicializacion.
+    def enterF_inicializacion(self, ctx:compiladorParser.F_inicializacionContext):
         pass
 
-    # Exit a parse tree produced by compiladorParser#forInit.
-    def exitForInit(self, ctx:compiladorParser.ForInitContext):
-        pass
-
-
-    # Enter a parse tree produced by compiladorParser#forCond.
-    def enterForCond(self, ctx:compiladorParser.ForCondContext):
-        pass
-
-    # Exit a parse tree produced by compiladorParser#forCond.
-    def exitForCond(self, ctx:compiladorParser.ForCondContext):
+    # Exit a parse tree produced by compiladorParser#f_inicializacion.
+    def exitF_inicializacion(self, ctx:compiladorParser.F_inicializacionContext):
         pass
 
 
-    # Enter a parse tree produced by compiladorParser#forUpdate.
-    def enterForUpdate(self, ctx:compiladorParser.ForUpdateContext):
+    # Enter a parse tree produced by compiladorParser#f_inicializador.
+    def enterF_inicializador(self, ctx:compiladorParser.F_inicializadorContext):
         pass
 
-    # Exit a parse tree produced by compiladorParser#forUpdate.
-    def exitForUpdate(self, ctx:compiladorParser.ForUpdateContext):
+    # Exit a parse tree produced by compiladorParser#f_inicializador.
+    def exitF_inicializador(self, ctx:compiladorParser.F_inicializadorContext):
+        pass
+
+
+    # Enter a parse tree produced by compiladorParser#f_lista_inic.
+    def enterF_lista_inic(self, ctx:compiladorParser.F_lista_inicContext):
+        pass
+
+    # Exit a parse tree produced by compiladorParser#f_lista_inic.
+    def exitF_lista_inic(self, ctx:compiladorParser.F_lista_inicContext):
+        pass
+
+
+    # Enter a parse tree produced by compiladorParser#f_condicion.
+    def enterF_condicion(self, ctx:compiladorParser.F_condicionContext):
+        pass
+
+    # Exit a parse tree produced by compiladorParser#f_condicion.
+    def exitF_condicion(self, ctx:compiladorParser.F_condicionContext):
+        pass
+
+
+    # Enter a parse tree produced by compiladorParser#f_actualizacion.
+    def enterF_actualizacion(self, ctx:compiladorParser.F_actualizacionContext):
+        pass
+
+    # Exit a parse tree produced by compiladorParser#f_actualizacion.
+    def exitF_actualizacion(self, ctx:compiladorParser.F_actualizacionContext):
+        pass
+
+
+    # Enter a parse tree produced by compiladorParser#f_lista_cya.
+    def enterF_lista_cya(self, ctx:compiladorParser.F_lista_cyaContext):
+        pass
+
+    # Exit a parse tree produced by compiladorParser#f_lista_cya.
+    def exitF_lista_cya(self, ctx:compiladorParser.F_lista_cyaContext):
+        pass
+
+
+    # Enter a parse tree produced by compiladorParser#f_lista_prima.
+    def enterF_lista_prima(self, ctx:compiladorParser.F_lista_primaContext):
+        pass
+
+    # Exit a parse tree produced by compiladorParser#f_lista_prima.
+    def exitF_lista_prima(self, ctx:compiladorParser.F_lista_primaContext):
+        pass
+
+
+    # Enter a parse tree produced by compiladorParser#exp_for.
+    def enterExp_for(self, ctx:compiladorParser.Exp_forContext):
+        pass
+
+    # Exit a parse tree produced by compiladorParser#exp_for.
+    def exitExp_for(self, ctx:compiladorParser.Exp_forContext):
         pass
 
 

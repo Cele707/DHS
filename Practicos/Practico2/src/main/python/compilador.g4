@@ -97,12 +97,13 @@ bloque
 declaracion 
     : tipo ID inicializador listavar PYC 
     ;
-inicializador
+
+    inicializador
     : ASIG opalc
     |
     ;
 
-listavar 
+    listavar 
     : COMA ID inicializador listavar 
     | 
     ;
@@ -140,25 +141,51 @@ ielse
 
 //For
 ifor 
-    : FOR PA forInit PYC forCond PYC forUpdate PC instruccion 
+    : FOR PA f_inicializacion PYC f_condicion PYC f_actualizacion PC instruccion 
+    | FOR PA f_inicializacion PYC f_condicion PYC f_actualizacion PC PYC 
     ;
 
 // Inicialización: puede ser una declaración o una asignación
-forInit 
-    : declaracion 
-    | asignacion 
+    f_inicializacion
+    : ID f_inicializador f_lista_inic
+    | tipo ID f_inicializador f_lista_inic
+    |
     ;
 
-// Condición: una expresión (por ahora opalc)
-forCond 
-    : opalc
+    f_inicializador
+    : ASIG opalc
+    |
     ;
 
+    f_lista_inic
+    : COMA ID f_inicializador f_lista_inic
+    | COMA tipo ID f_inicializador f_lista_inic
+    | 
+    ;
+
+// Condición: Una unica condicion
+f_condicion 
+    : f_lista_cya
+    ;
 // Actualización: una asignación
-forUpdate 
-    : asignacion 
+f_actualizacion
+    : f_lista_cya
     ;
 
+    f_lista_cya
+    : exp_for f_lista_prima   |
+    ;
+
+f_lista_prima
+    : COMA exp_for f_lista_prima
+    | 
+    ;
+// Nueva regla para expresiones que incluyen ASIGNACION, usadas SÓLO en el FOR
+exp_for
+    : opalc ASIG exp_for
+    | tipo ID ASIG exp_for
+    | opalc              
+    ;
 
 ////////////////////////////////////////////////
 // OPERACIONES ARITMETICOLOGICAS
@@ -173,7 +200,7 @@ exp_l
     : exp_comp exp_l_prima
     ;
 
-exp_l_prima
+    exp_l_prima
     : OR exp_comp exp_l_prima
     | AND exp_comp exp_l_prima
     |
@@ -184,7 +211,7 @@ exp_comp
     : exp_a exp_comp_prima
     ;
 
-exp_comp_prima
+    exp_comp_prima
     : MENOR exp_a exp_comp_prima
     | MAYOR exp_a exp_comp_prima
     | MENOR_IGUAL exp_a exp_comp_prima
@@ -199,18 +226,17 @@ exp_a
     : term exp_a_prima
     ;
 
-exp_a_prima
+    exp_a_prima
     : SUMA term exp_a_prima
     | RESTA term exp_a_prima
     |
     ;
-
 // Términos (*, /, %)
-term
+    term
     : factor term_prima
     ;
 
-term_prima
+    term_prima
     : MULT factor term_prima
     | DIV factor term_prima
     | MOD factor term_prima
@@ -242,17 +268,17 @@ funcion
     : tipo ID PA lista_parametros PC bloque
     ;
 
-lista_parametros
+    lista_parametros
     : parametros        // Opción 1: la lista no está vacía
     |                   // Opción 2: la lista está vacía
     ;
 
-parametros
+    parametros
     : tipo ID parametros_prima // El primer parámetro
     |
     ;
 
-parametros_prima
+    parametros_prima
     : COMA tipo ID parametros_prima // El resto de los parámetros
     |                               // Fin de la lista
     ;
@@ -262,15 +288,15 @@ llamada_funcion
     : ID PA lista_argumentos PC
     ;
 
-lista_argumentos
+    lista_argumentos
     : argumentos        // Opción 1: la lista no está vacía
     |                   // Opción 2: la lista está vacía
     ;
-argumentos
+    argumentos
     : opalc argumentos_prima // El primer argumento
     |
     ;
-argumentos_prima
+    argumentos_prima
     : COMA opalc argumentos_prima // El resto de los argumentos
     |                             // Fin de la lista
     ;
