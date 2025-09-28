@@ -13,6 +13,9 @@ ENTERO : '-'? DIGITO+ ;
 //Palabras reservadas
 INT : 'int' ;
 DOUBLE : 'double' ;
+VOID : 'void' ;
+CHAR : 'char' ;
+
 IF    : 'if' ;
 ELSE  : 'else' ;
 FOR   : 'for' ;
@@ -77,9 +80,9 @@ instruccion
     | iwhile
     | ifor
     | bloque
-    | ireturn
     | prototipo
     | funcion
+    | ireturn
     | llamada_funcion PYC  
     ;
     
@@ -109,10 +112,12 @@ declaracion
     ;
 
 // Tipos básicos
-tipo 
-    : INT 
-    | DOUBLE 
-    ;
+tipo
+     : INT
+     | DOUBLE
+     | CHAR
+     | VOID
+     ;
 
 ////////////////////////////////////////////////
 //ASIGNACIONES
@@ -141,12 +146,11 @@ ielse
 
 //For
 ifor 
-    : FOR PA f_inicializacion PYC f_condicion PYC f_actualizacion PC instruccion 
-    | FOR PA f_inicializacion PYC f_condicion PYC f_actualizacion PC PYC 
+    : FOR PA f_inicializacion PYC f_condicion PYC f_actualizacion PC (instruccion | PYC) 
     ;
 
 // Inicialización: puede ser una declaración o una asignación
-    f_inicializacion
+f_inicializacion
     : ID f_inicializador f_lista_inic
     | tipo ID f_inicializador f_lista_inic
     |
@@ -165,23 +169,24 @@ ifor
 
 // Condición: Una unica condicion
 f_condicion 
-    : f_lista_cya
+    : opalc
+    |
     ;
 // Actualización: una asignación
 f_actualizacion
-    : f_lista_cya
+    : f_lista_a
     ;
 
-    f_lista_cya
+    f_lista_a
     : exp_for f_lista_prima   |
     ;
 
-f_lista_prima
+    f_lista_prima
     : COMA exp_for f_lista_prima
     | 
     ;
 // Nueva regla para expresiones que incluyen ASIGNACION, usadas SÓLO en el FOR
-exp_for
+    exp_for
     : opalc ASIG exp_for
     | tipo ID ASIG exp_for
     | opalc              
@@ -253,6 +258,8 @@ factor
     | RESTA factor
     | INC factor
     | DEC factor
+    | factor INC//++x
+    | factor DEC//--x
     ;
 
 ////////////////////////////////////////////////
@@ -268,19 +275,21 @@ funcion
     : tipo ID PA lista_parametros PC bloque
     ;
 
-    lista_parametros
+lista_parametros
     : parametros        // Opción 1: la lista no está vacía
     |                   // Opción 2: la lista está vacía
     ;
 
-    parametros
+parametros
     : tipo ID parametros_prima // El primer parámetro
+    | tipo parametros_prima
     |
     ;
 
-    parametros_prima
+parametros_prima
     : COMA tipo ID parametros_prima // El resto de los parámetros
-    |                               // Fin de la lista
+    | COMA tipo parametros_prima   
+    |                         // Fin de la lista
     ;
 
 //Llamada
@@ -304,4 +313,3 @@ llamada_funcion
 ireturn
     : RETURN opalc PYC
     ;
-

@@ -170,12 +170,12 @@ class compiladorListener(ParseTreeListener):
         pass
 
 
-    # Enter a parse tree produced by compiladorParser#f_lista_cya.
-    def enterF_lista_cya(self, ctx:compiladorParser.F_lista_cyaContext):
+    # Enter a parse tree produced by compiladorParser#f_lista_a.
+    def enterF_lista_a(self, ctx:compiladorParser.F_lista_aContext):
         pass
 
-    # Exit a parse tree produced by compiladorParser#f_lista_cya.
-    def exitF_lista_cya(self, ctx:compiladorParser.F_lista_cyaContext):
+    # Exit a parse tree produced by compiladorParser#f_lista_a.
+    def exitF_lista_a(self, ctx:compiladorParser.F_lista_aContext):
         pass
 
 

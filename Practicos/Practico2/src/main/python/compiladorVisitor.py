@@ -99,8 +99,8 @@ class compiladorVisitor(ParseTreeVisitor):
         return self.visitChildren(ctx)
 
 
-    # Visit a parse tree produced by compiladorParser#f_lista_cya.
-    def visitF_lista_cya(self, ctx:compiladorParser.F_lista_cyaContext):
+    # Visit a parse tree produced by compiladorParser#f_lista_a.
+    def visitF_lista_a(self, ctx:compiladorParser.F_lista_aContext):
         return self.visitChildren(ctx)
 
 
