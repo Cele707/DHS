@@ -1,8 +1,8 @@
 import sys
 from antlr4 import *
 from compiladorLexer import compiladorLexer
-# from compiladoresParser import compiladoresParser
-
+from compiladorParser import compiladorParser
+from Escucha import Escucha
 
 def main(argv):
     archivo = "Practicos/Practico2/input/entrada.txt"
@@ -11,9 +11,12 @@ def main(argv):
     input = FileStream(archivo)
     lexer = compiladorLexer(input)
     stream = CommonTokenStream(lexer)
-    # parser = compiladoresParser(stream)
-    # tree = parser.s()
-    # print(tree.toStringTree(recog=parser))P
+    parser = compiladorParser(stream)
+    escucha = Escucha()
+    parser.addParseListener(escucha)
+    tree = parser.programa()
+    print(escucha)
+    #print(tree.toStringTree(recog=parser))
 
 if __name__ == '__main__':
     main(sys.argv)
