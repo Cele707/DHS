@@ -1,0 +1,1 @@
+Imposible generar la TS: Se encontraron errores durante el parsing.

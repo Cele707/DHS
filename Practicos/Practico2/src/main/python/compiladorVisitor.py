@@ -9,6 +9,11 @@ else:
 
 class compiladorVisitor(ParseTreeVisitor):
 
+    # Visit a parse tree produced by compiladorParser#s.
+    def visitS(self, ctx:compiladorParser.SContext):
+        return self.visitChildren(ctx)
+
+
     # Visit a parse tree produced by compiladorParser#programa.
     def visitPrograma(self, ctx:compiladorParser.ProgramaContext):
         return self.visitChildren(ctx)
@@ -26,31 +31,6 @@ class compiladorVisitor(ParseTreeVisitor):
 
     # Visit a parse tree produced by compiladorParser#bloque.
     def visitBloque(self, ctx:compiladorParser.BloqueContext):
-        return self.visitChildren(ctx)
-
-
-    # Visit a parse tree produced by compiladorParser#declaracion.
-    def visitDeclaracion(self, ctx:compiladorParser.DeclaracionContext):
-        return self.visitChildren(ctx)
-
-
-    # Visit a parse tree produced by compiladorParser#inicializador.
-    def visitInicializador(self, ctx:compiladorParser.InicializadorContext):
-        return self.visitChildren(ctx)
-
-
-    # Visit a parse tree produced by compiladorParser#listavar.
-    def visitListavar(self, ctx:compiladorParser.ListavarContext):
-        return self.visitChildren(ctx)
-
-
-    # Visit a parse tree produced by compiladorParser#tipo.
-    def visitTipo(self, ctx:compiladorParser.TipoContext):
-        return self.visitChildren(ctx)
-
-
-    # Visit a parse tree produced by compiladorParser#asignacion.
-    def visitAsignacion(self, ctx:compiladorParser.AsignacionContext):
         return self.visitChildren(ctx)
 
 
@@ -74,78 +54,118 @@ class compiladorVisitor(ParseTreeVisitor):
         return self.visitChildren(ctx)
 
 
-    # Visit a parse tree produced by compiladorParser#f_inicializacion.
-    def visitF_inicializacion(self, ctx:compiladorParser.F_inicializacionContext):
+    # Visit a parse tree produced by compiladorParser#forInicializacion.
+    def visitForInicializacion(self, ctx:compiladorParser.ForInicializacionContext):
         return self.visitChildren(ctx)
 
 
-    # Visit a parse tree produced by compiladorParser#f_inicializador.
-    def visitF_inicializador(self, ctx:compiladorParser.F_inicializadorContext):
+    # Visit a parse tree produced by compiladorParser#listaExpASIG.
+    def visitListaExpASIG(self, ctx:compiladorParser.ListaExpASIGContext):
         return self.visitChildren(ctx)
 
 
-    # Visit a parse tree produced by compiladorParser#f_lista_inic.
-    def visitF_lista_inic(self, ctx:compiladorParser.F_lista_inicContext):
+    # Visit a parse tree produced by compiladorParser#forCond.
+    def visitForCond(self, ctx:compiladorParser.ForCondContext):
         return self.visitChildren(ctx)
 
 
-    # Visit a parse tree produced by compiladorParser#f_condicion.
-    def visitF_condicion(self, ctx:compiladorParser.F_condicionContext):
+    # Visit a parse tree produced by compiladorParser#forActualizacion.
+    def visitForActualizacion(self, ctx:compiladorParser.ForActualizacionContext):
         return self.visitChildren(ctx)
 
 
-    # Visit a parse tree produced by compiladorParser#f_actualizacion.
-    def visitF_actualizacion(self, ctx:compiladorParser.F_actualizacionContext):
+    # Visit a parse tree produced by compiladorParser#listaActualizacion.
+    def visitListaActualizacion(self, ctx:compiladorParser.ListaActualizacionContext):
         return self.visitChildren(ctx)
 
 
-    # Visit a parse tree produced by compiladorParser#f_lista_a.
-    def visitF_lista_a(self, ctx:compiladorParser.F_lista_aContext):
+    # Visit a parse tree produced by compiladorParser#ireturn.
+    def visitIreturn(self, ctx:compiladorParser.IreturnContext):
         return self.visitChildren(ctx)
 
 
-    # Visit a parse tree produced by compiladorParser#f_lista_prima.
-    def visitF_lista_prima(self, ctx:compiladorParser.F_lista_primaContext):
+    # Visit a parse tree produced by compiladorParser#declaracion.
+    def visitDeclaracion(self, ctx:compiladorParser.DeclaracionContext):
         return self.visitChildren(ctx)
 
 
-    # Visit a parse tree produced by compiladorParser#exp_for.
-    def visitExp_for(self, ctx:compiladorParser.Exp_forContext):
+    # Visit a parse tree produced by compiladorParser#tipo.
+    def visitTipo(self, ctx:compiladorParser.TipoContext):
         return self.visitChildren(ctx)
 
 
-    # Visit a parse tree produced by compiladorParser#opalc.
-    def visitOpalc(self, ctx:compiladorParser.OpalcContext):
+    # Visit a parse tree produced by compiladorParser#listavar.
+    def visitListavar(self, ctx:compiladorParser.ListavarContext):
         return self.visitChildren(ctx)
 
 
-    # Visit a parse tree produced by compiladorParser#exp_l.
-    def visitExp_l(self, ctx:compiladorParser.Exp_lContext):
+    # Visit a parse tree produced by compiladorParser#inic.
+    def visitInic(self, ctx:compiladorParser.InicContext):
         return self.visitChildren(ctx)
 
 
-    # Visit a parse tree produced by compiladorParser#exp_l_prima.
-    def visitExp_l_prima(self, ctx:compiladorParser.Exp_l_primaContext):
+    # Visit a parse tree produced by compiladorParser#expASIG.
+    def visitExpASIG(self, ctx:compiladorParser.ExpASIGContext):
         return self.visitChildren(ctx)
 
 
-    # Visit a parse tree produced by compiladorParser#exp_comp.
-    def visitExp_comp(self, ctx:compiladorParser.Exp_compContext):
+    # Visit a parse tree produced by compiladorParser#asignacion.
+    def visitAsignacion(self, ctx:compiladorParser.AsignacionContext):
         return self.visitChildren(ctx)
 
 
-    # Visit a parse tree produced by compiladorParser#exp_comp_prima.
-    def visitExp_comp_prima(self, ctx:compiladorParser.Exp_comp_primaContext):
+    # Visit a parse tree produced by compiladorParser#opal.
+    def visitOpal(self, ctx:compiladorParser.OpalContext):
         return self.visitChildren(ctx)
 
 
-    # Visit a parse tree produced by compiladorParser#exp_a.
-    def visitExp_a(self, ctx:compiladorParser.Exp_aContext):
+    # Visit a parse tree produced by compiladorParser#expOR.
+    def visitExpOR(self, ctx:compiladorParser.ExpORContext):
         return self.visitChildren(ctx)
 
 
-    # Visit a parse tree produced by compiladorParser#exp_a_prima.
-    def visitExp_a_prima(self, ctx:compiladorParser.Exp_a_primaContext):
+    # Visit a parse tree produced by compiladorParser#o.
+    def visitO(self, ctx:compiladorParser.OContext):
+        return self.visitChildren(ctx)
+
+
+    # Visit a parse tree produced by compiladorParser#expAND.
+    def visitExpAND(self, ctx:compiladorParser.ExpANDContext):
+        return self.visitChildren(ctx)
+
+
+    # Visit a parse tree produced by compiladorParser#a.
+    def visitA(self, ctx:compiladorParser.AContext):
+        return self.visitChildren(ctx)
+
+
+    # Visit a parse tree produced by compiladorParser#expIGUAL.
+    def visitExpIGUAL(self, ctx:compiladorParser.ExpIGUALContext):
+        return self.visitChildren(ctx)
+
+
+    # Visit a parse tree produced by compiladorParser#i.
+    def visitI(self, ctx:compiladorParser.IContext):
+        return self.visitChildren(ctx)
+
+
+    # Visit a parse tree produced by compiladorParser#expCOMP.
+    def visitExpCOMP(self, ctx:compiladorParser.ExpCOMPContext):
+        return self.visitChildren(ctx)
+
+
+    # Visit a parse tree produced by compiladorParser#c.
+    def visitC(self, ctx:compiladorParser.CContext):
+        return self.visitChildren(ctx)
+
+
+    # Visit a parse tree produced by compiladorParser#exp.
+    def visitExp(self, ctx:compiladorParser.ExpContext):
+        return self.visitChildren(ctx)
+
+
+    # Visit a parse tree produced by compiladorParser#e.
+    def visitE(self, ctx:compiladorParser.EContext):
         return self.visitChildren(ctx)
 
 
@@ -154,8 +174,8 @@ class compiladorVisitor(ParseTreeVisitor):
         return self.visitChildren(ctx)
 
 
-    # Visit a parse tree produced by compiladorParser#term_prima.
-    def visitTerm_prima(self, ctx:compiladorParser.Term_primaContext):
+    # Visit a parse tree produced by compiladorParser#t.
+    def visitT(self, ctx:compiladorParser.TContext):
         return self.visitChildren(ctx)
 
 
@@ -169,33 +189,33 @@ class compiladorVisitor(ParseTreeVisitor):
         return self.visitChildren(ctx)
 
 
-    # Visit a parse tree produced by compiladorParser#funcion.
-    def visitFuncion(self, ctx:compiladorParser.FuncionContext):
-        return self.visitChildren(ctx)
-
-
-    # Visit a parse tree produced by compiladorParser#lista_parametros.
-    def visitLista_parametros(self, ctx:compiladorParser.Lista_parametrosContext):
-        return self.visitChildren(ctx)
-
-
     # Visit a parse tree produced by compiladorParser#parametros.
     def visitParametros(self, ctx:compiladorParser.ParametrosContext):
         return self.visitChildren(ctx)
 
 
-    # Visit a parse tree produced by compiladorParser#parametros_prima.
-    def visitParametros_prima(self, ctx:compiladorParser.Parametros_primaContext):
+    # Visit a parse tree produced by compiladorParser#listaParametros.
+    def visitListaParametros(self, ctx:compiladorParser.ListaParametrosContext):
         return self.visitChildren(ctx)
 
 
-    # Visit a parse tree produced by compiladorParser#llamada_funcion.
-    def visitLlamada_funcion(self, ctx:compiladorParser.Llamada_funcionContext):
+    # Visit a parse tree produced by compiladorParser#parametro.
+    def visitParametro(self, ctx:compiladorParser.ParametroContext):
         return self.visitChildren(ctx)
 
 
-    # Visit a parse tree produced by compiladorParser#lista_argumentos.
-    def visitLista_argumentos(self, ctx:compiladorParser.Lista_argumentosContext):
+    # Visit a parse tree produced by compiladorParser#listaID.
+    def visitListaID(self, ctx:compiladorParser.ListaIDContext):
+        return self.visitChildren(ctx)
+
+
+    # Visit a parse tree produced by compiladorParser#llamada.
+    def visitLlamada(self, ctx:compiladorParser.LlamadaContext):
+        return self.visitChildren(ctx)
+
+
+    # Visit a parse tree produced by compiladorParser#listaArg.
+    def visitListaArg(self, ctx:compiladorParser.ListaArgContext):
         return self.visitChildren(ctx)
 
 
@@ -204,13 +224,8 @@ class compiladorVisitor(ParseTreeVisitor):
         return self.visitChildren(ctx)
 
 
-    # Visit a parse tree produced by compiladorParser#argumentos_prima.
-    def visitArgumentos_prima(self, ctx:compiladorParser.Argumentos_primaContext):
-        return self.visitChildren(ctx)
-
-
-    # Visit a parse tree produced by compiladorParser#ireturn.
-    def visitIreturn(self, ctx:compiladorParser.IreturnContext):
+    # Visit a parse tree produced by compiladorParser#funcion.
+    def visitFuncion(self, ctx:compiladorParser.FuncionContext):
         return self.visitChildren(ctx)
 
 

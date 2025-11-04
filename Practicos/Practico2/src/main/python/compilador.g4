@@ -1,315 +1,251 @@
 grammar compilador;
-// =========================================
-// REGLAS LÉXICAS 
-// =========================================
-fragment LETRA  : [A-Za-z] ;
+
+fragment LETRA : [A-Za-z] ;
 fragment DIGITO : [0-9] ;
 
-NUMERO: DIGITO+;
-
-//Enteros (positivos y negativos)
-ENTERO : '-'? DIGITO+ ;
-
-//Palabras reservadas
-INT : 'int' ;
-DOUBLE : 'double' ;
-VOID : 'void' ;
-CHAR : 'char' ;
-
-IF    : 'if' ;
-ELSE  : 'else' ;
-FOR   : 'for' ;
-WHILE : 'while' ;
-RETURN : 'return' ;
-
-//Operadores
-SUMA : '+' ;
-RESTA : '-' ;
-MULT : '*' ;
-DIV : '/' ;
-MOD : '%' ;
-ASIG : '=' ;
-//comparadores
-MENOR : '<' ;
-MAYOR : '>' ;
-MENOR_IGUAL : '<=' ;
-MAYOR_IGUAL : '>=' ;
-IGUAL : '==' ;
-DIFERENTE : '!=' ;
-//operadores logicos
-AND : '&&' ;
-OR  : '||' ;
-NOT : '!' ; 
-//
-INC : '++' ;
-DEC : '--' ;
-
-//Caracteres 
+//============
+//Simbolos
+//============
 PA  : '(' ;
 PC  : ')' ;
 LLA : '{' ;
 LLC : '}' ;
-CA  : '[' ;
-CC  : ']' ;
 PYC : ';' ;
 
-//Identificadores (variables y funciones)
+IGUAL    : '==' ;
+DISTINTO :'!=' ;
+MAYOR    : '>' ;
+MENOR    : '<' ;
+MAYORIG  : '>=' ;
+MENORIG  : '<=' ;
+AND      : '&&' ;
+OR       : '||' ;
+NOT      : '!' ;
+
+ASIG  : '=' ;
+COMA  : ',' ;
+SUMA  : '+' ;
+RESTA : '-' ;
+MULT  : '*' ;
+DIV   : '/' ;
+MOD   : '%' ;
+INC   : '++';
+DEC   : '--';
+
+
+NUMERO : DIGITO+ ;
+
+//===================
+//Palabras reservadas
+//===================
+INT    : 'int'    ;
+DOUBLE : 'double' ; 
+FLOAT   : 'float'   ;
+VOID   : 'void'   ;
+
+IF     : 'if'    ;
+ELSE   : 'else'  ;
+WHILE  : 'while' ;
+FOR    : 'for'   ;
+RETURN : 'return';
+
 ID : (LETRA | '_')(LETRA | DIGITO | '_')* ;
 
-// Extras (coma, espacios, etc.)
-COMA : ',' ;
-WS : [ \n\r\t] -> skip ;
+WS : [ \n\r\t] -> skip;
 OTRO : . ;
 
-// =========================================
-// REGLAS GRAMATICALES PRINCIPALES
-// =========================================
-programa 
-    : instrucciones EOF 
+s : ID     {print("ID ->" + $ID.text + "<--") }         s
+  | NUMERO {print("NUMERO ->" + $NUMERO.text + "<--") } s
+  | OTRO   {print("Otro ->" + $OTRO.text + "<--") }     s
+  | EOF
+  ;
+
+//s : PA s PC s
+//|
+//;
+
+//=======================
+//Estructura del programa
+//=======================
+
+//lectura del archivo linea por linea
+programa : instrucciones EOF;
+
+//instrucciones es una instruccion seguido de mas instrucciones
+instrucciones : instruccion instrucciones
+              |
+              ;
+
+
+//una instruccion puede ser...
+instruccion : asignacion
+            | declaracion
+            | iif
+            | iwhile
+            | ifor
+            | ireturn
+            | bloque
+            | prototipo
+            | funcion
+            | llamada PYC
+            ;
+
+//bloque = {...} --> agrupa varias instrucciones
+bloque : LLA instrucciones LLC ;
+
+//================
+//Control de flujo
+//================
+
+//while(condicion) instruccion [else instruccion opcional]
+iwhile: WHILE PA opal PC instruccion ;
+
+//if(condicion) instruccion
+iif: IF PA opal PC instruccion ielse;
+//puede o no estar el else
+ielse : ELSE instruccion
+      |
+      ;
+
+
+ifor: FOR PA forInicializacion PYC forCond PYC forActualizacion PC instruccion
+    | FOR PA forInicializacion PYC forCond PYC forActualizacion PC PYC 
+    ; 
+
+//inicializacion: puede ser una declaracion de tipo con varias variables o asignaciones individuales
+forInicializacion: tipo ID inic listavar // int x, y, z (CON TIPO)
+                 | expASIG listaExpASIG // x = 10, y = 20 (PARA VARIABLES YA EXISTENTES)
+                 | 
+                 ;
+//lista de asignaciones para variables existentes
+listaExpASIG: COMA expASIG listaExpASIG
+            |
+            ;
+
+//comparacion:
+//solo se puede poner una cond que se evaluará como verdadero o falso, no se pueden poner
+//condiciones separadas por coma
+forCond: opal
+       |
+       ;
+
+//actualizacion:
+//en la parte de actualizacion si se puede separar por coma
+forActualizacion: exp listaActualizacion
+                |
+                ;
+listaActualizacion: COMA exp listaActualizacion
+                  |
+                  ;
+
+
+ireturn: RETURN opal PYC;
+//============================
+//Declaraciones y asignaciones
+//============================
+
+//int x;
+declaracion: tipo ID  inic listavar PYC ;
+tipo: INT
+    | DOUBLE
+    | FLOAT
+    | VOID
     ;
 
-instrucciones 
-    : instruccion instrucciones
-    |                            
-    ;
+//para poner una lista de variables en la declaracion, int x, y, z;
+listavar: COMA ID inic listavar
+        |
+        ;
 
-instruccion 
-    : asignacion
-    | declaracion
-    | iif
-    | iwhile
-    | ifor
-    | bloque
-    | prototipo
-    | funcion
-    | ireturn
-    | llamada_funcion PYC  
-    ;
-    
-////////////////////////////////////////////////
-//RECONOCIMIENTO DE BLOQUE DE CODIGO
-////////////////////////////////////////////////
-bloque
-    : LLA instrucciones LLC
-    ;
-
-////////////////////////////////////////////////
-//DECLARACIONES
-////////////////////////////////////////////////
-// Declaración de variables
-declaracion 
-    : tipo ID inicializador listavar PYC 
-    ;
-
-    inicializador
-    : ASIG opalc
-    |
-    ;
-
-    listavar 
-    : COMA ID inicializador listavar 
-    | 
-    ;
-
-// Tipos básicos
-tipo
-     : INT
-     | DOUBLE
-     | CHAR
-     | VOID
+//para asignaciones en la declaracion int x = 10;
+inic : ASIG opal 
+     |
      ;
 
-////////////////////////////////////////////////
-//ASIGNACIONES
-////////////////////////////////////////////////
-asignacion 
-    : ID ASIG opalc PYC 
-    ;
+//asignaciones del tipo x = opal;
+expASIG : ID ASIG opal ;
+asignacion : expASIG PYC ;
 
-////////////////////////////////////////////////
-// ESTRUCTURA DE CONTROL
-////////////////////////////////////////////////
-// While
-iwhile 
-    : WHILE PA opalc PC instruccion 
-    ;
+//===========
+//Expresiones
+//===========
 
-//If / else 
-iif 
-    : IF PA opalc PC instruccion ielse 
-    ;
+//operaciones aritmeticas y logicas
+opal: expOR ;
 
-ielse 
-    : ELSE instruccion 
-    | // vacío (epsilon)
+//va una por una para seguir el orden de precedencia
+expOR : expAND o ;
+o : OR expAND o
+  |
+  ;
+expAND : expIGUAL a ;
+a : AND expIGUAL a
+  |
+  ;
+expIGUAL : expCOMP i ;
+i : IGUAL expCOMP i 
+  | DISTINTO expCOMP i
+  |
+  ;
+expCOMP : exp c ;
+c : MENOR exp c
+  | MAYOR exp c
+  | MENORIG exp c
+  | MAYORIG exp c
+  |
+  ; 
+//expresiones estan formadas por uno o mas terminos
+exp : term e ;
+e   : SUMA term e
+    | RESTA term e
+    |  
     ;
+//terminos estan formados por uno o mas factores
+term : factor t ;
+t    : MULT factor t
+     | DIV factor t
+     | MOD factor t
+     |
+     ;
 
-//For
-ifor 
-    : FOR PA f_inicializacion PYC f_condicion PYC f_actualizacion PC (instruccion | PYC) 
-    ;
+factor : NUMERO
+       | ID
+       | PA opal PC
+       | llamada
+       | NOT factor //!x
+       | INC factor //++x
+       | DEC factor //--x
+       | factor INC //x++
+       | factor DEC //x--
+       ;
 
-// Inicialización: puede ser una declaración o una asignación
-f_inicializacion
-    : ID f_inicializador f_lista_inic
-    | tipo ID f_inicializador f_lista_inic
-    |
-    ;
+//=========
+//FUNCIONES
+//=========
 
-    f_inicializador
-    : ASIG opalc
-    |
-    ;
+//prototipo de funcion
+prototipo : tipo ID PA parametros PC PYC ;
+parametros : parametro listaParametros
+           |
+           ;
+listaParametros: COMA parametro listaParametros
+               |
+               ;
+//un parametro puede ser un tipo seguido de 1 o mas IDs
+parametro: tipo ID listaID ;
+//permite varias IDs despues del primero
+listaID: COMA ID listaID
+       |
+       ;
+//llamada a la funcion
+llamada : ID PA listaArg PC ;
+listaArg: opal argumentos //permite 0 o mas argumentos f(x, y)
+        | // f()
+        ;
+argumentos: COMA opal argumentos
+          |
+          ;
 
-    f_lista_inic
-    : COMA ID f_inicializador f_lista_inic
-    | COMA tipo ID f_inicializador f_lista_inic
-    | 
-    ;
+//declaracion
+funcion : tipo ID PA parametros PC bloque; //si o si deben tener bloque, si tienen una sola instruccion debe estar dentro del bloque
 
-// Condición: Una unica condicion
-f_condicion 
-    : opalc
-    |
-    ;
-// Actualización: una asignación
-f_actualizacion
-    : f_lista_a
-    ;
-
-    f_lista_a
-    : exp_for f_lista_prima   |
-    ;
-
-    f_lista_prima
-    : COMA exp_for f_lista_prima
-    | 
-    ;
-// Nueva regla para expresiones que incluyen ASIGNACION, usadas SÓLO en el FOR
-    exp_for
-    : opalc ASIG exp_for
-    | tipo ID ASIG exp_for
-    | opalc              
-    ;
-
-////////////////////////////////////////////////
-// OPERACIONES ARITMETICOLOGICAS
-////////////////////////////////////////////////
-// La regla principal, debido a q es descendiente, primero van los de menor presecedencia que son los logicos
-opalc
-    : exp_l
-    ;
-
-// Expresiones Lógicas (precedencia más baja: ||, &&)
-exp_l
-    : exp_comp exp_l_prima
-    ;
-
-    exp_l_prima
-    : OR exp_comp exp_l_prima
-    | AND exp_comp exp_l_prima
-    |
-    ;
-
-// Expresiones de Comparación (<, >, ==, !=, etc.)
-exp_comp
-    : exp_a exp_comp_prima
-    ;
-
-    exp_comp_prima
-    : MENOR exp_a exp_comp_prima
-    | MAYOR exp_a exp_comp_prima
-    | MENOR_IGUAL exp_a exp_comp_prima
-    | MAYOR_IGUAL exp_a exp_comp_prima
-    | IGUAL exp_a exp_comp_prima
-    | DIFERENTE exp_a exp_comp_prima
-    |
-    ;
-
-// Expresiones Aritméticas (+, -)
-exp_a
-    : term exp_a_prima
-    ;
-
-    exp_a_prima
-    : SUMA term exp_a_prima
-    | RESTA term exp_a_prima
-    |
-    ;
-// Términos (*, /, %)
-    term
-    : factor term_prima
-    ;
-
-    term_prima
-    : MULT factor term_prima
-    | DIV factor term_prima
-    | MOD factor term_prima
-    |
-    ;
-
-// Factores (números, IDs, paréntesis, operadores unarios)
-factor
-    : NUMERO
-    | llamada_funcion // Nueva regla
-    | ID // Mantienes ID para variables
-    | PA exp_l PC
-    | NOT factor
-    | RESTA factor
-    | INC factor
-    | DEC factor
-    | factor INC//++x
-    | factor DEC//--x
-    ;
-
-////////////////////////////////////////////////
-// FUNCIONES
-////////////////////////////////////////////////
-// Prototipo
-prototipo
-    : tipo ID PA lista_parametros PC PYC
-    ;
-
-// Definición
-funcion
-    : tipo ID PA lista_parametros PC bloque
-    ;
-
-lista_parametros
-    : parametros        // Opción 1: la lista no está vacía
-    |                   // Opción 2: la lista está vacía
-    ;
-
-parametros
-    : tipo ID parametros_prima // El primer parámetro
-    | tipo parametros_prima
-    |
-    ;
-
-parametros_prima
-    : COMA tipo ID parametros_prima // El resto de los parámetros
-    | COMA tipo parametros_prima   
-    |                         // Fin de la lista
-    ;
-
-//Llamada
-llamada_funcion
-    : ID PA lista_argumentos PC
-    ;
-
-    lista_argumentos
-    : argumentos        // Opción 1: la lista no está vacía
-    |                   // Opción 2: la lista está vacía
-    ;
-    argumentos
-    : opalc argumentos_prima // El primer argumento
-    |
-    ;
-    argumentos_prima
-    : COMA opalc argumentos_prima // El resto de los argumentos
-    |                             // Fin de la lista
-    ;
-// Return
-ireturn
-    : RETURN opalc PYC
-    ;

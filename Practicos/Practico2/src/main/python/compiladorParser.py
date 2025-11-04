@@ -10,145 +10,144 @@ else:
 
 def serializedATN():
     return [
-        4,1,39,399,2,0,7,0,2,1,7,1,2,2,7,2,2,3,7,3,2,4,7,4,2,5,7,5,2,6,7,
+        4,1,36,405,2,0,7,0,2,1,7,1,2,2,7,2,2,3,7,3,2,4,7,4,2,5,7,5,2,6,7,
         6,2,7,7,7,2,8,7,8,2,9,7,9,2,10,7,10,2,11,7,11,2,12,7,12,2,13,7,13,
         2,14,7,14,2,15,7,15,2,16,7,16,2,17,7,17,2,18,7,18,2,19,7,19,2,20,
         7,20,2,21,7,21,2,22,7,22,2,23,7,23,2,24,7,24,2,25,7,25,2,26,7,26,
         2,27,7,27,2,28,7,28,2,29,7,29,2,30,7,30,2,31,7,31,2,32,7,32,2,33,
         7,33,2,34,7,34,2,35,7,35,2,36,7,36,2,37,7,37,2,38,7,38,2,39,7,39,
-        2,40,7,40,1,0,1,0,1,0,1,1,1,1,1,1,1,1,3,1,90,8,1,1,2,1,2,1,2,1,2,
-        1,2,1,2,1,2,1,2,1,2,1,2,1,2,1,2,3,2,104,8,2,1,3,1,3,1,3,1,3,1,4,
-        1,4,1,4,1,4,1,4,1,4,1,5,1,5,1,5,3,5,119,8,5,1,6,1,6,1,6,1,6,1,6,
-        1,6,3,6,127,8,6,1,7,1,7,1,8,1,8,1,8,1,8,1,8,1,9,1,9,1,9,1,9,1,9,
-        1,9,1,10,1,10,1,10,1,10,1,10,1,10,1,10,1,11,1,11,1,11,3,11,152,8,
-        11,1,12,1,12,1,12,1,12,1,12,1,12,1,12,1,12,1,12,1,12,3,12,164,8,
-        12,1,13,1,13,1,13,1,13,1,13,1,13,1,13,1,13,1,13,1,13,3,13,176,8,
-        13,1,14,1,14,1,14,3,14,181,8,14,1,15,1,15,1,15,1,15,1,15,1,15,1,
-        15,1,15,1,15,1,15,1,15,1,15,3,15,195,8,15,1,16,1,16,3,16,199,8,16,
-        1,17,1,17,1,18,1,18,1,18,1,18,3,18,207,8,18,1,19,1,19,1,19,1,19,
-        1,19,3,19,214,8,19,1,20,1,20,1,20,1,20,1,20,1,20,1,20,1,20,1,20,
-        1,20,3,20,226,8,20,1,21,1,21,1,22,1,22,1,22,1,23,1,23,1,23,1,23,
-        1,23,1,23,1,23,1,23,1,23,3,23,242,8,23,1,24,1,24,1,24,1,25,1,25,
-        1,25,1,25,1,25,1,25,1,25,1,25,1,25,1,25,1,25,1,25,1,25,1,25,1,25,
-        1,25,1,25,1,25,1,25,1,25,1,25,1,25,1,25,1,25,1,25,3,25,272,8,25,
-        1,26,1,26,1,26,1,27,1,27,1,27,1,27,1,27,1,27,1,27,1,27,1,27,3,27,
-        286,8,27,1,28,1,28,1,28,1,29,1,29,1,29,1,29,1,29,1,29,1,29,1,29,
-        1,29,1,29,1,29,1,29,1,29,3,29,304,8,29,1,30,1,30,1,30,1,30,1,30,
-        1,30,1,30,1,30,1,30,1,30,1,30,1,30,1,30,1,30,1,30,1,30,3,30,322,
-        8,30,1,30,1,30,1,30,1,30,5,30,328,8,30,10,30,12,30,331,9,30,1,31,
-        1,31,1,31,1,31,1,31,1,31,1,31,1,32,1,32,1,32,1,32,1,32,1,32,1,32,
-        1,33,1,33,3,33,349,8,33,1,34,1,34,1,34,1,34,1,34,1,34,1,34,1,34,
-        3,34,359,8,34,1,35,1,35,1,35,1,35,1,35,1,35,1,35,1,35,1,35,1,35,
-        3,35,371,8,35,1,36,1,36,1,36,1,36,1,36,1,37,1,37,3,37,380,8,37,1,
-        38,1,38,1,38,1,38,3,38,386,8,38,1,39,1,39,1,39,1,39,1,39,3,39,393,
-        8,39,1,40,1,40,1,40,1,40,1,40,0,1,60,41,0,2,4,6,8,10,12,14,16,18,
-        20,22,24,26,28,30,32,34,36,38,40,42,44,46,48,50,52,54,56,58,60,62,
-        64,66,68,70,72,74,76,78,80,0,1,1,0,3,6,411,0,82,1,0,0,0,2,89,1,0,
-        0,0,4,103,1,0,0,0,6,105,1,0,0,0,8,109,1,0,0,0,10,118,1,0,0,0,12,
-        126,1,0,0,0,14,128,1,0,0,0,16,130,1,0,0,0,18,135,1,0,0,0,20,141,
-        1,0,0,0,22,151,1,0,0,0,24,153,1,0,0,0,26,175,1,0,0,0,28,180,1,0,
-        0,0,30,194,1,0,0,0,32,198,1,0,0,0,34,200,1,0,0,0,36,206,1,0,0,0,
-        38,213,1,0,0,0,40,225,1,0,0,0,42,227,1,0,0,0,44,229,1,0,0,0,46,241,
-        1,0,0,0,48,243,1,0,0,0,50,271,1,0,0,0,52,273,1,0,0,0,54,285,1,0,
-        0,0,56,287,1,0,0,0,58,303,1,0,0,0,60,321,1,0,0,0,62,332,1,0,0,0,
-        64,339,1,0,0,0,66,348,1,0,0,0,68,358,1,0,0,0,70,370,1,0,0,0,72,372,
-        1,0,0,0,74,379,1,0,0,0,76,385,1,0,0,0,78,392,1,0,0,0,80,394,1,0,
-        0,0,82,83,3,2,1,0,83,84,5,0,0,1,84,1,1,0,0,0,85,86,3,4,2,0,86,87,
-        3,2,1,0,87,90,1,0,0,0,88,90,1,0,0,0,89,85,1,0,0,0,89,88,1,0,0,0,
-        90,3,1,0,0,0,91,104,3,16,8,0,92,104,3,8,4,0,93,104,3,20,10,0,94,
-        104,3,18,9,0,95,104,3,24,12,0,96,104,3,6,3,0,97,104,3,62,31,0,98,
-        104,3,64,32,0,99,104,3,80,40,0,100,101,3,72,36,0,101,102,5,35,0,
-        0,102,104,1,0,0,0,103,91,1,0,0,0,103,92,1,0,0,0,103,93,1,0,0,0,103,
-        94,1,0,0,0,103,95,1,0,0,0,103,96,1,0,0,0,103,97,1,0,0,0,103,98,1,
-        0,0,0,103,99,1,0,0,0,103,100,1,0,0,0,104,5,1,0,0,0,105,106,5,31,
-        0,0,106,107,3,2,1,0,107,108,5,32,0,0,108,7,1,0,0,0,109,110,3,14,
-        7,0,110,111,5,36,0,0,111,112,3,10,5,0,112,113,3,12,6,0,113,114,5,
-        35,0,0,114,9,1,0,0,0,115,116,5,17,0,0,116,119,3,42,21,0,117,119,
-        1,0,0,0,118,115,1,0,0,0,118,117,1,0,0,0,119,11,1,0,0,0,120,121,5,
-        37,0,0,121,122,5,36,0,0,122,123,3,10,5,0,123,124,3,12,6,0,124,127,
-        1,0,0,0,125,127,1,0,0,0,126,120,1,0,0,0,126,125,1,0,0,0,127,13,1,
-        0,0,0,128,129,7,0,0,0,129,15,1,0,0,0,130,131,5,36,0,0,131,132,5,
-        17,0,0,132,133,3,42,21,0,133,134,5,35,0,0,134,17,1,0,0,0,135,136,
-        5,10,0,0,136,137,5,29,0,0,137,138,3,42,21,0,138,139,5,30,0,0,139,
-        140,3,4,2,0,140,19,1,0,0,0,141,142,5,7,0,0,142,143,5,29,0,0,143,
-        144,3,42,21,0,144,145,5,30,0,0,145,146,3,4,2,0,146,147,3,22,11,0,
-        147,21,1,0,0,0,148,149,5,8,0,0,149,152,3,4,2,0,150,152,1,0,0,0,151,
-        148,1,0,0,0,151,150,1,0,0,0,152,23,1,0,0,0,153,154,5,9,0,0,154,155,
-        5,29,0,0,155,156,3,26,13,0,156,157,5,35,0,0,157,158,3,32,16,0,158,
-        159,5,35,0,0,159,160,3,34,17,0,160,163,5,30,0,0,161,164,3,4,2,0,
-        162,164,5,35,0,0,163,161,1,0,0,0,163,162,1,0,0,0,164,25,1,0,0,0,
-        165,166,5,36,0,0,166,167,3,28,14,0,167,168,3,30,15,0,168,176,1,0,
-        0,0,169,170,3,14,7,0,170,171,5,36,0,0,171,172,3,28,14,0,172,173,
-        3,30,15,0,173,176,1,0,0,0,174,176,1,0,0,0,175,165,1,0,0,0,175,169,
-        1,0,0,0,175,174,1,0,0,0,176,27,1,0,0,0,177,178,5,17,0,0,178,181,
-        3,42,21,0,179,181,1,0,0,0,180,177,1,0,0,0,180,179,1,0,0,0,181,29,
-        1,0,0,0,182,183,5,37,0,0,183,184,5,36,0,0,184,185,3,28,14,0,185,
-        186,3,30,15,0,186,195,1,0,0,0,187,188,5,37,0,0,188,189,3,14,7,0,
-        189,190,5,36,0,0,190,191,3,28,14,0,191,192,3,30,15,0,192,195,1,0,
-        0,0,193,195,1,0,0,0,194,182,1,0,0,0,194,187,1,0,0,0,194,193,1,0,
-        0,0,195,31,1,0,0,0,196,199,3,42,21,0,197,199,1,0,0,0,198,196,1,0,
-        0,0,198,197,1,0,0,0,199,33,1,0,0,0,200,201,3,36,18,0,201,35,1,0,
-        0,0,202,203,3,40,20,0,203,204,3,38,19,0,204,207,1,0,0,0,205,207,
-        1,0,0,0,206,202,1,0,0,0,206,205,1,0,0,0,207,37,1,0,0,0,208,209,5,
-        37,0,0,209,210,3,40,20,0,210,211,3,38,19,0,211,214,1,0,0,0,212,214,
-        1,0,0,0,213,208,1,0,0,0,213,212,1,0,0,0,214,39,1,0,0,0,215,216,3,
-        42,21,0,216,217,5,17,0,0,217,218,3,40,20,0,218,226,1,0,0,0,219,220,
-        3,14,7,0,220,221,5,36,0,0,221,222,5,17,0,0,222,223,3,40,20,0,223,
-        226,1,0,0,0,224,226,3,42,21,0,225,215,1,0,0,0,225,219,1,0,0,0,225,
-        224,1,0,0,0,226,41,1,0,0,0,227,228,3,44,22,0,228,43,1,0,0,0,229,
-        230,3,48,24,0,230,231,3,46,23,0,231,45,1,0,0,0,232,233,5,25,0,0,
-        233,234,3,48,24,0,234,235,3,46,23,0,235,242,1,0,0,0,236,237,5,24,
-        0,0,237,238,3,48,24,0,238,239,3,46,23,0,239,242,1,0,0,0,240,242,
-        1,0,0,0,241,232,1,0,0,0,241,236,1,0,0,0,241,240,1,0,0,0,242,47,1,
-        0,0,0,243,244,3,52,26,0,244,245,3,50,25,0,245,49,1,0,0,0,246,247,
-        5,18,0,0,247,248,3,52,26,0,248,249,3,50,25,0,249,272,1,0,0,0,250,
-        251,5,19,0,0,251,252,3,52,26,0,252,253,3,50,25,0,253,272,1,0,0,0,
-        254,255,5,20,0,0,255,256,3,52,26,0,256,257,3,50,25,0,257,272,1,0,
-        0,0,258,259,5,21,0,0,259,260,3,52,26,0,260,261,3,50,25,0,261,272,
-        1,0,0,0,262,263,5,22,0,0,263,264,3,52,26,0,264,265,3,50,25,0,265,
-        272,1,0,0,0,266,267,5,23,0,0,267,268,3,52,26,0,268,269,3,50,25,0,
-        269,272,1,0,0,0,270,272,1,0,0,0,271,246,1,0,0,0,271,250,1,0,0,0,
-        271,254,1,0,0,0,271,258,1,0,0,0,271,262,1,0,0,0,271,266,1,0,0,0,
-        271,270,1,0,0,0,272,51,1,0,0,0,273,274,3,56,28,0,274,275,3,54,27,
-        0,275,53,1,0,0,0,276,277,5,12,0,0,277,278,3,56,28,0,278,279,3,54,
-        27,0,279,286,1,0,0,0,280,281,5,13,0,0,281,282,3,56,28,0,282,283,
-        3,54,27,0,283,286,1,0,0,0,284,286,1,0,0,0,285,276,1,0,0,0,285,280,
-        1,0,0,0,285,284,1,0,0,0,286,55,1,0,0,0,287,288,3,60,30,0,288,289,
-        3,58,29,0,289,57,1,0,0,0,290,291,5,14,0,0,291,292,3,60,30,0,292,
-        293,3,58,29,0,293,304,1,0,0,0,294,295,5,15,0,0,295,296,3,60,30,0,
-        296,297,3,58,29,0,297,304,1,0,0,0,298,299,5,16,0,0,299,300,3,60,
-        30,0,300,301,3,58,29,0,301,304,1,0,0,0,302,304,1,0,0,0,303,290,1,
-        0,0,0,303,294,1,0,0,0,303,298,1,0,0,0,303,302,1,0,0,0,304,59,1,0,
-        0,0,305,306,6,30,-1,0,306,322,5,1,0,0,307,322,3,72,36,0,308,322,
-        5,36,0,0,309,310,5,29,0,0,310,311,3,44,22,0,311,312,5,30,0,0,312,
-        322,1,0,0,0,313,314,5,26,0,0,314,322,3,60,30,6,315,316,5,13,0,0,
-        316,322,3,60,30,5,317,318,5,27,0,0,318,322,3,60,30,4,319,320,5,28,
-        0,0,320,322,3,60,30,3,321,305,1,0,0,0,321,307,1,0,0,0,321,308,1,
-        0,0,0,321,309,1,0,0,0,321,313,1,0,0,0,321,315,1,0,0,0,321,317,1,
-        0,0,0,321,319,1,0,0,0,322,329,1,0,0,0,323,324,10,2,0,0,324,328,5,
-        27,0,0,325,326,10,1,0,0,326,328,5,28,0,0,327,323,1,0,0,0,327,325,
-        1,0,0,0,328,331,1,0,0,0,329,327,1,0,0,0,329,330,1,0,0,0,330,61,1,
-        0,0,0,331,329,1,0,0,0,332,333,3,14,7,0,333,334,5,36,0,0,334,335,
-        5,29,0,0,335,336,3,66,33,0,336,337,5,30,0,0,337,338,5,35,0,0,338,
-        63,1,0,0,0,339,340,3,14,7,0,340,341,5,36,0,0,341,342,5,29,0,0,342,
-        343,3,66,33,0,343,344,5,30,0,0,344,345,3,6,3,0,345,65,1,0,0,0,346,
-        349,3,68,34,0,347,349,1,0,0,0,348,346,1,0,0,0,348,347,1,0,0,0,349,
-        67,1,0,0,0,350,351,3,14,7,0,351,352,5,36,0,0,352,353,3,70,35,0,353,
-        359,1,0,0,0,354,355,3,14,7,0,355,356,3,70,35,0,356,359,1,0,0,0,357,
-        359,1,0,0,0,358,350,1,0,0,0,358,354,1,0,0,0,358,357,1,0,0,0,359,
-        69,1,0,0,0,360,361,5,37,0,0,361,362,3,14,7,0,362,363,5,36,0,0,363,
-        364,3,70,35,0,364,371,1,0,0,0,365,366,5,37,0,0,366,367,3,14,7,0,
-        367,368,3,70,35,0,368,371,1,0,0,0,369,371,1,0,0,0,370,360,1,0,0,
-        0,370,365,1,0,0,0,370,369,1,0,0,0,371,71,1,0,0,0,372,373,5,36,0,
-        0,373,374,5,29,0,0,374,375,3,74,37,0,375,376,5,30,0,0,376,73,1,0,
-        0,0,377,380,3,76,38,0,378,380,1,0,0,0,379,377,1,0,0,0,379,378,1,
-        0,0,0,380,75,1,0,0,0,381,382,3,42,21,0,382,383,3,78,39,0,383,386,
-        1,0,0,0,384,386,1,0,0,0,385,381,1,0,0,0,385,384,1,0,0,0,386,77,1,
-        0,0,0,387,388,5,37,0,0,388,389,3,42,21,0,389,390,3,78,39,0,390,393,
-        1,0,0,0,391,393,1,0,0,0,392,387,1,0,0,0,392,391,1,0,0,0,393,79,1,
-        0,0,0,394,395,5,11,0,0,395,396,3,42,21,0,396,397,5,35,0,0,397,81,
-        1,0,0,0,26,89,103,118,126,151,163,175,180,194,198,206,213,225,241,
-        271,285,303,321,327,329,348,358,370,379,385,392
+        2,40,7,40,2,41,7,41,2,42,7,42,2,43,7,43,1,0,1,0,1,0,1,0,1,0,1,0,
+        1,0,1,0,1,0,1,0,3,0,99,8,0,1,1,1,1,1,1,1,2,1,2,1,2,1,2,3,2,108,8,
+        2,1,3,1,3,1,3,1,3,1,3,1,3,1,3,1,3,1,3,1,3,1,3,1,3,3,3,122,8,3,1,
+        4,1,4,1,4,1,4,1,5,1,5,1,5,1,5,1,5,1,5,1,6,1,6,1,6,1,6,1,6,1,6,1,
+        6,1,7,1,7,1,7,3,7,144,8,7,1,8,1,8,1,8,1,8,1,8,1,8,1,8,1,8,1,8,1,
+        8,1,8,1,8,1,8,1,8,1,8,1,8,1,8,1,8,1,8,1,8,3,8,166,8,8,1,9,1,9,1,
+        9,1,9,1,9,1,9,1,9,1,9,1,9,3,9,177,8,9,1,10,1,10,1,10,1,10,1,10,3,
+        10,184,8,10,1,11,1,11,3,11,188,8,11,1,12,1,12,1,12,1,12,3,12,194,
+        8,12,1,13,1,13,1,13,1,13,1,13,3,13,201,8,13,1,14,1,14,1,14,1,14,
+        1,15,1,15,1,15,1,15,1,15,1,15,1,16,1,16,1,17,1,17,1,17,1,17,1,17,
+        1,17,3,17,221,8,17,1,18,1,18,1,18,3,18,226,8,18,1,19,1,19,1,19,1,
+        19,1,20,1,20,1,20,1,21,1,21,1,22,1,22,1,22,1,23,1,23,1,23,1,23,1,
+        23,3,23,245,8,23,1,24,1,24,1,24,1,25,1,25,1,25,1,25,1,25,3,25,255,
+        8,25,1,26,1,26,1,26,1,27,1,27,1,27,1,27,1,27,1,27,1,27,1,27,1,27,
+        3,27,269,8,27,1,28,1,28,1,28,1,29,1,29,1,29,1,29,1,29,1,29,1,29,
+        1,29,1,29,1,29,1,29,1,29,1,29,1,29,1,29,1,29,1,29,3,29,291,8,29,
+        1,30,1,30,1,30,1,31,1,31,1,31,1,31,1,31,1,31,1,31,1,31,1,31,3,31,
+        305,8,31,1,32,1,32,1,32,1,33,1,33,1,33,1,33,1,33,1,33,1,33,1,33,
+        1,33,1,33,1,33,1,33,1,33,3,33,323,8,33,1,34,1,34,1,34,1,34,1,34,
+        1,34,1,34,1,34,1,34,1,34,1,34,1,34,1,34,1,34,3,34,339,8,34,1,34,
+        1,34,1,34,1,34,5,34,345,8,34,10,34,12,34,348,9,34,1,35,1,35,1,35,
+        1,35,1,35,1,35,1,35,1,36,1,36,1,36,1,36,3,36,361,8,36,1,37,1,37,
+        1,37,1,37,1,37,3,37,368,8,37,1,38,1,38,1,38,1,38,1,39,1,39,1,39,
+        1,39,3,39,378,8,39,1,40,1,40,1,40,1,40,1,40,1,41,1,41,1,41,1,41,
+        3,41,389,8,41,1,42,1,42,1,42,1,42,1,42,3,42,396,8,42,1,43,1,43,1,
+        43,1,43,1,43,1,43,1,43,1,43,0,1,68,44,0,2,4,6,8,10,12,14,16,18,20,
+        22,24,26,28,30,32,34,36,38,40,42,44,46,48,50,52,54,56,58,60,62,64,
+        66,68,70,72,74,76,78,80,82,84,86,0,1,1,0,25,28,409,0,98,1,0,0,0,
+        2,100,1,0,0,0,4,107,1,0,0,0,6,121,1,0,0,0,8,123,1,0,0,0,10,127,1,
+        0,0,0,12,133,1,0,0,0,14,143,1,0,0,0,16,165,1,0,0,0,18,176,1,0,0,
+        0,20,183,1,0,0,0,22,187,1,0,0,0,24,193,1,0,0,0,26,200,1,0,0,0,28,
+        202,1,0,0,0,30,206,1,0,0,0,32,212,1,0,0,0,34,220,1,0,0,0,36,225,
+        1,0,0,0,38,227,1,0,0,0,40,231,1,0,0,0,42,234,1,0,0,0,44,236,1,0,
+        0,0,46,244,1,0,0,0,48,246,1,0,0,0,50,254,1,0,0,0,52,256,1,0,0,0,
+        54,268,1,0,0,0,56,270,1,0,0,0,58,290,1,0,0,0,60,292,1,0,0,0,62,304,
+        1,0,0,0,64,306,1,0,0,0,66,322,1,0,0,0,68,338,1,0,0,0,70,349,1,0,
+        0,0,72,360,1,0,0,0,74,367,1,0,0,0,76,369,1,0,0,0,78,377,1,0,0,0,
+        80,379,1,0,0,0,82,388,1,0,0,0,84,395,1,0,0,0,86,397,1,0,0,0,88,89,
+        5,34,0,0,89,90,6,0,-1,0,90,99,3,0,0,0,91,92,5,24,0,0,92,93,6,0,-1,
+        0,93,99,3,0,0,0,94,95,5,36,0,0,95,96,6,0,-1,0,96,99,3,0,0,0,97,99,
+        5,0,0,1,98,88,1,0,0,0,98,91,1,0,0,0,98,94,1,0,0,0,98,97,1,0,0,0,
+        99,1,1,0,0,0,100,101,3,4,2,0,101,102,5,0,0,1,102,3,1,0,0,0,103,104,
+        3,6,3,0,104,105,3,4,2,0,105,108,1,0,0,0,106,108,1,0,0,0,107,103,
+        1,0,0,0,107,106,1,0,0,0,108,5,1,0,0,0,109,122,3,40,20,0,110,122,
+        3,30,15,0,111,122,3,12,6,0,112,122,3,10,5,0,113,122,3,16,8,0,114,
+        122,3,28,14,0,115,122,3,8,4,0,116,122,3,70,35,0,117,122,3,86,43,
+        0,118,119,3,80,40,0,119,120,5,5,0,0,120,122,1,0,0,0,121,109,1,0,
+        0,0,121,110,1,0,0,0,121,111,1,0,0,0,121,112,1,0,0,0,121,113,1,0,
+        0,0,121,114,1,0,0,0,121,115,1,0,0,0,121,116,1,0,0,0,121,117,1,0,
+        0,0,121,118,1,0,0,0,122,7,1,0,0,0,123,124,5,3,0,0,124,125,3,4,2,
+        0,125,126,5,4,0,0,126,9,1,0,0,0,127,128,5,31,0,0,128,129,5,1,0,0,
+        129,130,3,42,21,0,130,131,5,2,0,0,131,132,3,6,3,0,132,11,1,0,0,0,
+        133,134,5,29,0,0,134,135,5,1,0,0,135,136,3,42,21,0,136,137,5,2,0,
+        0,137,138,3,6,3,0,138,139,3,14,7,0,139,13,1,0,0,0,140,141,5,30,0,
+        0,141,144,3,6,3,0,142,144,1,0,0,0,143,140,1,0,0,0,143,142,1,0,0,
+        0,144,15,1,0,0,0,145,146,5,32,0,0,146,147,5,1,0,0,147,148,3,18,9,
+        0,148,149,5,5,0,0,149,150,3,22,11,0,150,151,5,5,0,0,151,152,3,24,
+        12,0,152,153,5,2,0,0,153,154,3,6,3,0,154,166,1,0,0,0,155,156,5,32,
+        0,0,156,157,5,1,0,0,157,158,3,18,9,0,158,159,5,5,0,0,159,160,3,22,
+        11,0,160,161,5,5,0,0,161,162,3,24,12,0,162,163,5,2,0,0,163,164,5,
+        5,0,0,164,166,1,0,0,0,165,145,1,0,0,0,165,155,1,0,0,0,166,17,1,0,
+        0,0,167,168,3,32,16,0,168,169,5,34,0,0,169,170,3,36,18,0,170,171,
+        3,34,17,0,171,177,1,0,0,0,172,173,3,38,19,0,173,174,3,20,10,0,174,
+        177,1,0,0,0,175,177,1,0,0,0,176,167,1,0,0,0,176,172,1,0,0,0,176,
+        175,1,0,0,0,177,19,1,0,0,0,178,179,5,16,0,0,179,180,3,38,19,0,180,
+        181,3,20,10,0,181,184,1,0,0,0,182,184,1,0,0,0,183,178,1,0,0,0,183,
+        182,1,0,0,0,184,21,1,0,0,0,185,188,3,42,21,0,186,188,1,0,0,0,187,
+        185,1,0,0,0,187,186,1,0,0,0,188,23,1,0,0,0,189,190,3,60,30,0,190,
+        191,3,26,13,0,191,194,1,0,0,0,192,194,1,0,0,0,193,189,1,0,0,0,193,
+        192,1,0,0,0,194,25,1,0,0,0,195,196,5,16,0,0,196,197,3,60,30,0,197,
+        198,3,26,13,0,198,201,1,0,0,0,199,201,1,0,0,0,200,195,1,0,0,0,200,
+        199,1,0,0,0,201,27,1,0,0,0,202,203,5,33,0,0,203,204,3,42,21,0,204,
+        205,5,5,0,0,205,29,1,0,0,0,206,207,3,32,16,0,207,208,5,34,0,0,208,
+        209,3,36,18,0,209,210,3,34,17,0,210,211,5,5,0,0,211,31,1,0,0,0,212,
+        213,7,0,0,0,213,33,1,0,0,0,214,215,5,16,0,0,215,216,5,34,0,0,216,
+        217,3,36,18,0,217,218,3,34,17,0,218,221,1,0,0,0,219,221,1,0,0,0,
+        220,214,1,0,0,0,220,219,1,0,0,0,221,35,1,0,0,0,222,223,5,15,0,0,
+        223,226,3,42,21,0,224,226,1,0,0,0,225,222,1,0,0,0,225,224,1,0,0,
+        0,226,37,1,0,0,0,227,228,5,34,0,0,228,229,5,15,0,0,229,230,3,42,
+        21,0,230,39,1,0,0,0,231,232,3,38,19,0,232,233,5,5,0,0,233,41,1,0,
+        0,0,234,235,3,44,22,0,235,43,1,0,0,0,236,237,3,48,24,0,237,238,3,
+        46,23,0,238,45,1,0,0,0,239,240,5,13,0,0,240,241,3,48,24,0,241,242,
+        3,46,23,0,242,245,1,0,0,0,243,245,1,0,0,0,244,239,1,0,0,0,244,243,
+        1,0,0,0,245,47,1,0,0,0,246,247,3,52,26,0,247,248,3,50,25,0,248,49,
+        1,0,0,0,249,250,5,12,0,0,250,251,3,52,26,0,251,252,3,50,25,0,252,
+        255,1,0,0,0,253,255,1,0,0,0,254,249,1,0,0,0,254,253,1,0,0,0,255,
+        51,1,0,0,0,256,257,3,56,28,0,257,258,3,54,27,0,258,53,1,0,0,0,259,
+        260,5,6,0,0,260,261,3,56,28,0,261,262,3,54,27,0,262,269,1,0,0,0,
+        263,264,5,7,0,0,264,265,3,56,28,0,265,266,3,54,27,0,266,269,1,0,
+        0,0,267,269,1,0,0,0,268,259,1,0,0,0,268,263,1,0,0,0,268,267,1,0,
+        0,0,269,55,1,0,0,0,270,271,3,60,30,0,271,272,3,58,29,0,272,57,1,
+        0,0,0,273,274,5,9,0,0,274,275,3,60,30,0,275,276,3,58,29,0,276,291,
+        1,0,0,0,277,278,5,8,0,0,278,279,3,60,30,0,279,280,3,58,29,0,280,
+        291,1,0,0,0,281,282,5,11,0,0,282,283,3,60,30,0,283,284,3,58,29,0,
+        284,291,1,0,0,0,285,286,5,10,0,0,286,287,3,60,30,0,287,288,3,58,
+        29,0,288,291,1,0,0,0,289,291,1,0,0,0,290,273,1,0,0,0,290,277,1,0,
+        0,0,290,281,1,0,0,0,290,285,1,0,0,0,290,289,1,0,0,0,291,59,1,0,0,
+        0,292,293,3,64,32,0,293,294,3,62,31,0,294,61,1,0,0,0,295,296,5,17,
+        0,0,296,297,3,64,32,0,297,298,3,62,31,0,298,305,1,0,0,0,299,300,
+        5,18,0,0,300,301,3,64,32,0,301,302,3,62,31,0,302,305,1,0,0,0,303,
+        305,1,0,0,0,304,295,1,0,0,0,304,299,1,0,0,0,304,303,1,0,0,0,305,
+        63,1,0,0,0,306,307,3,68,34,0,307,308,3,66,33,0,308,65,1,0,0,0,309,
+        310,5,19,0,0,310,311,3,68,34,0,311,312,3,66,33,0,312,323,1,0,0,0,
+        313,314,5,20,0,0,314,315,3,68,34,0,315,316,3,66,33,0,316,323,1,0,
+        0,0,317,318,5,21,0,0,318,319,3,68,34,0,319,320,3,66,33,0,320,323,
+        1,0,0,0,321,323,1,0,0,0,322,309,1,0,0,0,322,313,1,0,0,0,322,317,
+        1,0,0,0,322,321,1,0,0,0,323,67,1,0,0,0,324,325,6,34,-1,0,325,339,
+        5,24,0,0,326,339,5,34,0,0,327,328,5,1,0,0,328,329,3,42,21,0,329,
+        330,5,2,0,0,330,339,1,0,0,0,331,339,3,80,40,0,332,333,5,14,0,0,333,
+        339,3,68,34,5,334,335,5,22,0,0,335,339,3,68,34,4,336,337,5,23,0,
+        0,337,339,3,68,34,3,338,324,1,0,0,0,338,326,1,0,0,0,338,327,1,0,
+        0,0,338,331,1,0,0,0,338,332,1,0,0,0,338,334,1,0,0,0,338,336,1,0,
+        0,0,339,346,1,0,0,0,340,341,10,2,0,0,341,345,5,22,0,0,342,343,10,
+        1,0,0,343,345,5,23,0,0,344,340,1,0,0,0,344,342,1,0,0,0,345,348,1,
+        0,0,0,346,344,1,0,0,0,346,347,1,0,0,0,347,69,1,0,0,0,348,346,1,0,
+        0,0,349,350,3,32,16,0,350,351,5,34,0,0,351,352,5,1,0,0,352,353,3,
+        72,36,0,353,354,5,2,0,0,354,355,5,5,0,0,355,71,1,0,0,0,356,357,3,
+        76,38,0,357,358,3,74,37,0,358,361,1,0,0,0,359,361,1,0,0,0,360,356,
+        1,0,0,0,360,359,1,0,0,0,361,73,1,0,0,0,362,363,5,16,0,0,363,364,
+        3,76,38,0,364,365,3,74,37,0,365,368,1,0,0,0,366,368,1,0,0,0,367,
+        362,1,0,0,0,367,366,1,0,0,0,368,75,1,0,0,0,369,370,3,32,16,0,370,
+        371,5,34,0,0,371,372,3,78,39,0,372,77,1,0,0,0,373,374,5,16,0,0,374,
+        375,5,34,0,0,375,378,3,78,39,0,376,378,1,0,0,0,377,373,1,0,0,0,377,
+        376,1,0,0,0,378,79,1,0,0,0,379,380,5,34,0,0,380,381,5,1,0,0,381,
+        382,3,82,41,0,382,383,5,2,0,0,383,81,1,0,0,0,384,385,3,42,21,0,385,
+        386,3,84,42,0,386,389,1,0,0,0,387,389,1,0,0,0,388,384,1,0,0,0,388,
+        387,1,0,0,0,389,83,1,0,0,0,390,391,5,16,0,0,391,392,3,42,21,0,392,
+        393,3,84,42,0,393,396,1,0,0,0,394,396,1,0,0,0,395,390,1,0,0,0,395,
+        394,1,0,0,0,396,85,1,0,0,0,397,398,3,32,16,0,398,399,5,34,0,0,399,
+        400,5,1,0,0,400,401,3,72,36,0,401,402,5,2,0,0,402,403,3,8,4,0,403,
+        87,1,0,0,0,26,98,107,121,143,165,176,183,187,193,200,220,225,244,
+        254,268,290,304,322,338,344,346,360,367,377,388,395
     ]
 
 class compiladorParser ( Parser ):
@@ -161,113 +160,111 @@ class compiladorParser ( Parser ):
 
     sharedContextCache = PredictionContextCache()
 
-    literalNames = [ "<INVALID>", "<INVALID>", "<INVALID>", "'int'", "'double'", 
-                     "'void'", "'char'", "'if'", "'else'", "'for'", "'while'", 
-                     "'return'", "'+'", "'-'", "'*'", "'/'", "'%'", "'='", 
-                     "'<'", "'>'", "'<='", "'>='", "'=='", "'!='", "'&&'", 
-                     "'||'", "'!'", "'++'", "'--'", "'('", "')'", "'{'", 
-                     "'}'", "'['", "']'", "';'", "<INVALID>", "','" ]
+    literalNames = [ "<INVALID>", "'('", "')'", "'{'", "'}'", "';'", "'=='", 
+                     "'!='", "'>'", "'<'", "'>='", "'<='", "'&&'", "'||'", 
+                     "'!'", "'='", "','", "'+'", "'-'", "'*'", "'/'", "'%'", 
+                     "'++'", "'--'", "<INVALID>", "'int'", "'double'", "'float'", 
+                     "'void'", "'if'", "'else'", "'while'", "'for'", "'return'" ]
 
-    symbolicNames = [ "<INVALID>", "NUMERO", "ENTERO", "INT", "DOUBLE", 
-                      "VOID", "CHAR", "IF", "ELSE", "FOR", "WHILE", "RETURN", 
-                      "SUMA", "RESTA", "MULT", "DIV", "MOD", "ASIG", "MENOR", 
-                      "MAYOR", "MENOR_IGUAL", "MAYOR_IGUAL", "IGUAL", "DIFERENTE", 
-                      "AND", "OR", "NOT", "INC", "DEC", "PA", "PC", "LLA", 
-                      "LLC", "CA", "CC", "PYC", "ID", "COMA", "WS", "OTRO" ]
+    symbolicNames = [ "<INVALID>", "PA", "PC", "LLA", "LLC", "PYC", "IGUAL", 
+                      "DISTINTO", "MAYOR", "MENOR", "MAYORIG", "MENORIG", 
+                      "AND", "OR", "NOT", "ASIG", "COMA", "SUMA", "RESTA", 
+                      "MULT", "DIV", "MOD", "INC", "DEC", "NUMERO", "INT", 
+                      "DOUBLE", "FLOAT", "VOID", "IF", "ELSE", "WHILE", 
+                      "FOR", "RETURN", "ID", "WS", "OTRO" ]
 
-    RULE_programa = 0
-    RULE_instrucciones = 1
-    RULE_instruccion = 2
-    RULE_bloque = 3
-    RULE_declaracion = 4
-    RULE_inicializador = 5
-    RULE_listavar = 6
-    RULE_tipo = 7
-    RULE_asignacion = 8
-    RULE_iwhile = 9
-    RULE_iif = 10
-    RULE_ielse = 11
-    RULE_ifor = 12
-    RULE_f_inicializacion = 13
-    RULE_f_inicializador = 14
-    RULE_f_lista_inic = 15
-    RULE_f_condicion = 16
-    RULE_f_actualizacion = 17
-    RULE_f_lista_a = 18
-    RULE_f_lista_prima = 19
-    RULE_exp_for = 20
-    RULE_opalc = 21
-    RULE_exp_l = 22
-    RULE_exp_l_prima = 23
-    RULE_exp_comp = 24
-    RULE_exp_comp_prima = 25
-    RULE_exp_a = 26
-    RULE_exp_a_prima = 27
-    RULE_term = 28
-    RULE_term_prima = 29
-    RULE_factor = 30
-    RULE_prototipo = 31
-    RULE_funcion = 32
-    RULE_lista_parametros = 33
-    RULE_parametros = 34
-    RULE_parametros_prima = 35
-    RULE_llamada_funcion = 36
-    RULE_lista_argumentos = 37
-    RULE_argumentos = 38
-    RULE_argumentos_prima = 39
-    RULE_ireturn = 40
+    RULE_s = 0
+    RULE_programa = 1
+    RULE_instrucciones = 2
+    RULE_instruccion = 3
+    RULE_bloque = 4
+    RULE_iwhile = 5
+    RULE_iif = 6
+    RULE_ielse = 7
+    RULE_ifor = 8
+    RULE_forInicializacion = 9
+    RULE_listaExpASIG = 10
+    RULE_forCond = 11
+    RULE_forActualizacion = 12
+    RULE_listaActualizacion = 13
+    RULE_ireturn = 14
+    RULE_declaracion = 15
+    RULE_tipo = 16
+    RULE_listavar = 17
+    RULE_inic = 18
+    RULE_expASIG = 19
+    RULE_asignacion = 20
+    RULE_opal = 21
+    RULE_expOR = 22
+    RULE_o = 23
+    RULE_expAND = 24
+    RULE_a = 25
+    RULE_expIGUAL = 26
+    RULE_i = 27
+    RULE_expCOMP = 28
+    RULE_c = 29
+    RULE_exp = 30
+    RULE_e = 31
+    RULE_term = 32
+    RULE_t = 33
+    RULE_factor = 34
+    RULE_prototipo = 35
+    RULE_parametros = 36
+    RULE_listaParametros = 37
+    RULE_parametro = 38
+    RULE_listaID = 39
+    RULE_llamada = 40
+    RULE_listaArg = 41
+    RULE_argumentos = 42
+    RULE_funcion = 43
 
-    ruleNames =  [ "programa", "instrucciones", "instruccion", "bloque", 
-                   "declaracion", "inicializador", "listavar", "tipo", "asignacion", 
-                   "iwhile", "iif", "ielse", "ifor", "f_inicializacion", 
-                   "f_inicializador", "f_lista_inic", "f_condicion", "f_actualizacion", 
-                   "f_lista_a", "f_lista_prima", "exp_for", "opalc", "exp_l", 
-                   "exp_l_prima", "exp_comp", "exp_comp_prima", "exp_a", 
-                   "exp_a_prima", "term", "term_prima", "factor", "prototipo", 
-                   "funcion", "lista_parametros", "parametros", "parametros_prima", 
-                   "llamada_funcion", "lista_argumentos", "argumentos", 
-                   "argumentos_prima", "ireturn" ]
+    ruleNames =  [ "s", "programa", "instrucciones", "instruccion", "bloque", 
+                   "iwhile", "iif", "ielse", "ifor", "forInicializacion", 
+                   "listaExpASIG", "forCond", "forActualizacion", "listaActualizacion", 
+                   "ireturn", "declaracion", "tipo", "listavar", "inic", 
+                   "expASIG", "asignacion", "opal", "expOR", "o", "expAND", 
+                   "a", "expIGUAL", "i", "expCOMP", "c", "exp", "e", "term", 
+                   "t", "factor", "prototipo", "parametros", "listaParametros", 
+                   "parametro", "listaID", "llamada", "listaArg", "argumentos", 
+                   "funcion" ]
 
     EOF = Token.EOF
-    NUMERO=1
-    ENTERO=2
-    INT=3
-    DOUBLE=4
-    VOID=5
-    CHAR=6
-    IF=7
-    ELSE=8
-    FOR=9
-    WHILE=10
-    RETURN=11
-    SUMA=12
-    RESTA=13
-    MULT=14
-    DIV=15
-    MOD=16
-    ASIG=17
-    MENOR=18
-    MAYOR=19
-    MENOR_IGUAL=20
-    MAYOR_IGUAL=21
-    IGUAL=22
-    DIFERENTE=23
-    AND=24
-    OR=25
-    NOT=26
-    INC=27
-    DEC=28
-    PA=29
-    PC=30
-    LLA=31
-    LLC=32
-    CA=33
-    CC=34
-    PYC=35
-    ID=36
-    COMA=37
-    WS=38
-    OTRO=39
+    PA=1
+    PC=2
+    LLA=3
+    LLC=4
+    PYC=5
+    IGUAL=6
+    DISTINTO=7
+    MAYOR=8
+    MENOR=9
+    MAYORIG=10
+    MENORIG=11
+    AND=12
+    OR=13
+    NOT=14
+    ASIG=15
+    COMA=16
+    SUMA=17
+    RESTA=18
+    MULT=19
+    DIV=20
+    MOD=21
+    INC=22
+    DEC=23
+    NUMERO=24
+    INT=25
+    DOUBLE=26
+    FLOAT=27
+    VOID=28
+    IF=29
+    ELSE=30
+    WHILE=31
+    FOR=32
+    RETURN=33
+    ID=34
+    WS=35
+    OTRO=36
 
     def __init__(self, input:TokenStream, output:TextIO = sys.stdout):
         super().__init__(input, output)
@@ -276,6 +273,101 @@ class compiladorParser ( Parser ):
         self._predicates = None
 
 
+
+
+    class SContext(ParserRuleContext):
+        __slots__ = 'parser'
+
+        def __init__(self, parser, parent:ParserRuleContext=None, invokingState:int=-1):
+            super().__init__(parent, invokingState)
+            self.parser = parser
+            self._ID = None # Token
+            self._NUMERO = None # Token
+            self._OTRO = None # Token
+
+        def ID(self):
+            return self.getToken(compiladorParser.ID, 0)
+
+        def s(self):
+            return self.getTypedRuleContext(compiladorParser.SContext,0)
+
+
+        def NUMERO(self):
+            return self.getToken(compiladorParser.NUMERO, 0)
+
+        def OTRO(self):
+            return self.getToken(compiladorParser.OTRO, 0)
+
+        def EOF(self):
+            return self.getToken(compiladorParser.EOF, 0)
+
+        def getRuleIndex(self):
+            return compiladorParser.RULE_s
+
+        def enterRule(self, listener:ParseTreeListener):
+            if hasattr( listener, "enterS" ):
+                listener.enterS(self)
+
+        def exitRule(self, listener:ParseTreeListener):
+            if hasattr( listener, "exitS" ):
+                listener.exitS(self)
+
+        def accept(self, visitor:ParseTreeVisitor):
+            if hasattr( visitor, "visitS" ):
+                return visitor.visitS(self)
+            else:
+                return visitor.visitChildren(self)
+
+
+
+
+    def s(self):
+
+        localctx = compiladorParser.SContext(self, self._ctx, self.state)
+        self.enterRule(localctx, 0, self.RULE_s)
+        try:
+            self.state = 98
+            self._errHandler.sync(self)
+            token = self._input.LA(1)
+            if token in [34]:
+                self.enterOuterAlt(localctx, 1)
+                self.state = 88
+                localctx._ID = self.match(compiladorParser.ID)
+                print("ID ->" + (None if localctx._ID is None else localctx._ID.text) + "<--") 
+                self.state = 90
+                self.s()
+                pass
+            elif token in [24]:
+                self.enterOuterAlt(localctx, 2)
+                self.state = 91
+                localctx._NUMERO = self.match(compiladorParser.NUMERO)
+                print("NUMERO ->" + (None if localctx._NUMERO is None else localctx._NUMERO.text) + "<--") 
+                self.state = 93
+                self.s()
+                pass
+            elif token in [36]:
+                self.enterOuterAlt(localctx, 3)
+                self.state = 94
+                localctx._OTRO = self.match(compiladorParser.OTRO)
+                print("Otro ->" + (None if localctx._OTRO is None else localctx._OTRO.text) + "<--") 
+                self.state = 96
+                self.s()
+                pass
+            elif token in [-1]:
+                self.enterOuterAlt(localctx, 4)
+                self.state = 97
+                self.match(compiladorParser.EOF)
+                pass
+            else:
+                raise NoViableAltException(self)
+
+        except RecognitionException as re:
+            localctx.exception = re
+            self._errHandler.reportError(self, re)
+            self._errHandler.recover(self, re)
+        finally:
+            self.exitRule()
+        return localctx
 
 
     class ProgramaContext(ParserRuleContext):
@@ -315,12 +407,12 @@ class compiladorParser ( Parser ):
     def programa(self):
 
         localctx = compiladorParser.ProgramaContext(self, self._ctx, self.state)
-        self.enterRule(localctx, 0, self.RULE_programa)
+        self.enterRule(localctx, 2, self.RULE_programa)
         try:
             self.enterOuterAlt(localctx, 1)
-            self.state = 82
+            self.state = 100
             self.instrucciones()
-            self.state = 83
+            self.state = 101
             self.match(compiladorParser.EOF)
         except RecognitionException as re:
             localctx.exception = re
@@ -369,19 +461,19 @@ class compiladorParser ( Parser ):
     def instrucciones(self):
 
         localctx = compiladorParser.InstruccionesContext(self, self._ctx, self.state)
-        self.enterRule(localctx, 2, self.RULE_instrucciones)
+        self.enterRule(localctx, 4, self.RULE_instrucciones)
         try:
-            self.state = 89
+            self.state = 107
             self._errHandler.sync(self)
             token = self._input.LA(1)
-            if token in [3, 4, 5, 6, 7, 9, 10, 11, 31, 36]:
+            if token in [3, 25, 26, 27, 28, 29, 31, 32, 33, 34]:
                 self.enterOuterAlt(localctx, 1)
-                self.state = 85
+                self.state = 103
                 self.instruccion()
-                self.state = 86
+                self.state = 104
                 self.instrucciones()
                 pass
-            elif token in [-1, 32]:
+            elif token in [-1, 4]:
                 self.enterOuterAlt(localctx, 2)
 
                 pass
@@ -424,6 +516,10 @@ class compiladorParser ( Parser ):
             return self.getTypedRuleContext(compiladorParser.IforContext,0)
 
 
+        def ireturn(self):
+            return self.getTypedRuleContext(compiladorParser.IreturnContext,0)
+
+
         def bloque(self):
             return self.getTypedRuleContext(compiladorParser.BloqueContext,0)
 
@@ -436,12 +532,8 @@ class compiladorParser ( Parser ):
             return self.getTypedRuleContext(compiladorParser.FuncionContext,0)
 
 
-        def ireturn(self):
-            return self.getTypedRuleContext(compiladorParser.IreturnContext,0)
-
-
-        def llamada_funcion(self):
-            return self.getTypedRuleContext(compiladorParser.Llamada_funcionContext,0)
+        def llamada(self):
+            return self.getTypedRuleContext(compiladorParser.LlamadaContext,0)
 
 
         def PYC(self):
@@ -470,70 +562,70 @@ class compiladorParser ( Parser ):
     def instruccion(self):
 
         localctx = compiladorParser.InstruccionContext(self, self._ctx, self.state)
-        self.enterRule(localctx, 4, self.RULE_instruccion)
+        self.enterRule(localctx, 6, self.RULE_instruccion)
         try:
-            self.state = 103
+            self.state = 121
             self._errHandler.sync(self)
-            la_ = self._interp.adaptivePredict(self._input,1,self._ctx)
+            la_ = self._interp.adaptivePredict(self._input,2,self._ctx)
             if la_ == 1:
                 self.enterOuterAlt(localctx, 1)
-                self.state = 91
+                self.state = 109
                 self.asignacion()
                 pass
 
             elif la_ == 2:
                 self.enterOuterAlt(localctx, 2)
-                self.state = 92
+                self.state = 110
                 self.declaracion()
                 pass
 
             elif la_ == 3:
                 self.enterOuterAlt(localctx, 3)
-                self.state = 93
+                self.state = 111
                 self.iif()
                 pass
 
             elif la_ == 4:
                 self.enterOuterAlt(localctx, 4)
-                self.state = 94
+                self.state = 112
                 self.iwhile()
                 pass
 
             elif la_ == 5:
                 self.enterOuterAlt(localctx, 5)
-                self.state = 95
+                self.state = 113
                 self.ifor()
                 pass
 
             elif la_ == 6:
                 self.enterOuterAlt(localctx, 6)
-                self.state = 96
-                self.bloque()
+                self.state = 114
+                self.ireturn()
                 pass
 
             elif la_ == 7:
                 self.enterOuterAlt(localctx, 7)
-                self.state = 97
-                self.prototipo()
+                self.state = 115
+                self.bloque()
                 pass
 
             elif la_ == 8:
                 self.enterOuterAlt(localctx, 8)
-                self.state = 98
-                self.funcion()
+                self.state = 116
+                self.prototipo()
                 pass
 
             elif la_ == 9:
                 self.enterOuterAlt(localctx, 9)
-                self.state = 99
-                self.ireturn()
+                self.state = 117
+                self.funcion()
                 pass
 
             elif la_ == 10:
                 self.enterOuterAlt(localctx, 10)
-                self.state = 100
-                self.llamada_funcion()
-                self.state = 101
+                self.state = 118
+                self.llamada()
+                self.state = 119
                 self.match(compiladorParser.PYC)
                 pass
 
@@ -587,351 +679,15 @@ class compiladorParser ( Parser ):
     def bloque(self):
 
         localctx = compiladorParser.BloqueContext(self, self._ctx, self.state)
-        self.enterRule(localctx, 6, self.RULE_bloque)
+        self.enterRule(localctx, 8, self.RULE_bloque)
         try:
             self.enterOuterAlt(localctx, 1)
-            self.state = 105
+            self.state = 123
             self.match(compiladorParser.LLA)
-            self.state = 106
+            self.state = 124
             self.instrucciones()
-            self.state = 107
+            self.state = 125
             self.match(compiladorParser.LLC)
-        except RecognitionException as re:
-            localctx.exception = re
-            self._errHandler.reportError(self, re)
-            self._errHandler.recover(self, re)
-        finally:
-            self.exitRule()
-        return localctx
-
-
-    class DeclaracionContext(ParserRuleContext):
-        __slots__ = 'parser'
-
-        def __init__(self, parser, parent:ParserRuleContext=None, invokingState:int=-1):
-            super().__init__(parent, invokingState)
-            self.parser = parser
-
-        def tipo(self):
-            return self.getTypedRuleContext(compiladorParser.TipoContext,0)
-
-
-        def ID(self):
-            return self.getToken(compiladorParser.ID, 0)
-
-        def inicializador(self):
-            return self.getTypedRuleContext(compiladorParser.InicializadorContext,0)
-
-
-        def listavar(self):
-            return self.getTypedRuleContext(compiladorParser.ListavarContext,0)
-
-
-        def PYC(self):
-            return self.getToken(compiladorParser.PYC, 0)
-
-        def getRuleIndex(self):
-            return compiladorParser.RULE_declaracion
-
-        def enterRule(self, listener:ParseTreeListener):
-            if hasattr( listener, "enterDeclaracion" ):
-                listener.enterDeclaracion(self)
-
-        def exitRule(self, listener:ParseTreeListener):
-            if hasattr( listener, "exitDeclaracion" ):
-                listener.exitDeclaracion(self)
-
-        def accept(self, visitor:ParseTreeVisitor):
-            if hasattr( visitor, "visitDeclaracion" ):
-                return visitor.visitDeclaracion(self)
-            else:
-                return visitor.visitChildren(self)
-
-
-
-
-    def declaracion(self):
-
-        localctx = compiladorParser.DeclaracionContext(self, self._ctx, self.state)
-        self.enterRule(localctx, 8, self.RULE_declaracion)
-        try:
-            self.enterOuterAlt(localctx, 1)
-            self.state = 109
-            self.tipo()
-            self.state = 110
-            self.match(compiladorParser.ID)
-            self.state = 111
-            self.inicializador()
-            self.state = 112
-            self.listavar()
-            self.state = 113
-            self.match(compiladorParser.PYC)
-        except RecognitionException as re:
-            localctx.exception = re
-            self._errHandler.reportError(self, re)
-            self._errHandler.recover(self, re)
-        finally:
-            self.exitRule()
-        return localctx
-
-
-    class InicializadorContext(ParserRuleContext):
-        __slots__ = 'parser'
-
-        def __init__(self, parser, parent:ParserRuleContext=None, invokingState:int=-1):
-            super().__init__(parent, invokingState)
-            self.parser = parser
-
-        def ASIG(self):
-            return self.getToken(compiladorParser.ASIG, 0)
-
-        def opalc(self):
-            return self.getTypedRuleContext(compiladorParser.OpalcContext,0)
-
-
-        def getRuleIndex(self):
-            return compiladorParser.RULE_inicializador
-
-        def enterRule(self, listener:ParseTreeListener):
-            if hasattr( listener, "enterInicializador" ):
-                listener.enterInicializador(self)
-
-        def exitRule(self, listener:ParseTreeListener):
-            if hasattr( listener, "exitInicializador" ):
-                listener.exitInicializador(self)
-
-        def accept(self, visitor:ParseTreeVisitor):
-            if hasattr( visitor, "visitInicializador" ):
-                return visitor.visitInicializador(self)
-            else:
-                return visitor.visitChildren(self)
-
-
-
-
-    def inicializador(self):
-
-        localctx = compiladorParser.InicializadorContext(self, self._ctx, self.state)
-        self.enterRule(localctx, 10, self.RULE_inicializador)
-        try:
-            self.state = 118
-            self._errHandler.sync(self)
-            token = self._input.LA(1)
-            if token in [17]:
-                self.enterOuterAlt(localctx, 1)
-                self.state = 115
-                self.match(compiladorParser.ASIG)
-                self.state = 116
-                self.opalc()
-                pass
-            elif token in [35, 37]:
-                self.enterOuterAlt(localctx, 2)
-
-                pass
-            else:
-                raise NoViableAltException(self)
-
-        except RecognitionException as re:
-            localctx.exception = re
-            self._errHandler.reportError(self, re)
-            self._errHandler.recover(self, re)
-        finally:
-            self.exitRule()
-        return localctx
-
-
-    class ListavarContext(ParserRuleContext):
-        __slots__ = 'parser'
-
-        def __init__(self, parser, parent:ParserRuleContext=None, invokingState:int=-1):
-            super().__init__(parent, invokingState)
-            self.parser = parser
-
-        def COMA(self):
-            return self.getToken(compiladorParser.COMA, 0)
-
-        def ID(self):
-            return self.getToken(compiladorParser.ID, 0)
-
-        def inicializador(self):
-            return self.getTypedRuleContext(compiladorParser.InicializadorContext,0)
-
-
-        def listavar(self):
-            return self.getTypedRuleContext(compiladorParser.ListavarContext,0)
-
-
-        def getRuleIndex(self):
-            return compiladorParser.RULE_listavar
-
-        def enterRule(self, listener:ParseTreeListener):
-            if hasattr( listener, "enterListavar" ):
-                listener.enterListavar(self)
-
-        def exitRule(self, listener:ParseTreeListener):
-            if hasattr( listener, "exitListavar" ):
-                listener.exitListavar(self)
-
-        def accept(self, visitor:ParseTreeVisitor):
-            if hasattr( visitor, "visitListavar" ):
-                return visitor.visitListavar(self)
-            else:
-                return visitor.visitChildren(self)
-
-
-
-
-    def listavar(self):
-
-        localctx = compiladorParser.ListavarContext(self, self._ctx, self.state)
-        self.enterRule(localctx, 12, self.RULE_listavar)
-        try:
-            self.state = 126
-            self._errHandler.sync(self)
-            token = self._input.LA(1)
-            if token in [37]:
-                self.enterOuterAlt(localctx, 1)
-                self.state = 120
-                self.match(compiladorParser.COMA)
-                self.state = 121
-                self.match(compiladorParser.ID)
-                self.state = 122
-                self.inicializador()
-                self.state = 123
-                self.listavar()
-                pass
-            elif token in [35]:
-                self.enterOuterAlt(localctx, 2)
-
-                pass
-            else:
-                raise NoViableAltException(self)
-
-        except RecognitionException as re:
-            localctx.exception = re
-            self._errHandler.reportError(self, re)
-            self._errHandler.recover(self, re)
-        finally:
-            self.exitRule()
-        return localctx
-
-
-    class TipoContext(ParserRuleContext):
-        __slots__ = 'parser'
-
-        def __init__(self, parser, parent:ParserRuleContext=None, invokingState:int=-1):
-            super().__init__(parent, invokingState)
-            self.parser = parser
-
-        def INT(self):
-            return self.getToken(compiladorParser.INT, 0)
-
-        def DOUBLE(self):
-            return self.getToken(compiladorParser.DOUBLE, 0)
-
-        def CHAR(self):
-            return self.getToken(compiladorParser.CHAR, 0)
-
-        def VOID(self):
-            return self.getToken(compiladorParser.VOID, 0)
-
-        def getRuleIndex(self):
-            return compiladorParser.RULE_tipo
-
-        def enterRule(self, listener:ParseTreeListener):
-            if hasattr( listener, "enterTipo" ):
-                listener.enterTipo(self)
-
-        def exitRule(self, listener:ParseTreeListener):
-            if hasattr( listener, "exitTipo" ):
-                listener.exitTipo(self)
-
-        def accept(self, visitor:ParseTreeVisitor):
-            if hasattr( visitor, "visitTipo" ):
-                return visitor.visitTipo(self)
-            else:
-                return visitor.visitChildren(self)
-
-
-
-
-    def tipo(self):
-
-        localctx = compiladorParser.TipoContext(self, self._ctx, self.state)
-        self.enterRule(localctx, 14, self.RULE_tipo)
-        self._la = 0 # Token type
-        try:
-            self.enterOuterAlt(localctx, 1)
-            self.state = 128
-            _la = self._input.LA(1)
-            if not((((_la) & ~0x3f) == 0 and ((1 << _la) & 120) != 0)):
-                self._errHandler.recoverInline(self)
-            else:
-                self._errHandler.reportMatch(self)
-                self.consume()
-        except RecognitionException as re:
-            localctx.exception = re
-            self._errHandler.reportError(self, re)
-            self._errHandler.recover(self, re)
-        finally:
-            self.exitRule()
-        return localctx
-
-
-    class AsignacionContext(ParserRuleContext):
-        __slots__ = 'parser'
-
-        def __init__(self, parser, parent:ParserRuleContext=None, invokingState:int=-1):
-            super().__init__(parent, invokingState)
-            self.parser = parser
-
-        def ID(self):
-            return self.getToken(compiladorParser.ID, 0)
-
-        def ASIG(self):
-            return self.getToken(compiladorParser.ASIG, 0)
-
-        def opalc(self):
-            return self.getTypedRuleContext(compiladorParser.OpalcContext,0)
-
-
-        def PYC(self):
-            return self.getToken(compiladorParser.PYC, 0)
-
-        def getRuleIndex(self):
-            return compiladorParser.RULE_asignacion
-
-        def enterRule(self, listener:ParseTreeListener):
-            if hasattr( listener, "enterAsignacion" ):
-                listener.enterAsignacion(self)
-
-        def exitRule(self, listener:ParseTreeListener):
-            if hasattr( listener, "exitAsignacion" ):
-                listener.exitAsignacion(self)
-
-        def accept(self, visitor:ParseTreeVisitor):
-            if hasattr( visitor, "visitAsignacion" ):
-                return visitor.visitAsignacion(self)
-            else:
-                return visitor.visitChildren(self)
-
-
-
-
-    def asignacion(self):
-
-        localctx = compiladorParser.AsignacionContext(self, self._ctx, self.state)
-        self.enterRule(localctx, 16, self.RULE_asignacion)
-        try:
-            self.enterOuterAlt(localctx, 1)
-            self.state = 130
-            self.match(compiladorParser.ID)
-            self.state = 131
-            self.match(compiladorParser.ASIG)
-            self.state = 132
-            self.opalc()
-            self.state = 133
-            self.match(compiladorParser.PYC)
         except RecognitionException as re:
             localctx.exception = re
             self._errHandler.reportError(self, re)
@@ -954,8 +710,8 @@ class compiladorParser ( Parser ):
         def PA(self):
             return self.getToken(compiladorParser.PA, 0)
 
-        def opalc(self):
-            return self.getTypedRuleContext(compiladorParser.OpalcContext,0)
+        def opal(self):
+            return self.getTypedRuleContext(compiladorParser.OpalContext,0)
 
 
         def PC(self):
@@ -988,18 +744,18 @@ class compiladorParser ( Parser ):
     def iwhile(self):
 
         localctx = compiladorParser.IwhileContext(self, self._ctx, self.state)
-        self.enterRule(localctx, 18, self.RULE_iwhile)
+        self.enterRule(localctx, 10, self.RULE_iwhile)
         try:
             self.enterOuterAlt(localctx, 1)
-            self.state = 135
+            self.state = 127
             self.match(compiladorParser.WHILE)
-            self.state = 136
+            self.state = 128
             self.match(compiladorParser.PA)
-            self.state = 137
-            self.opalc()
-            self.state = 138
+            self.state = 129
+            self.opal()
+            self.state = 130
             self.match(compiladorParser.PC)
-            self.state = 139
+            self.state = 131
             self.instruccion()
         except RecognitionException as re:
             localctx.exception = re
@@ -1023,8 +779,8 @@ class compiladorParser ( Parser ):
         def PA(self):
             return self.getToken(compiladorParser.PA, 0)
 
-        def opalc(self):
-            return self.getTypedRuleContext(compiladorParser.OpalcContext,0)
+        def opal(self):
+            return self.getTypedRuleContext(compiladorParser.OpalContext,0)
 
 
         def PC(self):
@@ -1061,20 +817,20 @@ class compiladorParser ( Parser ):
     def iif(self):
 
         localctx = compiladorParser.IifContext(self, self._ctx, self.state)
-        self.enterRule(localctx, 20, self.RULE_iif)
+        self.enterRule(localctx, 12, self.RULE_iif)
         try:
             self.enterOuterAlt(localctx, 1)
-            self.state = 141
+            self.state = 133
             self.match(compiladorParser.IF)
-            self.state = 142
+            self.state = 134
             self.match(compiladorParser.PA)
-            self.state = 143
-            self.opalc()
-            self.state = 144
+            self.state = 135
+            self.opal()
+            self.state = 136
             self.match(compiladorParser.PC)
-            self.state = 145
+            self.state = 137
             self.instruccion()
-            self.state = 146
+            self.state = 138
             self.ielse()
         except RecognitionException as re:
             localctx.exception = re
@@ -1122,16 +878,16 @@ class compiladorParser ( Parser ):
     def ielse(self):
 
         localctx = compiladorParser.IelseContext(self, self._ctx, self.state)
-        self.enterRule(localctx, 22, self.RULE_ielse)
+        self.enterRule(localctx, 14, self.RULE_ielse)
         try:
-            self.state = 151
+            self.state = 143
             self._errHandler.sync(self)
-            la_ = self._interp.adaptivePredict(self._input,4,self._ctx)
+            la_ = self._interp.adaptivePredict(self._input,3,self._ctx)
             if la_ == 1:
                 self.enterOuterAlt(localctx, 1)
-                self.state = 148
+                self.state = 140
                 self.match(compiladorParser.ELSE)
-                self.state = 149
+                self.state = 141
                 self.instruccion()
                 pass
 
@@ -1163,8 +919,8 @@ class compiladorParser ( Parser ):
         def PA(self):
             return self.getToken(compiladorParser.PA, 0)
 
-        def f_inicializacion(self):
-            return self.getTypedRuleContext(compiladorParser.F_inicializacionContext,0)
+        def forInicializacion(self):
+            return self.getTypedRuleContext(compiladorParser.ForInicializacionContext,0)
 
 
         def PYC(self, i:int=None):
@@ -1173,12 +929,12 @@ class compiladorParser ( Parser ):
             else:
                 return self.getToken(compiladorParser.PYC, i)
 
-        def f_condicion(self):
-            return self.getTypedRuleContext(compiladorParser.F_condicionContext,0)
+        def forCond(self):
+            return self.getTypedRuleContext(compiladorParser.ForCondContext,0)
 
 
-        def f_actualizacion(self):
-            return self.getTypedRuleContext(compiladorParser.F_actualizacionContext,0)
+        def forActualizacion(self):
+            return self.getTypedRuleContext(compiladorParser.ForActualizacionContext,0)
 
 
         def PC(self):
@@ -1211,341 +967,145 @@ class compiladorParser ( Parser ):
     def ifor(self):
 
         localctx = compiladorParser.IforContext(self, self._ctx, self.state)
-        self.enterRule(localctx, 24, self.RULE_ifor)
+        self.enterRule(localctx, 16, self.RULE_ifor)
         try:
-            self.enterOuterAlt(localctx, 1)
-            self.state = 153
-            self.match(compiladorParser.FOR)
-            self.state = 154
-            self.match(compiladorParser.PA)
-            self.state = 155
-            self.f_inicializacion()
-            self.state = 156
-            self.match(compiladorParser.PYC)
-            self.state = 157
-            self.f_condicion()
-            self.state = 158
-            self.match(compiladorParser.PYC)
-            self.state = 159
-            self.f_actualizacion()
-            self.state = 160
-            self.match(compiladorParser.PC)
-            self.state = 163
+            self.state = 165
             self._errHandler.sync(self)
-            token = self._input.LA(1)
-            if token in [3, 4, 5, 6, 7, 9, 10, 11, 31, 36]:
-                self.state = 161
-                self.instruccion()
-                pass
-            elif token in [35]:
-                self.state = 162
-                self.match(compiladorParser.PYC)
-                pass
-            else:
-                raise NoViableAltException(self)
-
-        except RecognitionException as re:
-            localctx.exception = re
-            self._errHandler.reportError(self, re)
-            self._errHandler.recover(self, re)
-        finally:
-            self.exitRule()
-        return localctx
-
-
-    class F_inicializacionContext(ParserRuleContext):
-        __slots__ = 'parser'
-
-        def __init__(self, parser, parent:ParserRuleContext=None, invokingState:int=-1):
-            super().__init__(parent, invokingState)
-            self.parser = parser
-
-        def ID(self):
-            return self.getToken(compiladorParser.ID, 0)
-
-        def f_inicializador(self):
-            return self.getTypedRuleContext(compiladorParser.F_inicializadorContext,0)
-
-
-        def f_lista_inic(self):
-            return self.getTypedRuleContext(compiladorParser.F_lista_inicContext,0)
-
-
-        def tipo(self):
-            return self.getTypedRuleContext(compiladorParser.TipoContext,0)
-
-
-        def getRuleIndex(self):
-            return compiladorParser.RULE_f_inicializacion
-
-        def enterRule(self, listener:ParseTreeListener):
-            if hasattr( listener, "enterF_inicializacion" ):
-                listener.enterF_inicializacion(self)
-
-        def exitRule(self, listener:ParseTreeListener):
-            if hasattr( listener, "exitF_inicializacion" ):
-                listener.exitF_inicializacion(self)
-
-        def accept(self, visitor:ParseTreeVisitor):
-            if hasattr( visitor, "visitF_inicializacion" ):
-                return visitor.visitF_inicializacion(self)
-            else:
-                return visitor.visitChildren(self)
-
-
-
-
-    def f_inicializacion(self):
-
-        localctx = compiladorParser.F_inicializacionContext(self, self._ctx, self.state)
-        self.enterRule(localctx, 26, self.RULE_f_inicializacion)
-        try:
-            self.state = 175
-            self._errHandler.sync(self)
-            token = self._input.LA(1)
-            if token in [36]:
-                self.enterOuterAlt(localctx, 1)
-                self.state = 165
-                self.match(compiladorParser.ID)
-                self.state = 166
-                self.f_inicializador()
-                self.state = 167
-                self.f_lista_inic()
-                pass
-            elif token in [3, 4, 5, 6]:
-                self.enterOuterAlt(localctx, 2)
-                self.state = 169
-                self.tipo()
-                self.state = 170
-                self.match(compiladorParser.ID)
-                self.state = 171
-                self.f_inicializador()
-                self.state = 172
-                self.f_lista_inic()
-                pass
-            elif token in [35]:
-                self.enterOuterAlt(localctx, 3)
-
-                pass
-            else:
-                raise NoViableAltException(self)
-
-        except RecognitionException as re:
-            localctx.exception = re
-            self._errHandler.reportError(self, re)
-            self._errHandler.recover(self, re)
-        finally:
-            self.exitRule()
-        return localctx
-
-
-    class F_inicializadorContext(ParserRuleContext):
-        __slots__ = 'parser'
-
-        def __init__(self, parser, parent:ParserRuleContext=None, invokingState:int=-1):
-            super().__init__(parent, invokingState)
-            self.parser = parser
-
-        def ASIG(self):
-            return self.getToken(compiladorParser.ASIG, 0)
-
-        def opalc(self):
-            return self.getTypedRuleContext(compiladorParser.OpalcContext,0)
-
-
-        def getRuleIndex(self):
-            return compiladorParser.RULE_f_inicializador
-
-        def enterRule(self, listener:ParseTreeListener):
-            if hasattr( listener, "enterF_inicializador" ):
-                listener.enterF_inicializador(self)
-
-        def exitRule(self, listener:ParseTreeListener):
-            if hasattr( listener, "exitF_inicializador" ):
-                listener.exitF_inicializador(self)
-
-        def accept(self, visitor:ParseTreeVisitor):
-            if hasattr( visitor, "visitF_inicializador" ):
-                return visitor.visitF_inicializador(self)
-            else:
-                return visitor.visitChildren(self)
-
-
-
-
-    def f_inicializador(self):
-
-        localctx = compiladorParser.F_inicializadorContext(self, self._ctx, self.state)
-        self.enterRule(localctx, 28, self.RULE_f_inicializador)
-        try:
-            self.state = 180
-            self._errHandler.sync(self)
-            token = self._input.LA(1)
-            if token in [17]:
-                self.enterOuterAlt(localctx, 1)
-                self.state = 177
-                self.match(compiladorParser.ASIG)
-                self.state = 178
-                self.opalc()
-                pass
-            elif token in [35, 37]:
-                self.enterOuterAlt(localctx, 2)
-
-                pass
-            else:
-                raise NoViableAltException(self)
-
-        except RecognitionException as re:
-            localctx.exception = re
-            self._errHandler.reportError(self, re)
-            self._errHandler.recover(self, re)
-        finally:
-            self.exitRule()
-        return localctx
-
-
-    class F_lista_inicContext(ParserRuleContext):
-        __slots__ = 'parser'
-
-        def __init__(self, parser, parent:ParserRuleContext=None, invokingState:int=-1):
-            super().__init__(parent, invokingState)
-            self.parser = parser
-
-        def COMA(self):
-            return self.getToken(compiladorParser.COMA, 0)
-
-        def ID(self):
-            return self.getToken(compiladorParser.ID, 0)
-
-        def f_inicializador(self):
-            return self.getTypedRuleContext(compiladorParser.F_inicializadorContext,0)
-
-
-        def f_lista_inic(self):
-            return self.getTypedRuleContext(compiladorParser.F_lista_inicContext,0)
-
-
-        def tipo(self):
-            return self.getTypedRuleContext(compiladorParser.TipoContext,0)
-
-
-        def getRuleIndex(self):
-            return compiladorParser.RULE_f_lista_inic
-
-        def enterRule(self, listener:ParseTreeListener):
-            if hasattr( listener, "enterF_lista_inic" ):
-                listener.enterF_lista_inic(self)
-
-        def exitRule(self, listener:ParseTreeListener):
-            if hasattr( listener, "exitF_lista_inic" ):
-                listener.exitF_lista_inic(self)
-
-        def accept(self, visitor:ParseTreeVisitor):
-            if hasattr( visitor, "visitF_lista_inic" ):
-                return visitor.visitF_lista_inic(self)
-            else:
-                return visitor.visitChildren(self)
-
-
-
-
-    def f_lista_inic(self):
-
-        localctx = compiladorParser.F_lista_inicContext(self, self._ctx, self.state)
-        self.enterRule(localctx, 30, self.RULE_f_lista_inic)
-        try:
-            self.state = 194
-            self._errHandler.sync(self)
-            la_ = self._interp.adaptivePredict(self._input,8,self._ctx)
+            la_ = self._interp.adaptivePredict(self._input,4,self._ctx)
             if la_ == 1:
                 self.enterOuterAlt(localctx, 1)
-                self.state = 182
-                self.match(compiladorParser.COMA)
-                self.state = 183
-                self.match(compiladorParser.ID)
-                self.state = 184
-                self.f_inicializador()
-                self.state = 185
-                self.f_lista_inic()
+                self.state = 145
+                self.match(compiladorParser.FOR)
+                self.state = 146
+                self.match(compiladorParser.PA)
+                self.state = 147
+                self.forInicializacion()
+                self.state = 148
+                self.match(compiladorParser.PYC)
+                self.state = 149
+                self.forCond()
+                self.state = 150
+                self.match(compiladorParser.PYC)
+                self.state = 151
+                self.forActualizacion()
+                self.state = 152
+                self.match(compiladorParser.PC)
+                self.state = 153
+                self.instruccion()
                 pass
 
             elif la_ == 2:
                 self.enterOuterAlt(localctx, 2)
-                self.state = 187
-                self.match(compiladorParser.COMA)
-                self.state = 188
-                self.tipo()
-                self.state = 189
-                self.match(compiladorParser.ID)
-                self.state = 190
-                self.f_inicializador()
-                self.state = 191
-                self.f_lista_inic()
+                self.state = 155
+                self.match(compiladorParser.FOR)
+                self.state = 156
+                self.match(compiladorParser.PA)
+                self.state = 157
+                self.forInicializacion()
+                self.state = 158
+                self.match(compiladorParser.PYC)
+                self.state = 159
+                self.forCond()
+                self.state = 160
+                self.match(compiladorParser.PYC)
+                self.state = 161
+                self.forActualizacion()
+                self.state = 162
+                self.match(compiladorParser.PC)
+                self.state = 163
+                self.match(compiladorParser.PYC)
                 pass
 
-            elif la_ == 3:
+
+        except RecognitionException as re:
+            localctx.exception = re
+            self._errHandler.reportError(self, re)
+            self._errHandler.recover(self, re)
+        finally:
+            self.exitRule()
+        return localctx
+
+
+    class ForInicializacionContext(ParserRuleContext):
+        __slots__ = 'parser'
+
+        def __init__(self, parser, parent:ParserRuleContext=None, invokingState:int=-1):
+            super().__init__(parent, invokingState)
+            self.parser = parser
+
+        def tipo(self):
+            return self.getTypedRuleContext(compiladorParser.TipoContext,0)
+
+
+        def ID(self):
+            return self.getToken(compiladorParser.ID, 0)
+
+        def inic(self):
+            return self.getTypedRuleContext(compiladorParser.InicContext,0)
+
+
+        def listavar(self):
+            return self.getTypedRuleContext(compiladorParser.ListavarContext,0)
+
+
+        def expASIG(self):
+            return self.getTypedRuleContext(compiladorParser.ExpASIGContext,0)
+
+
+        def listaExpASIG(self):
+            return self.getTypedRuleContext(compiladorParser.ListaExpASIGContext,0)
+
+
+        def getRuleIndex(self):
+            return compiladorParser.RULE_forInicializacion
+
+        def enterRule(self, listener:ParseTreeListener):
+            if hasattr( listener, "enterForInicializacion" ):
+                listener.enterForInicializacion(self)
+
+        def exitRule(self, listener:ParseTreeListener):
+            if hasattr( listener, "exitForInicializacion" ):
+                listener.exitForInicializacion(self)
+
+        def accept(self, visitor:ParseTreeVisitor):
+            if hasattr( visitor, "visitForInicializacion" ):
+                return visitor.visitForInicializacion(self)
+            else:
+                return visitor.visitChildren(self)
+
+
+
+
+    def forInicializacion(self):
+
+        localctx = compiladorParser.ForInicializacionContext(self, self._ctx, self.state)
+        self.enterRule(localctx, 18, self.RULE_forInicializacion)
+        try:
+            self.state = 176
+            self._errHandler.sync(self)
+            token = self._input.LA(1)
+            if token in [25, 26, 27, 28]:
+                self.enterOuterAlt(localctx, 1)
+                self.state = 167
+                self.tipo()
+                self.state = 168
+                self.match(compiladorParser.ID)
+                self.state = 169
+                self.inic()
+                self.state = 170
+                self.listavar()
+                pass
+            elif token in [34]:
+                self.enterOuterAlt(localctx, 2)
+                self.state = 172
+                self.expASIG()
+                self.state = 173
+                self.listaExpASIG()
+                pass
+            elif token in [5]:
                 self.enterOuterAlt(localctx, 3)
 
                 pass
-
-
-        except RecognitionException as re:
-            localctx.exception = re
-            self._errHandler.reportError(self, re)
-            self._errHandler.recover(self, re)
-        finally:
-            self.exitRule()
-        return localctx
-
-
-    class F_condicionContext(ParserRuleContext):
-        __slots__ = 'parser'
-
-        def __init__(self, parser, parent:ParserRuleContext=None, invokingState:int=-1):
-            super().__init__(parent, invokingState)
-            self.parser = parser
-
-        def opalc(self):
-            return self.getTypedRuleContext(compiladorParser.OpalcContext,0)
-
-
-        def getRuleIndex(self):
-            return compiladorParser.RULE_f_condicion
-
-        def enterRule(self, listener:ParseTreeListener):
-            if hasattr( listener, "enterF_condicion" ):
-                listener.enterF_condicion(self)
-
-        def exitRule(self, listener:ParseTreeListener):
-            if hasattr( listener, "exitF_condicion" ):
-                listener.exitF_condicion(self)
-
-        def accept(self, visitor:ParseTreeVisitor):
-            if hasattr( visitor, "visitF_condicion" ):
-                return visitor.visitF_condicion(self)
-            else:
-                return visitor.visitChildren(self)
-
-
-
-
-    def f_condicion(self):
-
-        localctx = compiladorParser.F_condicionContext(self, self._ctx, self.state)
-        self.enterRule(localctx, 32, self.RULE_f_condicion)
-        try:
-            self.state = 198
-            self._errHandler.sync(self)
-            token = self._input.LA(1)
-            if token in [1, 13, 26, 27, 28, 29, 36]:
-                self.enterOuterAlt(localctx, 1)
-                self.state = 196
-                self.opalc()
-                pass
-            elif token in [35]:
-                self.enterOuterAlt(localctx, 2)
-
-                pass
             else:
                 raise NoViableAltException(self)
 
@@ -1558,121 +1118,7 @@ class compiladorParser ( Parser ):
         return localctx
 
 
-    class F_actualizacionContext(ParserRuleContext):
-        __slots__ = 'parser'
-
-        def __init__(self, parser, parent:ParserRuleContext=None, invokingState:int=-1):
-            super().__init__(parent, invokingState)
-            self.parser = parser
-
-        def f_lista_a(self):
-            return self.getTypedRuleContext(compiladorParser.F_lista_aContext,0)
-
-
-        def getRuleIndex(self):
-            return compiladorParser.RULE_f_actualizacion
-
-        def enterRule(self, listener:ParseTreeListener):
-            if hasattr( listener, "enterF_actualizacion" ):
-                listener.enterF_actualizacion(self)
-
-        def exitRule(self, listener:ParseTreeListener):
-            if hasattr( listener, "exitF_actualizacion" ):
-                listener.exitF_actualizacion(self)
-
-        def accept(self, visitor:ParseTreeVisitor):
-            if hasattr( visitor, "visitF_actualizacion" ):
-                return visitor.visitF_actualizacion(self)
-            else:
-                return visitor.visitChildren(self)
-
-
-
-
-    def f_actualizacion(self):
-
-        localctx = compiladorParser.F_actualizacionContext(self, self._ctx, self.state)
-        self.enterRule(localctx, 34, self.RULE_f_actualizacion)
-        try:
-            self.enterOuterAlt(localctx, 1)
-            self.state = 200
-            self.f_lista_a()
-        except RecognitionException as re:
-            localctx.exception = re
-            self._errHandler.reportError(self, re)
-            self._errHandler.recover(self, re)
-        finally:
-            self.exitRule()
-        return localctx
-
-
-    class F_lista_aContext(ParserRuleContext):
-        __slots__ = 'parser'
-
-        def __init__(self, parser, parent:ParserRuleContext=None, invokingState:int=-1):
-            super().__init__(parent, invokingState)
-            self.parser = parser
-
-        def exp_for(self):
-            return self.getTypedRuleContext(compiladorParser.Exp_forContext,0)
-
-
-        def f_lista_prima(self):
-            return self.getTypedRuleContext(compiladorParser.F_lista_primaContext,0)
-
-
-        def getRuleIndex(self):
-            return compiladorParser.RULE_f_lista_a
-
-        def enterRule(self, listener:ParseTreeListener):
-            if hasattr( listener, "enterF_lista_a" ):
-                listener.enterF_lista_a(self)
-
-        def exitRule(self, listener:ParseTreeListener):
-            if hasattr( listener, "exitF_lista_a" ):
-                listener.exitF_lista_a(self)
-
-        def accept(self, visitor:ParseTreeVisitor):
-            if hasattr( visitor, "visitF_lista_a" ):
-                return visitor.visitF_lista_a(self)
-            else:
-                return visitor.visitChildren(self)
-
-
-
-
-    def f_lista_a(self):
-
-        localctx = compiladorParser.F_lista_aContext(self, self._ctx, self.state)
-        self.enterRule(localctx, 36, self.RULE_f_lista_a)
-        try:
-            self.state = 206
-            self._errHandler.sync(self)
-            token = self._input.LA(1)
-            if token in [1, 3, 4, 5, 6, 13, 26, 27, 28, 29, 36]:
-                self.enterOuterAlt(localctx, 1)
-                self.state = 202
-                self.exp_for()
-                self.state = 203
-                self.f_lista_prima()
-                pass
-            elif token in [30]:
-                self.enterOuterAlt(localctx, 2)
-
-                pass
-            else:
-                raise NoViableAltException(self)
-
-        except RecognitionException as re:
-            localctx.exception = re
-            self._errHandler.reportError(self, re)
-            self._errHandler.recover(self, re)
-        finally:
-            self.exitRule()
-        return localctx
-
-
-    class F_lista_primaContext(ParserRuleContext):
+    class ListaExpASIGContext(ParserRuleContext):
         __slots__ = 'parser'
 
         def __init__(self, parser, parent:ParserRuleContext=None, invokingState:int=-1):
@@ -1682,52 +1128,52 @@ class compiladorParser ( Parser ):
         def COMA(self):
             return self.getToken(compiladorParser.COMA, 0)
 
-        def exp_for(self):
-            return self.getTypedRuleContext(compiladorParser.Exp_forContext,0)
+        def expASIG(self):
+            return self.getTypedRuleContext(compiladorParser.ExpASIGContext,0)
 
 
-        def f_lista_prima(self):
-            return self.getTypedRuleContext(compiladorParser.F_lista_primaContext,0)
+        def listaExpASIG(self):
+            return self.getTypedRuleContext(compiladorParser.ListaExpASIGContext,0)
 
 
         def getRuleIndex(self):
-            return compiladorParser.RULE_f_lista_prima
+            return compiladorParser.RULE_listaExpASIG
 
         def enterRule(self, listener:ParseTreeListener):
-            if hasattr( listener, "enterF_lista_prima" ):
-                listener.enterF_lista_prima(self)
+            if hasattr( listener, "enterListaExpASIG" ):
+                listener.enterListaExpASIG(self)
 
         def exitRule(self, listener:ParseTreeListener):
-            if hasattr( listener, "exitF_lista_prima" ):
-                listener.exitF_lista_prima(self)
+            if hasattr( listener, "exitListaExpASIG" ):
+                listener.exitListaExpASIG(self)
 
         def accept(self, visitor:ParseTreeVisitor):
-            if hasattr( visitor, "visitF_lista_prima" ):
-                return visitor.visitF_lista_prima(self)
+            if hasattr( visitor, "visitListaExpASIG" ):
+                return visitor.visitListaExpASIG(self)
             else:
                 return visitor.visitChildren(self)
 
 
 
 
-    def f_lista_prima(self):
+    def listaExpASIG(self):
 
-        localctx = compiladorParser.F_lista_primaContext(self, self._ctx, self.state)
-        self.enterRule(localctx, 38, self.RULE_f_lista_prima)
+        localctx = compiladorParser.ListaExpASIGContext(self, self._ctx, self.state)
+        self.enterRule(localctx, 20, self.RULE_listaExpASIG)
         try:
-            self.state = 213
+            self.state = 183
             self._errHandler.sync(self)
             token = self._input.LA(1)
-            if token in [37]:
+            if token in [16]:
                 self.enterOuterAlt(localctx, 1)
-                self.state = 208
+                self.state = 178
                 self.match(compiladorParser.COMA)
-                self.state = 209
-                self.exp_for()
-                self.state = 210
-                self.f_lista_prima()
+                self.state = 179
+                self.expASIG()
+                self.state = 180
+                self.listaExpASIG()
                 pass
-            elif token in [30]:
+            elif token in [5]:
                 self.enterOuterAlt(localctx, 2)
 
                 pass
@@ -1743,23 +1189,267 @@ class compiladorParser ( Parser ):
         return localctx
 
 
-    class Exp_forContext(ParserRuleContext):
+    class ForCondContext(ParserRuleContext):
         __slots__ = 'parser'
 
         def __init__(self, parser, parent:ParserRuleContext=None, invokingState:int=-1):
             super().__init__(parent, invokingState)
             self.parser = parser
 
-        def opalc(self):
-            return self.getTypedRuleContext(compiladorParser.OpalcContext,0)
+        def opal(self):
+            return self.getTypedRuleContext(compiladorParser.OpalContext,0)
 
 
-        def ASIG(self):
-            return self.getToken(compiladorParser.ASIG, 0)
+        def getRuleIndex(self):
+            return compiladorParser.RULE_forCond
 
-        def exp_for(self):
-            return self.getTypedRuleContext(compiladorParser.Exp_forContext,0)
+        def enterRule(self, listener:ParseTreeListener):
+            if hasattr( listener, "enterForCond" ):
+                listener.enterForCond(self)
 
+        def exitRule(self, listener:ParseTreeListener):
+            if hasattr( listener, "exitForCond" ):
+                listener.exitForCond(self)
+
+        def accept(self, visitor:ParseTreeVisitor):
+            if hasattr( visitor, "visitForCond" ):
+                return visitor.visitForCond(self)
+            else:
+                return visitor.visitChildren(self)
+
+
+
+
+    def forCond(self):
+
+        localctx = compiladorParser.ForCondContext(self, self._ctx, self.state)
+        self.enterRule(localctx, 22, self.RULE_forCond)
+        try:
+            self.state = 187
+            self._errHandler.sync(self)
+            token = self._input.LA(1)
+            if token in [1, 14, 22, 23, 24, 34]:
+                self.enterOuterAlt(localctx, 1)
+                self.state = 185
+                self.opal()
+                pass
+            elif token in [5]:
+                self.enterOuterAlt(localctx, 2)
+
+                pass
+            else:
+                raise NoViableAltException(self)
+
+        except RecognitionException as re:
+            localctx.exception = re
+            self._errHandler.reportError(self, re)
+            self._errHandler.recover(self, re)
+        finally:
+            self.exitRule()
+        return localctx
+
+
+    class ForActualizacionContext(ParserRuleContext):
+        __slots__ = 'parser'
+
+        def __init__(self, parser, parent:ParserRuleContext=None, invokingState:int=-1):
+            super().__init__(parent, invokingState)
+            self.parser = parser
+
+        def exp(self):
+            return self.getTypedRuleContext(compiladorParser.ExpContext,0)
+
+
+        def listaActualizacion(self):
+            return self.getTypedRuleContext(compiladorParser.ListaActualizacionContext,0)
+
+
+        def getRuleIndex(self):
+            return compiladorParser.RULE_forActualizacion
+
+        def enterRule(self, listener:ParseTreeListener):
+            if hasattr( listener, "enterForActualizacion" ):
+                listener.enterForActualizacion(self)
+
+        def exitRule(self, listener:ParseTreeListener):
+            if hasattr( listener, "exitForActualizacion" ):
+                listener.exitForActualizacion(self)
+
+        def accept(self, visitor:ParseTreeVisitor):
+            if hasattr( visitor, "visitForActualizacion" ):
+                return visitor.visitForActualizacion(self)
+            else:
+                return visitor.visitChildren(self)
+
+
+
+
+    def forActualizacion(self):
+
+        localctx = compiladorParser.ForActualizacionContext(self, self._ctx, self.state)
+        self.enterRule(localctx, 24, self.RULE_forActualizacion)
+        try:
+            self.state = 193
+            self._errHandler.sync(self)
+            token = self._input.LA(1)
+            if token in [1, 14, 22, 23, 24, 34]:
+                self.enterOuterAlt(localctx, 1)
+                self.state = 189
+                self.exp()
+                self.state = 190
+                self.listaActualizacion()
+                pass
+            elif token in [2]:
+                self.enterOuterAlt(localctx, 2)
+
+                pass
+            else:
+                raise NoViableAltException(self)
+
+        except RecognitionException as re:
+            localctx.exception = re
+            self._errHandler.reportError(self, re)
+            self._errHandler.recover(self, re)
+        finally:
+            self.exitRule()
+        return localctx
+
+
+    class ListaActualizacionContext(ParserRuleContext):
+        __slots__ = 'parser'
+
+        def __init__(self, parser, parent:ParserRuleContext=None, invokingState:int=-1):
+            super().__init__(parent, invokingState)
+            self.parser = parser
+
+        def COMA(self):
+            return self.getToken(compiladorParser.COMA, 0)
+
+        def exp(self):
+            return self.getTypedRuleContext(compiladorParser.ExpContext,0)
+
+
+        def listaActualizacion(self):
+            return self.getTypedRuleContext(compiladorParser.ListaActualizacionContext,0)
+
+
+        def getRuleIndex(self):
+            return compiladorParser.RULE_listaActualizacion
+
+        def enterRule(self, listener:ParseTreeListener):
+            if hasattr( listener, "enterListaActualizacion" ):
+                listener.enterListaActualizacion(self)
+
+        def exitRule(self, listener:ParseTreeListener):
+            if hasattr( listener, "exitListaActualizacion" ):
+                listener.exitListaActualizacion(self)
+
+        def accept(self, visitor:ParseTreeVisitor):
+            if hasattr( visitor, "visitListaActualizacion" ):
+                return visitor.visitListaActualizacion(self)
+            else:
+                return visitor.visitChildren(self)
+
+
+
+
+    def listaActualizacion(self):
+
+        localctx = compiladorParser.ListaActualizacionContext(self, self._ctx, self.state)
+        self.enterRule(localctx, 26, self.RULE_listaActualizacion)
+        try:
+            self.state = 200
+            self._errHandler.sync(self)
+            token = self._input.LA(1)
+            if token in [16]:
+                self.enterOuterAlt(localctx, 1)
+                self.state = 195
+                self.match(compiladorParser.COMA)
+                self.state = 196
+                self.exp()
+                self.state = 197
+                self.listaActualizacion()
+                pass
+            elif token in [2]:
+                self.enterOuterAlt(localctx, 2)
+
+                pass
+            else:
+                raise NoViableAltException(self)
+
+        except RecognitionException as re:
+            localctx.exception = re
+            self._errHandler.reportError(self, re)
+            self._errHandler.recover(self, re)
+        finally:
+            self.exitRule()
+        return localctx
+
+
+    class IreturnContext(ParserRuleContext):
+        __slots__ = 'parser'
+
+        def __init__(self, parser, parent:ParserRuleContext=None, invokingState:int=-1):
+            super().__init__(parent, invokingState)
+            self.parser = parser
+
+        def RETURN(self):
+            return self.getToken(compiladorParser.RETURN, 0)
+
+        def opal(self):
+            return self.getTypedRuleContext(compiladorParser.OpalContext,0)
+
+
+        def PYC(self):
+            return self.getToken(compiladorParser.PYC, 0)
+
+        def getRuleIndex(self):
+            return compiladorParser.RULE_ireturn
+
+        def enterRule(self, listener:ParseTreeListener):
+            if hasattr( listener, "enterIreturn" ):
+                listener.enterIreturn(self)
+
+        def exitRule(self, listener:ParseTreeListener):
+            if hasattr( listener, "exitIreturn" ):
+                listener.exitIreturn(self)
+
+        def accept(self, visitor:ParseTreeVisitor):
+            if hasattr( visitor, "visitIreturn" ):
+                return visitor.visitIreturn(self)
+            else:
+                return visitor.visitChildren(self)
+
+
+
+
+    def ireturn(self):
+
+        localctx = compiladorParser.IreturnContext(self, self._ctx, self.state)
+        self.enterRule(localctx, 28, self.RULE_ireturn)
+        try:
+            self.enterOuterAlt(localctx, 1)
+            self.state = 202
+            self.match(compiladorParser.RETURN)
+            self.state = 203
+            self.opal()
+            self.state = 204
+            self.match(compiladorParser.PYC)
+        except RecognitionException as re:
+            localctx.exception = re
+            self._errHandler.reportError(self, re)
+            self._errHandler.recover(self, re)
+        finally:
+            self.exitRule()
+        return localctx
+
+
+    class DeclaracionContext(ParserRuleContext):
+        __slots__ = 'parser'
+
+        def __init__(self, parser, parent:ParserRuleContext=None, invokingState:int=-1):
+            super().__init__(parent, invokingState)
+            self.parser = parser
 
         def tipo(self):
             return self.getTypedRuleContext(compiladorParser.TipoContext,0)
@@ -1768,62 +1458,255 @@ class compiladorParser ( Parser ):
         def ID(self):
             return self.getToken(compiladorParser.ID, 0)
 
+        def inic(self):
+            return self.getTypedRuleContext(compiladorParser.InicContext,0)
+
+
+        def listavar(self):
+            return self.getTypedRuleContext(compiladorParser.ListavarContext,0)
+
+
+        def PYC(self):
+            return self.getToken(compiladorParser.PYC, 0)
+
         def getRuleIndex(self):
-            return compiladorParser.RULE_exp_for
+            return compiladorParser.RULE_declaracion
 
         def enterRule(self, listener:ParseTreeListener):
-            if hasattr( listener, "enterExp_for" ):
-                listener.enterExp_for(self)
+            if hasattr( listener, "enterDeclaracion" ):
+                listener.enterDeclaracion(self)
 
         def exitRule(self, listener:ParseTreeListener):
-            if hasattr( listener, "exitExp_for" ):
-                listener.exitExp_for(self)
+            if hasattr( listener, "exitDeclaracion" ):
+                listener.exitDeclaracion(self)
 
         def accept(self, visitor:ParseTreeVisitor):
-            if hasattr( visitor, "visitExp_for" ):
-                return visitor.visitExp_for(self)
+            if hasattr( visitor, "visitDeclaracion" ):
+                return visitor.visitDeclaracion(self)
             else:
                 return visitor.visitChildren(self)
 
 
 
 
-    def exp_for(self):
+    def declaracion(self):
 
-        localctx = compiladorParser.Exp_forContext(self, self._ctx, self.state)
-        self.enterRule(localctx, 40, self.RULE_exp_for)
+        localctx = compiladorParser.DeclaracionContext(self, self._ctx, self.state)
+        self.enterRule(localctx, 30, self.RULE_declaracion)
+        try:
+            self.enterOuterAlt(localctx, 1)
+            self.state = 206
+            self.tipo()
+            self.state = 207
+            self.match(compiladorParser.ID)
+            self.state = 208
+            self.inic()
+            self.state = 209
+            self.listavar()
+            self.state = 210
+            self.match(compiladorParser.PYC)
+        except RecognitionException as re:
+            localctx.exception = re
+            self._errHandler.reportError(self, re)
+            self._errHandler.recover(self, re)
+        finally:
+            self.exitRule()
+        return localctx
+
+
+    class TipoContext(ParserRuleContext):
+        __slots__ = 'parser'
+
+        def __init__(self, parser, parent:ParserRuleContext=None, invokingState:int=-1):
+            super().__init__(parent, invokingState)
+            self.parser = parser
+
+        def INT(self):
+            return self.getToken(compiladorParser.INT, 0)
+
+        def DOUBLE(self):
+            return self.getToken(compiladorParser.DOUBLE, 0)
+
+        def FLOAT(self):
+            return self.getToken(compiladorParser.FLOAT, 0)
+
+        def VOID(self):
+            return self.getToken(compiladorParser.VOID, 0)
+
+        def getRuleIndex(self):
+            return compiladorParser.RULE_tipo
+
+        def enterRule(self, listener:ParseTreeListener):
+            if hasattr( listener, "enterTipo" ):
+                listener.enterTipo(self)
+
+        def exitRule(self, listener:ParseTreeListener):
+            if hasattr( listener, "exitTipo" ):
+                listener.exitTipo(self)
+
+        def accept(self, visitor:ParseTreeVisitor):
+            if hasattr( visitor, "visitTipo" ):
+                return visitor.visitTipo(self)
+            else:
+                return visitor.visitChildren(self)
+
+
+
+
+    def tipo(self):
+
+        localctx = compiladorParser.TipoContext(self, self._ctx, self.state)
+        self.enterRule(localctx, 32, self.RULE_tipo)
+        self._la = 0 # Token type
+        try:
+            self.enterOuterAlt(localctx, 1)
+            self.state = 212
+            _la = self._input.LA(1)
+            if not((((_la) & ~0x3f) == 0 and ((1 << _la) & 503316480) != 0)):
+                self._errHandler.recoverInline(self)
+            else:
+                self._errHandler.reportMatch(self)
+                self.consume()
+        except RecognitionException as re:
+            localctx.exception = re
+            self._errHandler.reportError(self, re)
+            self._errHandler.recover(self, re)
+        finally:
+            self.exitRule()
+        return localctx
+
+
+    class ListavarContext(ParserRuleContext):
+        __slots__ = 'parser'
+
+        def __init__(self, parser, parent:ParserRuleContext=None, invokingState:int=-1):
+            super().__init__(parent, invokingState)
+            self.parser = parser
+
+        def COMA(self):
+            return self.getToken(compiladorParser.COMA, 0)
+
+        def ID(self):
+            return self.getToken(compiladorParser.ID, 0)
+
+        def inic(self):
+            return self.getTypedRuleContext(compiladorParser.InicContext,0)
+
+
+        def listavar(self):
+            return self.getTypedRuleContext(compiladorParser.ListavarContext,0)
+
+
+        def getRuleIndex(self):
+            return compiladorParser.RULE_listavar
+
+        def enterRule(self, listener:ParseTreeListener):
+            if hasattr( listener, "enterListavar" ):
+                listener.enterListavar(self)
+
+        def exitRule(self, listener:ParseTreeListener):
+            if hasattr( listener, "exitListavar" ):
+                listener.exitListavar(self)
+
+        def accept(self, visitor:ParseTreeVisitor):
+            if hasattr( visitor, "visitListavar" ):
+                return visitor.visitListavar(self)
+            else:
+                return visitor.visitChildren(self)
+
+
+
+
+    def listavar(self):
+
+        localctx = compiladorParser.ListavarContext(self, self._ctx, self.state)
+        self.enterRule(localctx, 34, self.RULE_listavar)
+        try:
+            self.state = 220
+            self._errHandler.sync(self)
+            token = self._input.LA(1)
+            if token in [16]:
+                self.enterOuterAlt(localctx, 1)
+                self.state = 214
+                self.match(compiladorParser.COMA)
+                self.state = 215
+                self.match(compiladorParser.ID)
+                self.state = 216
+                self.inic()
+                self.state = 217
+                self.listavar()
+                pass
+            elif token in [5]:
+                self.enterOuterAlt(localctx, 2)
+
+                pass
+            else:
+                raise NoViableAltException(self)
+
+        except RecognitionException as re:
+            localctx.exception = re
+            self._errHandler.reportError(self, re)
+            self._errHandler.recover(self, re)
+        finally:
+            self.exitRule()
+        return localctx
+
+
+    class InicContext(ParserRuleContext):
+        __slots__ = 'parser'
+
+        def __init__(self, parser, parent:ParserRuleContext=None, invokingState:int=-1):
+            super().__init__(parent, invokingState)
+            self.parser = parser
+
+        def ASIG(self):
+            return self.getToken(compiladorParser.ASIG, 0)
+
+        def opal(self):
+            return self.getTypedRuleContext(compiladorParser.OpalContext,0)
+
+
+        def getRuleIndex(self):
+            return compiladorParser.RULE_inic
+
+        def enterRule(self, listener:ParseTreeListener):
+            if hasattr( listener, "enterInic" ):
+                listener.enterInic(self)
+
+        def exitRule(self, listener:ParseTreeListener):
+            if hasattr( listener, "exitInic" ):
+                listener.exitInic(self)
+
+        def accept(self, visitor:ParseTreeVisitor):
+            if hasattr( visitor, "visitInic" ):
+                return visitor.visitInic(self)
+            else:
+                return visitor.visitChildren(self)
+
+
+
+
+    def inic(self):
+
+        localctx = compiladorParser.InicContext(self, self._ctx, self.state)
+        self.enterRule(localctx, 36, self.RULE_inic)
         try:
             self.state = 225
             self._errHandler.sync(self)
-            la_ = self._interp.adaptivePredict(self._input,12,self._ctx)
-            if la_ == 1:
+            token = self._input.LA(1)
+            if token in [15]:
                 self.enterOuterAlt(localctx, 1)
-                self.state = 215
-                self.opalc()
-                self.state = 216
-                self.match(compiladorParser.ASIG)
-                self.state = 217
-                self.exp_for()
-                pass
-
-            elif la_ == 2:
-                self.enterOuterAlt(localctx, 2)
-                self.state = 219
-                self.tipo()
-                self.state = 220
-                self.match(compiladorParser.ID)
-                self.state = 221
-                self.match(compiladorParser.ASIG)
                 self.state = 222
-                self.exp_for()
+                self.match(compiladorParser.ASIG)
+                self.state = 223
+                self.opal()
                 pass
+            elif token in [5, 16]:
+                self.enterOuterAlt(localctx, 2)
 
-            elif la_ == 3:
-                self.enterOuterAlt(localctx, 3)
-                self.state = 224
-                self.opalc()
                 pass
-
+            else:
+                raise NoViableAltException(self)
 
         except RecognitionException as re:
             localctx.exception = re
@@ -1834,45 +1717,55 @@ class compiladorParser ( Parser ):
         return localctx
 
 
-    class OpalcContext(ParserRuleContext):
+    class ExpASIGContext(ParserRuleContext):
         __slots__ = 'parser'
 
         def __init__(self, parser, parent:ParserRuleContext=None, invokingState:int=-1):
             super().__init__(parent, invokingState)
             self.parser = parser
 
-        def exp_l(self):
-            return self.getTypedRuleContext(compiladorParser.Exp_lContext,0)
+        def ID(self):
+            return self.getToken(compiladorParser.ID, 0)
+
+        def ASIG(self):
+            return self.getToken(compiladorParser.ASIG, 0)
+
+        def opal(self):
+            return self.getTypedRuleContext(compiladorParser.OpalContext,0)
 
 
         def getRuleIndex(self):
-            return compiladorParser.RULE_opalc
+            return compiladorParser.RULE_expASIG
 
         def enterRule(self, listener:ParseTreeListener):
-            if hasattr( listener, "enterOpalc" ):
-                listener.enterOpalc(self)
+            if hasattr( listener, "enterExpASIG" ):
+                listener.enterExpASIG(self)
 
         def exitRule(self, listener:ParseTreeListener):
-            if hasattr( listener, "exitOpalc" ):
-                listener.exitOpalc(self)
+            if hasattr( listener, "exitExpASIG" ):
+                listener.exitExpASIG(self)
 
         def accept(self, visitor:ParseTreeVisitor):
-            if hasattr( visitor, "visitOpalc" ):
-                return visitor.visitOpalc(self)
+            if hasattr( visitor, "visitExpASIG" ):
+                return visitor.visitExpASIG(self)
             else:
                 return visitor.visitChildren(self)
 
 
 
 
-    def opalc(self):
+    def expASIG(self):
 
-        localctx = compiladorParser.OpalcContext(self, self._ctx, self.state)
-        self.enterRule(localctx, 42, self.RULE_opalc)
+        localctx = compiladorParser.ExpASIGContext(self, self._ctx, self.state)
+        self.enterRule(localctx, 38, self.RULE_expASIG)
         try:
             self.enterOuterAlt(localctx, 1)
             self.state = 227
-            self.exp_l()
+            self.match(compiladorParser.ID)
+            self.state = 228
+            self.match(compiladorParser.ASIG)
+            self.state = 229
+            self.opal()
         except RecognitionException as re:
             localctx.exception = re
             self._errHandler.reportError(self, re)
@@ -1882,51 +1775,50 @@ class compiladorParser ( Parser ):
         return localctx
 
 
-    class Exp_lContext(ParserRuleContext):
+    class AsignacionContext(ParserRuleContext):
         __slots__ = 'parser'
 
         def __init__(self, parser, parent:ParserRuleContext=None, invokingState:int=-1):
             super().__init__(parent, invokingState)
             self.parser = parser
 
-        def exp_comp(self):
-            return self.getTypedRuleContext(compiladorParser.Exp_compContext,0)
+        def expASIG(self):
+            return self.getTypedRuleContext(compiladorParser.ExpASIGContext,0)
 
 
-        def exp_l_prima(self):
-            return self.getTypedRuleContext(compiladorParser.Exp_l_primaContext,0)
-
+        def PYC(self):
+            return self.getToken(compiladorParser.PYC, 0)
 
         def getRuleIndex(self):
-            return compiladorParser.RULE_exp_l
+            return compiladorParser.RULE_asignacion
 
         def enterRule(self, listener:ParseTreeListener):
-            if hasattr( listener, "enterExp_l" ):
-                listener.enterExp_l(self)
+            if hasattr( listener, "enterAsignacion" ):
+                listener.enterAsignacion(self)
 
         def exitRule(self, listener:ParseTreeListener):
-            if hasattr( listener, "exitExp_l" ):
-                listener.exitExp_l(self)
+            if hasattr( listener, "exitAsignacion" ):
+                listener.exitAsignacion(self)
 
         def accept(self, visitor:ParseTreeVisitor):
-            if hasattr( visitor, "visitExp_l" ):
-                return visitor.visitExp_l(self)
+            if hasattr( visitor, "visitAsignacion" ):
+                return visitor.visitAsignacion(self)
             else:
                 return visitor.visitChildren(self)
 
 
 
 
-    def exp_l(self):
+    def asignacion(self):
 
-        localctx = compiladorParser.Exp_lContext(self, self._ctx, self.state)
-        self.enterRule(localctx, 44, self.RULE_exp_l)
+        localctx = compiladorParser.AsignacionContext(self, self._ctx, self.state)
+        self.enterRule(localctx, 40, self.RULE_asignacion)
         try:
             self.enterOuterAlt(localctx, 1)
-            self.state = 229
-            self.exp_comp()
-            self.state = 230
-            self.exp_l_prima()
+            self.state = 231
+            self.expASIG()
+            self.state = 232
+            self.match(compiladorParser.PYC)
         except RecognitionException as re:
             localctx.exception = re
             self._errHandler.reportError(self, re)
@@ -1936,7 +1828,109 @@ class compiladorParser ( Parser ):
         return localctx
 
 
-    class Exp_l_primaContext(ParserRuleContext):
+    class OpalContext(ParserRuleContext):
+        __slots__ = 'parser'
+
+        def __init__(self, parser, parent:ParserRuleContext=None, invokingState:int=-1):
+            super().__init__(parent, invokingState)
+            self.parser = parser
+
+        def expOR(self):
+            return self.getTypedRuleContext(compiladorParser.ExpORContext,0)
+
+
+        def getRuleIndex(self):
+            return compiladorParser.RULE_opal
+
+        def enterRule(self, listener:ParseTreeListener):
+            if hasattr( listener, "enterOpal" ):
+                listener.enterOpal(self)
+
+        def exitRule(self, listener:ParseTreeListener):
+            if hasattr( listener, "exitOpal" ):
+                listener.exitOpal(self)
+
+        def accept(self, visitor:ParseTreeVisitor):
+            if hasattr( visitor, "visitOpal" ):
+                return visitor.visitOpal(self)
+            else:
+                return visitor.visitChildren(self)
+
+
+
+
+    def opal(self):
+
+        localctx = compiladorParser.OpalContext(self, self._ctx, self.state)
+        self.enterRule(localctx, 42, self.RULE_opal)
+        try:
+            self.enterOuterAlt(localctx, 1)
+            self.state = 234
+            self.expOR()
+        except RecognitionException as re:
+            localctx.exception = re
+            self._errHandler.reportError(self, re)
+            self._errHandler.recover(self, re)
+        finally:
+            self.exitRule()
+        return localctx
+
+
+    class ExpORContext(ParserRuleContext):
+        __slots__ = 'parser'
+
+        def __init__(self, parser, parent:ParserRuleContext=None, invokingState:int=-1):
+            super().__init__(parent, invokingState)
+            self.parser = parser
+
+        def expAND(self):
+            return self.getTypedRuleContext(compiladorParser.ExpANDContext,0)
+
+
+        def o(self):
+            return self.getTypedRuleContext(compiladorParser.OContext,0)
+
+
+        def getRuleIndex(self):
+            return compiladorParser.RULE_expOR
+
+        def enterRule(self, listener:ParseTreeListener):
+            if hasattr( listener, "enterExpOR" ):
+                listener.enterExpOR(self)
+
+        def exitRule(self, listener:ParseTreeListener):
+            if hasattr( listener, "exitExpOR" ):
+                listener.exitExpOR(self)
+
+        def accept(self, visitor:ParseTreeVisitor):
+            if hasattr( visitor, "visitExpOR" ):
+                return visitor.visitExpOR(self)
+            else:
+                return visitor.visitChildren(self)
+
+
+
+
+    def expOR(self):
+
+        localctx = compiladorParser.ExpORContext(self, self._ctx, self.state)
+        self.enterRule(localctx, 44, self.RULE_expOR)
+        try:
+            self.enterOuterAlt(localctx, 1)
+            self.state = 236
+            self.expAND()
+            self.state = 237
+            self.o()
+        except RecognitionException as re:
+            localctx.exception = re
+            self._errHandler.reportError(self, re)
+            self._errHandler.recover(self, re)
+        finally:
+            self.exitRule()
+        return localctx
+
+
+    class OContext(ParserRuleContext):
         __slots__ = 'parser'
 
         def __init__(self, parser, parent:ParserRuleContext=None, invokingState:int=-1):
@@ -1946,64 +1940,314 @@ class compiladorParser ( Parser ):
         def OR(self):
             return self.getToken(compiladorParser.OR, 0)
 
-        def exp_comp(self):
-            return self.getTypedRuleContext(compiladorParser.Exp_compContext,0)
+        def expAND(self):
+            return self.getTypedRuleContext(compiladorParser.ExpANDContext,0)
 
 
-        def exp_l_prima(self):
-            return self.getTypedRuleContext(compiladorParser.Exp_l_primaContext,0)
+        def o(self):
+            return self.getTypedRuleContext(compiladorParser.OContext,0)
 
-
-        def AND(self):
-            return self.getToken(compiladorParser.AND, 0)
 
         def getRuleIndex(self):
-            return compiladorParser.RULE_exp_l_prima
+            return compiladorParser.RULE_o
 
         def enterRule(self, listener:ParseTreeListener):
-            if hasattr( listener, "enterExp_l_prima" ):
-                listener.enterExp_l_prima(self)
+            if hasattr( listener, "enterO" ):
+                listener.enterO(self)
 
         def exitRule(self, listener:ParseTreeListener):
-            if hasattr( listener, "exitExp_l_prima" ):
-                listener.exitExp_l_prima(self)
+            if hasattr( listener, "exitO" ):
+                listener.exitO(self)
 
         def accept(self, visitor:ParseTreeVisitor):
-            if hasattr( visitor, "visitExp_l_prima" ):
-                return visitor.visitExp_l_prima(self)
+            if hasattr( visitor, "visitO" ):
+                return visitor.visitO(self)
             else:
                 return visitor.visitChildren(self)
 
 
 
 
-    def exp_l_prima(self):
+    def o(self):
 
-        localctx = compiladorParser.Exp_l_primaContext(self, self._ctx, self.state)
-        self.enterRule(localctx, 46, self.RULE_exp_l_prima)
+        localctx = compiladorParser.OContext(self, self._ctx, self.state)
+        self.enterRule(localctx, 46, self.RULE_o)
         try:
-            self.state = 241
+            self.state = 244
             self._errHandler.sync(self)
             token = self._input.LA(1)
-            if token in [25]:
+            if token in [13]:
                 self.enterOuterAlt(localctx, 1)
-                self.state = 232
+                self.state = 239
                 self.match(compiladorParser.OR)
-                self.state = 233
-                self.exp_comp()
-                self.state = 234
-                self.exp_l_prima()
+                self.state = 240
+                self.expAND()
+                self.state = 241
+                self.o()
                 pass
-            elif token in [24]:
+            elif token in [2, 5, 16]:
                 self.enterOuterAlt(localctx, 2)
-                self.state = 236
-                self.match(compiladorParser.AND)
-                self.state = 237
-                self.exp_comp()
-                self.state = 238
-                self.exp_l_prima()
+
                 pass
-            elif token in [17, 30, 35, 37]:
+            else:
+                raise NoViableAltException(self)
+
+        except RecognitionException as re:
+            localctx.exception = re
+            self._errHandler.reportError(self, re)
+            self._errHandler.recover(self, re)
+        finally:
+            self.exitRule()
+        return localctx
+
+
+    class ExpANDContext(ParserRuleContext):
+        __slots__ = 'parser'
+
+        def __init__(self, parser, parent:ParserRuleContext=None, invokingState:int=-1):
+            super().__init__(parent, invokingState)
+            self.parser = parser
+
+        def expIGUAL(self):
+            return self.getTypedRuleContext(compiladorParser.ExpIGUALContext,0)
+
+
+        def a(self):
+            return self.getTypedRuleContext(compiladorParser.AContext,0)
+
+
+        def getRuleIndex(self):
+            return compiladorParser.RULE_expAND
+
+        def enterRule(self, listener:ParseTreeListener):
+            if hasattr( listener, "enterExpAND" ):
+                listener.enterExpAND(self)
+
+        def exitRule(self, listener:ParseTreeListener):
+            if hasattr( listener, "exitExpAND" ):
+                listener.exitExpAND(self)
+
+        def accept(self, visitor:ParseTreeVisitor):
+            if hasattr( visitor, "visitExpAND" ):
+                return visitor.visitExpAND(self)
+            else:
+                return visitor.visitChildren(self)
+
+
+
+
+    def expAND(self):
+
+        localctx = compiladorParser.ExpANDContext(self, self._ctx, self.state)
+        self.enterRule(localctx, 48, self.RULE_expAND)
+        try:
+            self.enterOuterAlt(localctx, 1)
+            self.state = 246
+            self.expIGUAL()
+            self.state = 247
+            self.a()
+        except RecognitionException as re:
+            localctx.exception = re
+            self._errHandler.reportError(self, re)
+            self._errHandler.recover(self, re)
+        finally:
+            self.exitRule()
+        return localctx
+
+
+    class AContext(ParserRuleContext):
+        __slots__ = 'parser'
+
+        def __init__(self, parser, parent:ParserRuleContext=None, invokingState:int=-1):
+            super().__init__(parent, invokingState)
+            self.parser = parser
+
+        def AND(self):
+            return self.getToken(compiladorParser.AND, 0)
+
+        def expIGUAL(self):
+            return self.getTypedRuleContext(compiladorParser.ExpIGUALContext,0)
+
+
+        def a(self):
+            return self.getTypedRuleContext(compiladorParser.AContext,0)
+
+
+        def getRuleIndex(self):
+            return compiladorParser.RULE_a
+
+        def enterRule(self, listener:ParseTreeListener):
+            if hasattr( listener, "enterA" ):
+                listener.enterA(self)
+
+        def exitRule(self, listener:ParseTreeListener):
+            if hasattr( listener, "exitA" ):
+                listener.exitA(self)
+
+        def accept(self, visitor:ParseTreeVisitor):
+            if hasattr( visitor, "visitA" ):
+                return visitor.visitA(self)
+            else:
+                return visitor.visitChildren(self)
+
+
+
+
+    def a(self):
+
+        localctx = compiladorParser.AContext(self, self._ctx, self.state)
+        self.enterRule(localctx, 50, self.RULE_a)
+        try:
+            self.state = 254
+            self._errHandler.sync(self)
+            token = self._input.LA(1)
+            if token in [12]:
+                self.enterOuterAlt(localctx, 1)
+                self.state = 249
+                self.match(compiladorParser.AND)
+                self.state = 250
+                self.expIGUAL()
+                self.state = 251
+                self.a()
+                pass
+            elif token in [2, 5, 13, 16]:
+                self.enterOuterAlt(localctx, 2)
+
+                pass
+            else:
+                raise NoViableAltException(self)
+
+        except RecognitionException as re:
+            localctx.exception = re
+            self._errHandler.reportError(self, re)
+            self._errHandler.recover(self, re)
+        finally:
+            self.exitRule()
+        return localctx
+
+
+    class ExpIGUALContext(ParserRuleContext):
+        __slots__ = 'parser'
+
+        def __init__(self, parser, parent:ParserRuleContext=None, invokingState:int=-1):
+            super().__init__(parent, invokingState)
+            self.parser = parser
+
+        def expCOMP(self):
+            return self.getTypedRuleContext(compiladorParser.ExpCOMPContext,0)
+
+
+        def i(self):
+            return self.getTypedRuleContext(compiladorParser.IContext,0)
+
+
+        def getRuleIndex(self):
+            return compiladorParser.RULE_expIGUAL
+
+        def enterRule(self, listener:ParseTreeListener):
+            if hasattr( listener, "enterExpIGUAL" ):
+                listener.enterExpIGUAL(self)
+
+        def exitRule(self, listener:ParseTreeListener):
+            if hasattr( listener, "exitExpIGUAL" ):
+                listener.exitExpIGUAL(self)
+
+        def accept(self, visitor:ParseTreeVisitor):
+            if hasattr( visitor, "visitExpIGUAL" ):
+                return visitor.visitExpIGUAL(self)
+            else:
+                return visitor.visitChildren(self)
+
+
+
+
+    def expIGUAL(self):
+
+        localctx = compiladorParser.ExpIGUALContext(self, self._ctx, self.state)
+        self.enterRule(localctx, 52, self.RULE_expIGUAL)
+        try:
+            self.enterOuterAlt(localctx, 1)
+            self.state = 256
+            self.expCOMP()
+            self.state = 257
+            self.i()
+        except RecognitionException as re:
+            localctx.exception = re
+            self._errHandler.reportError(self, re)
+            self._errHandler.recover(self, re)
+        finally:
+            self.exitRule()
+        return localctx
+
+
+    class IContext(ParserRuleContext):
+        __slots__ = 'parser'
+
+        def __init__(self, parser, parent:ParserRuleContext=None, invokingState:int=-1):
+            super().__init__(parent, invokingState)
+            self.parser = parser
+
+        def IGUAL(self):
+            return self.getToken(compiladorParser.IGUAL, 0)
+
+        def expCOMP(self):
+            return self.getTypedRuleContext(compiladorParser.ExpCOMPContext,0)
+
+
+        def i(self):
+            return self.getTypedRuleContext(compiladorParser.IContext,0)
+
+
+        def DISTINTO(self):
+            return self.getToken(compiladorParser.DISTINTO, 0)
+
+        def getRuleIndex(self):
+            return compiladorParser.RULE_i
+
+        def enterRule(self, listener:ParseTreeListener):
+            if hasattr( listener, "enterI" ):
+                listener.enterI(self)
+
+        def exitRule(self, listener:ParseTreeListener):
+            if hasattr( listener, "exitI" ):
+                listener.exitI(self)
+
+        def accept(self, visitor:ParseTreeVisitor):
+            if hasattr( visitor, "visitI" ):
+                return visitor.visitI(self)
+            else:
+                return visitor.visitChildren(self)
+
+
+
+
+    def i(self):
+
+        localctx = compiladorParser.IContext(self, self._ctx, self.state)
+        self.enterRule(localctx, 54, self.RULE_i)
+        try:
+            self.state = 268
+            self._errHandler.sync(self)
+            token = self._input.LA(1)
+            if token in [6]:
+                self.enterOuterAlt(localctx, 1)
+                self.state = 259
+                self.match(compiladorParser.IGUAL)
+                self.state = 260
+                self.expCOMP()
+                self.state = 261
+                self.i()
+                pass
+            elif token in [7]:
+                self.enterOuterAlt(localctx, 2)
+                self.state = 263
+                self.match(compiladorParser.DISTINTO)
+                self.state = 264
+                self.expCOMP()
+                self.state = 265
+                self.i()
+                pass
+            elif token in [2, 5, 12, 13, 16]:
                 self.enterOuterAlt(localctx, 3)
 
                 pass
@@ -2019,51 +2263,51 @@ class compiladorParser ( Parser ):
         return localctx
 
 
-    class Exp_compContext(ParserRuleContext):
+    class ExpCOMPContext(ParserRuleContext):
         __slots__ = 'parser'
 
         def __init__(self, parser, parent:ParserRuleContext=None, invokingState:int=-1):
             super().__init__(parent, invokingState)
             self.parser = parser
 
-        def exp_a(self):
-            return self.getTypedRuleContext(compiladorParser.Exp_aContext,0)
+        def exp(self):
+            return self.getTypedRuleContext(compiladorParser.ExpContext,0)
 
 
-        def exp_comp_prima(self):
-            return self.getTypedRuleContext(compiladorParser.Exp_comp_primaContext,0)
+        def c(self):
+            return self.getTypedRuleContext(compiladorParser.CContext,0)
 
 
         def getRuleIndex(self):
-            return compiladorParser.RULE_exp_comp
+            return compiladorParser.RULE_expCOMP
 
         def enterRule(self, listener:ParseTreeListener):
-            if hasattr( listener, "enterExp_comp" ):
-                listener.enterExp_comp(self)
+            if hasattr( listener, "enterExpCOMP" ):
+                listener.enterExpCOMP(self)
 
         def exitRule(self, listener:ParseTreeListener):
-            if hasattr( listener, "exitExp_comp" ):
-                listener.exitExp_comp(self)
+            if hasattr( listener, "exitExpCOMP" ):
+                listener.exitExpCOMP(self)
 
         def accept(self, visitor:ParseTreeVisitor):
-            if hasattr( visitor, "visitExp_comp" ):
-                return visitor.visitExp_comp(self)
+            if hasattr( visitor, "visitExpCOMP" ):
+                return visitor.visitExpCOMP(self)
             else:
                 return visitor.visitChildren(self)
 
 
 
 
-    def exp_comp(self):
+    def expCOMP(self):
 
-        localctx = compiladorParser.Exp_compContext(self, self._ctx, self.state)
-        self.enterRule(localctx, 48, self.RULE_exp_comp)
+        localctx = compiladorParser.ExpCOMPContext(self, self._ctx, self.state)
+        self.enterRule(localctx, 56, self.RULE_expCOMP)
         try:
             self.enterOuterAlt(localctx, 1)
-            self.state = 243
-            self.exp_a()
-            self.state = 244
-            self.exp_comp_prima()
+            self.state = 270
+            self.exp()
+            self.state = 271
+            self.c()
         except RecognitionException as re:
             localctx.exception = re
             self._errHandler.reportError(self, re)
@@ -2073,7 +2317,7 @@ class compiladorParser ( Parser ):
         return localctx
 
 
-    class Exp_comp_primaContext(ParserRuleContext):
+    class CContext(ParserRuleContext):
         __slots__ = 'parser'
 
         def __init__(self, parser, parent:ParserRuleContext=None, invokingState:int=-1):
@@ -2083,113 +2327,89 @@ class compiladorParser ( Parser ):
         def MENOR(self):
             return self.getToken(compiladorParser.MENOR, 0)
 
-        def exp_a(self):
-            return self.getTypedRuleContext(compiladorParser.Exp_aContext,0)
+        def exp(self):
+            return self.getTypedRuleContext(compiladorParser.ExpContext,0)
 
 
-        def exp_comp_prima(self):
-            return self.getTypedRuleContext(compiladorParser.Exp_comp_primaContext,0)
+        def c(self):
+            return self.getTypedRuleContext(compiladorParser.CContext,0)
 
 
         def MAYOR(self):
             return self.getToken(compiladorParser.MAYOR, 0)
 
-        def MENOR_IGUAL(self):
-            return self.getToken(compiladorParser.MENOR_IGUAL, 0)
+        def MENORIG(self):
+            return self.getToken(compiladorParser.MENORIG, 0)
 
-        def MAYOR_IGUAL(self):
-            return self.getToken(compiladorParser.MAYOR_IGUAL, 0)
-
-        def IGUAL(self):
-            return self.getToken(compiladorParser.IGUAL, 0)
-
-        def DIFERENTE(self):
-            return self.getToken(compiladorParser.DIFERENTE, 0)
+        def MAYORIG(self):
+            return self.getToken(compiladorParser.MAYORIG, 0)
 
         def getRuleIndex(self):
-            return compiladorParser.RULE_exp_comp_prima
+            return compiladorParser.RULE_c
 
         def enterRule(self, listener:ParseTreeListener):
-            if hasattr( listener, "enterExp_comp_prima" ):
-                listener.enterExp_comp_prima(self)
+            if hasattr( listener, "enterC" ):
+                listener.enterC(self)
 
         def exitRule(self, listener:ParseTreeListener):
-            if hasattr( listener, "exitExp_comp_prima" ):
-                listener.exitExp_comp_prima(self)
+            if hasattr( listener, "exitC" ):
+                listener.exitC(self)
 
         def accept(self, visitor:ParseTreeVisitor):
-            if hasattr( visitor, "visitExp_comp_prima" ):
-                return visitor.visitExp_comp_prima(self)
+            if hasattr( visitor, "visitC" ):
+                return visitor.visitC(self)
             else:
                 return visitor.visitChildren(self)
 
 
 
 
-    def exp_comp_prima(self):
+    def c(self):
 
-        localctx = compiladorParser.Exp_comp_primaContext(self, self._ctx, self.state)
-        self.enterRule(localctx, 50, self.RULE_exp_comp_prima)
+        localctx = compiladorParser.CContext(self, self._ctx, self.state)
+        self.enterRule(localctx, 58, self.RULE_c)
         try:
-            self.state = 271
+            self.state = 290
             self._errHandler.sync(self)
             token = self._input.LA(1)
-            if token in [18]:
+            if token in [9]:
                 self.enterOuterAlt(localctx, 1)
-                self.state = 246
+                self.state = 273
                 self.match(compiladorParser.MENOR)
-                self.state = 247
-                self.exp_a()
-                self.state = 248
-                self.exp_comp_prima()
+                self.state = 274
+                self.exp()
+                self.state = 275
+                self.c()
                 pass
-            elif token in [19]:
+            elif token in [8]:
                 self.enterOuterAlt(localctx, 2)
-                self.state = 250
+                self.state = 277
                 self.match(compiladorParser.MAYOR)
-                self.state = 251
-                self.exp_a()
-                self.state = 252
-                self.exp_comp_prima()
+                self.state = 278
+                self.exp()
+                self.state = 279
+                self.c()
                 pass
-            elif token in [20]:
+            elif token in [11]:
                 self.enterOuterAlt(localctx, 3)
-                self.state = 254
-                self.match(compiladorParser.MENOR_IGUAL)
-                self.state = 255
-                self.exp_a()
-                self.state = 256
-                self.exp_comp_prima()
+                self.state = 281
+                self.match(compiladorParser.MENORIG)
+                self.state = 282
+                self.exp()
+                self.state = 283
+                self.c()
                 pass
-            elif token in [21]:
+            elif token in [10]:
                 self.enterOuterAlt(localctx, 4)
-                self.state = 258
-                self.match(compiladorParser.MAYOR_IGUAL)
-                self.state = 259
-                self.exp_a()
-                self.state = 260
-                self.exp_comp_prima()
+                self.state = 285
+                self.match(compiladorParser.MAYORIG)
+                self.state = 286
+                self.exp()
+                self.state = 287
+                self.c()
                 pass
-            elif token in [22]:
+            elif token in [2, 5, 6, 7, 12, 13, 16]:
                 self.enterOuterAlt(localctx, 5)
-                self.state = 262
-                self.match(compiladorParser.IGUAL)
-                self.state = 263
-                self.exp_a()
-                self.state = 264
-                self.exp_comp_prima()
-                pass
-            elif token in [23]:
-                self.enterOuterAlt(localctx, 6)
-                self.state = 266
-                self.match(compiladorParser.DIFERENTE)
-                self.state = 267
-                self.exp_a()
-                self.state = 268
-                self.exp_comp_prima()
-                pass
-            elif token in [17, 24, 25, 30, 35, 37]:
-                self.enterOuterAlt(localctx, 7)
 
                 pass
             else:
@@ -2204,7 +2424,7 @@ class compiladorParser ( Parser ):
         return localctx
 
 
-    class Exp_aContext(ParserRuleContext):
+    class ExpContext(ParserRuleContext):
         __slots__ = 'parser'
 
         def __init__(self, parser, parent:ParserRuleContext=None, invokingState:int=-1):
@@ -2215,40 +2435,40 @@ class compiladorParser ( Parser ):
             return self.getTypedRuleContext(compiladorParser.TermContext,0)
 
 
-        def exp_a_prima(self):
-            return self.getTypedRuleContext(compiladorParser.Exp_a_primaContext,0)
+        def e(self):
+            return self.getTypedRuleContext(compiladorParser.EContext,0)
 
 
         def getRuleIndex(self):
-            return compiladorParser.RULE_exp_a
+            return compiladorParser.RULE_exp
 
         def enterRule(self, listener:ParseTreeListener):
-            if hasattr( listener, "enterExp_a" ):
-                listener.enterExp_a(self)
+            if hasattr( listener, "enterExp" ):
+                listener.enterExp(self)
 
         def exitRule(self, listener:ParseTreeListener):
-            if hasattr( listener, "exitExp_a" ):
-                listener.exitExp_a(self)
+            if hasattr( listener, "exitExp" ):
+                listener.exitExp(self)
 
         def accept(self, visitor:ParseTreeVisitor):
-            if hasattr( visitor, "visitExp_a" ):
-                return visitor.visitExp_a(self)
+            if hasattr( visitor, "visitExp" ):
+                return visitor.visitExp(self)
             else:
                 return visitor.visitChildren(self)
 
 
 
 
-    def exp_a(self):
+    def exp(self):
 
-        localctx = compiladorParser.Exp_aContext(self, self._ctx, self.state)
-        self.enterRule(localctx, 52, self.RULE_exp_a)
+        localctx = compiladorParser.ExpContext(self, self._ctx, self.state)
+        self.enterRule(localctx, 60, self.RULE_exp)
         try:
             self.enterOuterAlt(localctx, 1)
-            self.state = 273
+            self.state = 292
             self.term()
-            self.state = 274
-            self.exp_a_prima()
+            self.state = 293
+            self.e()
         except RecognitionException as re:
             localctx.exception = re
             self._errHandler.reportError(self, re)
@@ -2258,7 +2478,7 @@ class compiladorParser ( Parser ):
         return localctx
 
 
-    class Exp_a_primaContext(ParserRuleContext):
+    class EContext(ParserRuleContext):
         __slots__ = 'parser'
 
         def __init__(self, parser, parent:ParserRuleContext=None, invokingState:int=-1):
@@ -2272,60 +2492,60 @@ class compiladorParser ( Parser ):
             return self.getTypedRuleContext(compiladorParser.TermContext,0)
 
 
-        def exp_a_prima(self):
-            return self.getTypedRuleContext(compiladorParser.Exp_a_primaContext,0)
+        def e(self):
+            return self.getTypedRuleContext(compiladorParser.EContext,0)
 
 
         def RESTA(self):
             return self.getToken(compiladorParser.RESTA, 0)
 
         def getRuleIndex(self):
-            return compiladorParser.RULE_exp_a_prima
+            return compiladorParser.RULE_e
 
         def enterRule(self, listener:ParseTreeListener):
-            if hasattr( listener, "enterExp_a_prima" ):
-                listener.enterExp_a_prima(self)
+            if hasattr( listener, "enterE" ):
+                listener.enterE(self)
 
         def exitRule(self, listener:ParseTreeListener):
-            if hasattr( listener, "exitExp_a_prima" ):
-                listener.exitExp_a_prima(self)
+            if hasattr( listener, "exitE" ):
+                listener.exitE(self)
 
         def accept(self, visitor:ParseTreeVisitor):
-            if hasattr( visitor, "visitExp_a_prima" ):
-                return visitor.visitExp_a_prima(self)
+            if hasattr( visitor, "visitE" ):
+                return visitor.visitE(self)
             else:
                 return visitor.visitChildren(self)
 
 
 
 
-    def exp_a_prima(self):
+    def e(self):
 
-        localctx = compiladorParser.Exp_a_primaContext(self, self._ctx, self.state)
-        self.enterRule(localctx, 54, self.RULE_exp_a_prima)
+        localctx = compiladorParser.EContext(self, self._ctx, self.state)
+        self.enterRule(localctx, 62, self.RULE_e)
         try:
-            self.state = 285
+            self.state = 304
             self._errHandler.sync(self)
             token = self._input.LA(1)
-            if token in [12]:
+            if token in [17]:
                 self.enterOuterAlt(localctx, 1)
-                self.state = 276
+                self.state = 295
                 self.match(compiladorParser.SUMA)
-                self.state = 277
+                self.state = 296
                 self.term()
-                self.state = 278
-                self.exp_a_prima()
+                self.state = 297
+                self.e()
                 pass
-            elif token in [13]:
+            elif token in [18]:
                 self.enterOuterAlt(localctx, 2)
-                self.state = 280
+                self.state = 299
                 self.match(compiladorParser.RESTA)
-                self.state = 281
+                self.state = 300
                 self.term()
-                self.state = 282
-                self.exp_a_prima()
+                self.state = 301
+                self.e()
                 pass
-            elif token in [17, 18, 19, 20, 21, 22, 23, 24, 25, 30, 35, 37]:
+            elif token in [2, 5, 6, 7, 8, 9, 10, 11, 12, 13, 16]:
                 self.enterOuterAlt(localctx, 3)
 
                 pass
@@ -2352,8 +2572,8 @@ class compiladorParser ( Parser ):
             return self.getTypedRuleContext(compiladorParser.FactorContext,0)
 
 
-        def term_prima(self):
-            return self.getTypedRuleContext(compiladorParser.Term_primaContext,0)
+        def t(self):
+            return self.getTypedRuleContext(compiladorParser.TContext,0)
 
 
         def getRuleIndex(self):
@@ -2379,13 +2599,13 @@ class compiladorParser ( Parser ):
     def term(self):
 
         localctx = compiladorParser.TermContext(self, self._ctx, self.state)
-        self.enterRule(localctx, 56, self.RULE_term)
+        self.enterRule(localctx, 64, self.RULE_term)
         try:
             self.enterOuterAlt(localctx, 1)
-            self.state = 287
+            self.state = 306
             self.factor(0)
-            self.state = 288
-            self.term_prima()
+            self.state = 307
+            self.t()
         except RecognitionException as re:
             localctx.exception = re
             self._errHandler.reportError(self, re)
@@ -2395,7 +2615,7 @@ class compiladorParser ( Parser ):
         return localctx
 
 
-    class Term_primaContext(ParserRuleContext):
+    class TContext(ParserRuleContext):
         __slots__ = 'parser'
 
         def __init__(self, parser, parent:ParserRuleContext=None, invokingState:int=-1):
@@ -2409,8 +2629,8 @@ class compiladorParser ( Parser ):
             return self.getTypedRuleContext(compiladorParser.FactorContext,0)
 
 
-        def term_prima(self):
-            return self.getTypedRuleContext(compiladorParser.Term_primaContext,0)
+        def t(self):
+            return self.getTypedRuleContext(compiladorParser.TContext,0)
 
 
         def DIV(self):
@@ -2420,61 +2640,61 @@ class compiladorParser ( Parser ):
             return self.getToken(compiladorParser.MOD, 0)
 
         def getRuleIndex(self):
-            return compiladorParser.RULE_term_prima
+            return compiladorParser.RULE_t
 
         def enterRule(self, listener:ParseTreeListener):
-            if hasattr( listener, "enterTerm_prima" ):
-                listener.enterTerm_prima(self)
+            if hasattr( listener, "enterT" ):
+                listener.enterT(self)
 
         def exitRule(self, listener:ParseTreeListener):
-            if hasattr( listener, "exitTerm_prima" ):
-                listener.exitTerm_prima(self)
+            if hasattr( listener, "exitT" ):
+                listener.exitT(self)
 
         def accept(self, visitor:ParseTreeVisitor):
-            if hasattr( visitor, "visitTerm_prima" ):
-                return visitor.visitTerm_prima(self)
+            if hasattr( visitor, "visitT" ):
+                return visitor.visitT(self)
             else:
                 return visitor.visitChildren(self)
 
 
 
 
-    def term_prima(self):
+    def t(self):
 
-        localctx = compiladorParser.Term_primaContext(self, self._ctx, self.state)
-        self.enterRule(localctx, 58, self.RULE_term_prima)
+        localctx = compiladorParser.TContext(self, self._ctx, self.state)
+        self.enterRule(localctx, 66, self.RULE_t)
         try:
-            self.state = 303
+            self.state = 322
             self._errHandler.sync(self)
             token = self._input.LA(1)
-            if token in [14]:
+            if token in [19]:
                 self.enterOuterAlt(localctx, 1)
-                self.state = 290
+                self.state = 309
                 self.match(compiladorParser.MULT)
-                self.state = 291
+                self.state = 310
                 self.factor(0)
-                self.state = 292
-                self.term_prima()
+                self.state = 311
+                self.t()
                 pass
-            elif token in [15]:
+            elif token in [20]:
                 self.enterOuterAlt(localctx, 2)
-                self.state = 294
+                self.state = 313
                 self.match(compiladorParser.DIV)
-                self.state = 295
+                self.state = 314
                 self.factor(0)
-                self.state = 296
-                self.term_prima()
+                self.state = 315
+                self.t()
                 pass
-            elif token in [16]:
+            elif token in [21]:
                 self.enterOuterAlt(localctx, 3)
-                self.state = 298
+                self.state = 317
                 self.match(compiladorParser.MOD)
-                self.state = 299
+                self.state = 318
                 self.factor(0)
-                self.state = 300
-                self.term_prima()
+                self.state = 319
+                self.t()
                 pass
-            elif token in [12, 13, 17, 18, 19, 20, 21, 22, 23, 24, 25, 30, 35, 37]:
+            elif token in [2, 5, 6, 7, 8, 9, 10, 11, 12, 13, 16, 17, 18]:
                 self.enterOuterAlt(localctx, 4)
 
                 pass
@@ -2500,22 +2720,22 @@ class compiladorParser ( Parser ):
         def NUMERO(self):
             return self.getToken(compiladorParser.NUMERO, 0)
 
-        def llamada_funcion(self):
-            return self.getTypedRuleContext(compiladorParser.Llamada_funcionContext,0)
-
-
         def ID(self):
             return self.getToken(compiladorParser.ID, 0)
 
         def PA(self):
             return self.getToken(compiladorParser.PA, 0)
 
-        def exp_l(self):
-            return self.getTypedRuleContext(compiladorParser.Exp_lContext,0)
+        def opal(self):
+            return self.getTypedRuleContext(compiladorParser.OpalContext,0)
 
 
         def PC(self):
             return self.getToken(compiladorParser.PC, 0)
+
+        def llamada(self):
+            return self.getTypedRuleContext(compiladorParser.LlamadaContext,0)
+
 
         def NOT(self):
             return self.getToken(compiladorParser.NOT, 0)
@@ -2523,9 +2743,6 @@ class compiladorParser ( Parser ):
         def factor(self):
             return self.getTypedRuleContext(compiladorParser.FactorContext,0)
 
-
-        def RESTA(self):
-            return self.getToken(compiladorParser.RESTA, 0)
 
         def INC(self):
             return self.getToken(compiladorParser.INC, 0)
@@ -2557,104 +2774,97 @@ class compiladorParser ( Parser ):
         _parentState = self.state
         localctx = compiladorParser.FactorContext(self, self._ctx, _parentState)
         _prevctx = localctx
-        _startState = 60
-        self.enterRecursionRule(localctx, 60, self.RULE_factor, _p)
+        _startState = 68
+        self.enterRecursionRule(localctx, 68, self.RULE_factor, _p)
         try:
             self.enterOuterAlt(localctx, 1)
-            self.state = 321
+            self.state = 338
             self._errHandler.sync(self)
-            la_ = self._interp.adaptivePredict(self._input,17,self._ctx)
+            la_ = self._interp.adaptivePredict(self._input,18,self._ctx)
             if la_ == 1:
-                self.state = 306
+                self.state = 325
                 self.match(compiladorParser.NUMERO)
                 pass
 
             elif la_ == 2:
-                self.state = 307
-                self.llamada_funcion()
-                pass
-
-            elif la_ == 3:
-                self.state = 308
+                self.state = 326
                 self.match(compiladorParser.ID)
                 pass
 
-            elif la_ == 4:
-                self.state = 309
+            elif la_ == 3:
+                self.state = 327
                 self.match(compiladorParser.PA)
-                self.state = 310
-                self.exp_l()
-                self.state = 311
+                self.state = 328
+                self.opal()
+                self.state = 329
                 self.match(compiladorParser.PC)
                 pass
 
-            elif la_ == 5:
-                self.state = 313
-                self.match(compiladorParser.NOT)
-                self.state = 314
-                self.factor(6)
+            elif la_ == 4:
+                self.state = 331
+                self.llamada()
                 pass
 
-            elif la_ == 6:
-                self.state = 315
-                self.match(compiladorParser.RESTA)
-                self.state = 316
+            elif la_ == 5:
+                self.state = 332
+                self.match(compiladorParser.NOT)
+                self.state = 333
                 self.factor(5)
                 pass
 
-            elif la_ == 7:
-                self.state = 317
+            elif la_ == 6:
+                self.state = 334
                 self.match(compiladorParser.INC)
-                self.state = 318
+                self.state = 335
                 self.factor(4)
                 pass
 
-            elif la_ == 8:
-                self.state = 319
+            elif la_ == 7:
+                self.state = 336
                 self.match(compiladorParser.DEC)
-                self.state = 320
+                self.state = 337
                 self.factor(3)
                 pass
 
 
             self._ctx.stop = self._input.LT(-1)
-            self.state = 329
+            self.state = 346
             self._errHandler.sync(self)
-            _alt = self._interp.adaptivePredict(self._input,19,self._ctx)
+            _alt = self._interp.adaptivePredict(self._input,20,self._ctx)
             while _alt!=2 and _alt!=ATN.INVALID_ALT_NUMBER:
                 if _alt==1:
                     if self._parseListeners is not None:
                         self.triggerExitRuleEvent()
                     _prevctx = localctx
-                    self.state = 327
+                    self.state = 344
                     self._errHandler.sync(self)
-                    la_ = self._interp.adaptivePredict(self._input,18,self._ctx)
+                    la_ = self._interp.adaptivePredict(self._input,19,self._ctx)
                     if la_ == 1:
                         localctx = compiladorParser.FactorContext(self, _parentctx, _parentState)
                         self.pushNewRecursionContext(localctx, _startState, self.RULE_factor)
-                        self.state = 323
+                        self.state = 340
                         if not self.precpred(self._ctx, 2):
                             from antlr4.error.Errors import FailedPredicateException
                             raise FailedPredicateException(self, "self.precpred(self._ctx, 2)")
-                        self.state = 324
+                        self.state = 341
                         self.match(compiladorParser.INC)
                         pass
 
                     elif la_ == 2:
                         localctx = compiladorParser.FactorContext(self, _parentctx, _parentState)
                         self.pushNewRecursionContext(localctx, _startState, self.RULE_factor)
-                        self.state = 325
+                        self.state = 342
                         if not self.precpred(self._ctx, 1):
                             from antlr4.error.Errors import FailedPredicateException
                             raise FailedPredicateException(self, "self.precpred(self._ctx, 1)")
-                        self.state = 326
+                        self.state = 343
                         self.match(compiladorParser.DEC)
                         pass
 
              
-                self.state = 331
+                self.state = 348
                 self._errHandler.sync(self)
-                _alt = self._interp.adaptivePredict(self._input,19,self._ctx)
+                _alt = self._interp.adaptivePredict(self._input,20,self._ctx)
 
         except RecognitionException as re:
             localctx.exception = re
@@ -2682,8 +2892,8 @@ class compiladorParser ( Parser ):
         def PA(self):
             return self.getToken(compiladorParser.PA, 0)
 
-        def lista_parametros(self):
-            return self.getTypedRuleContext(compiladorParser.Lista_parametrosContext,0)
+        def parametros(self):
+            return self.getTypedRuleContext(compiladorParser.ParametrosContext,0)
 
 
         def PC(self):
@@ -2715,21 +2925,487 @@ class compiladorParser ( Parser ):
     def prototipo(self):
 
         localctx = compiladorParser.PrototipoContext(self, self._ctx, self.state)
-        self.enterRule(localctx, 62, self.RULE_prototipo)
+        self.enterRule(localctx, 70, self.RULE_prototipo)
         try:
             self.enterOuterAlt(localctx, 1)
-            self.state = 332
+            self.state = 349
             self.tipo()
-            self.state = 333
+            self.state = 350
             self.match(compiladorParser.ID)
-            self.state = 334
+            self.state = 351
             self.match(compiladorParser.PA)
-            self.state = 335
-            self.lista_parametros()
-            self.state = 336
+            self.state = 352
+            self.parametros()
+            self.state = 353
             self.match(compiladorParser.PC)
-            self.state = 337
+            self.state = 354
             self.match(compiladorParser.PYC)
+        except RecognitionException as re:
+            localctx.exception = re
+            self._errHandler.reportError(self, re)
+            self._errHandler.recover(self, re)
+        finally:
+            self.exitRule()
+        return localctx
+
+
+    class ParametrosContext(ParserRuleContext):
+        __slots__ = 'parser'
+
+        def __init__(self, parser, parent:ParserRuleContext=None, invokingState:int=-1):
+            super().__init__(parent, invokingState)
+            self.parser = parser
+
+        def parametro(self):
+            return self.getTypedRuleContext(compiladorParser.ParametroContext,0)
+
+
+        def listaParametros(self):
+            return self.getTypedRuleContext(compiladorParser.ListaParametrosContext,0)
+
+
+        def getRuleIndex(self):
+            return compiladorParser.RULE_parametros
+
+        def enterRule(self, listener:ParseTreeListener):
+            if hasattr( listener, "enterParametros" ):
+                listener.enterParametros(self)
+
+        def exitRule(self, listener:ParseTreeListener):
+            if hasattr( listener, "exitParametros" ):
+                listener.exitParametros(self)
+
+        def accept(self, visitor:ParseTreeVisitor):
+            if hasattr( visitor, "visitParametros" ):
+                return visitor.visitParametros(self)
+            else:
+                return visitor.visitChildren(self)
+
+
+
+
+    def parametros(self):
+
+        localctx = compiladorParser.ParametrosContext(self, self._ctx, self.state)
+        self.enterRule(localctx, 72, self.RULE_parametros)
+        try:
+            self.state = 360
+            self._errHandler.sync(self)
+            token = self._input.LA(1)
+            if token in [25, 26, 27, 28]:
+                self.enterOuterAlt(localctx, 1)
+                self.state = 356
+                self.parametro()
+                self.state = 357
+                self.listaParametros()
+                pass
+            elif token in [2]:
+                self.enterOuterAlt(localctx, 2)
+
+                pass
+            else:
+                raise NoViableAltException(self)
+
+        except RecognitionException as re:
+            localctx.exception = re
+            self._errHandler.reportError(self, re)
+            self._errHandler.recover(self, re)
+        finally:
+            self.exitRule()
+        return localctx
+
+
+    class ListaParametrosContext(ParserRuleContext):
+        __slots__ = 'parser'
+
+        def __init__(self, parser, parent:ParserRuleContext=None, invokingState:int=-1):
+            super().__init__(parent, invokingState)
+            self.parser = parser
+
+        def COMA(self):
+            return self.getToken(compiladorParser.COMA, 0)
+
+        def parametro(self):
+            return self.getTypedRuleContext(compiladorParser.ParametroContext,0)
+
+
+        def listaParametros(self):
+            return self.getTypedRuleContext(compiladorParser.ListaParametrosContext,0)
+
+
+        def getRuleIndex(self):
+            return compiladorParser.RULE_listaParametros
+
+        def enterRule(self, listener:ParseTreeListener):
+            if hasattr( listener, "enterListaParametros" ):
+                listener.enterListaParametros(self)
+
+        def exitRule(self, listener:ParseTreeListener):
+            if hasattr( listener, "exitListaParametros" ):
+                listener.exitListaParametros(self)
+
+        def accept(self, visitor:ParseTreeVisitor):
+            if hasattr( visitor, "visitListaParametros" ):
+                return visitor.visitListaParametros(self)
+            else:
+                return visitor.visitChildren(self)
+
+
+
+
+    def listaParametros(self):
+
+        localctx = compiladorParser.ListaParametrosContext(self, self._ctx, self.state)
+        self.enterRule(localctx, 74, self.RULE_listaParametros)
+        try:
+            self.state = 367
+            self._errHandler.sync(self)
+            token = self._input.LA(1)
+            if token in [16]:
+                self.enterOuterAlt(localctx, 1)
+                self.state = 362
+                self.match(compiladorParser.COMA)
+                self.state = 363
+                self.parametro()
+                self.state = 364
+                self.listaParametros()
+                pass
+            elif token in [2]:
+                self.enterOuterAlt(localctx, 2)
+
+                pass
+            else:
+                raise NoViableAltException(self)
+
+        except RecognitionException as re:
+            localctx.exception = re
+            self._errHandler.reportError(self, re)
+            self._errHandler.recover(self, re)
+        finally:
+            self.exitRule()
+        return localctx
+
+
+    class ParametroContext(ParserRuleContext):
+        __slots__ = 'parser'
+
+        def __init__(self, parser, parent:ParserRuleContext=None, invokingState:int=-1):
+            super().__init__(parent, invokingState)
+            self.parser = parser
+
+        def tipo(self):
+            return self.getTypedRuleContext(compiladorParser.TipoContext,0)
+
+
+        def ID(self):
+            return self.getToken(compiladorParser.ID, 0)
+
+        def listaID(self):
+            return self.getTypedRuleContext(compiladorParser.ListaIDContext,0)
+
+
+        def getRuleIndex(self):
+            return compiladorParser.RULE_parametro
+
+        def enterRule(self, listener:ParseTreeListener):
+            if hasattr( listener, "enterParametro" ):
+                listener.enterParametro(self)
+
+        def exitRule(self, listener:ParseTreeListener):
+            if hasattr( listener, "exitParametro" ):
+                listener.exitParametro(self)
+
+        def accept(self, visitor:ParseTreeVisitor):
+            if hasattr( visitor, "visitParametro" ):
+                return visitor.visitParametro(self)
+            else:
+                return visitor.visitChildren(self)
+
+
+
+
+    def parametro(self):
+
+        localctx = compiladorParser.ParametroContext(self, self._ctx, self.state)
+        self.enterRule(localctx, 76, self.RULE_parametro)
+        try:
+            self.enterOuterAlt(localctx, 1)
+            self.state = 369
+            self.tipo()
+            self.state = 370
+            self.match(compiladorParser.ID)
+            self.state = 371
+            self.listaID()
+        except RecognitionException as re:
+            localctx.exception = re
+            self._errHandler.reportError(self, re)
+            self._errHandler.recover(self, re)
+        finally:
+            self.exitRule()
+        return localctx
+
+
+    class ListaIDContext(ParserRuleContext):
+        __slots__ = 'parser'
+
+        def __init__(self, parser, parent:ParserRuleContext=None, invokingState:int=-1):
+            super().__init__(parent, invokingState)
+            self.parser = parser
+
+        def COMA(self):
+            return self.getToken(compiladorParser.COMA, 0)
+
+        def ID(self):
+            return self.getToken(compiladorParser.ID, 0)
+
+        def listaID(self):
+            return self.getTypedRuleContext(compiladorParser.ListaIDContext,0)
+
+
+        def getRuleIndex(self):
+            return compiladorParser.RULE_listaID
+
+        def enterRule(self, listener:ParseTreeListener):
+            if hasattr( listener, "enterListaID" ):
+                listener.enterListaID(self)
+
+        def exitRule(self, listener:ParseTreeListener):
+            if hasattr( listener, "exitListaID" ):
+                listener.exitListaID(self)
+
+        def accept(self, visitor:ParseTreeVisitor):
+            if hasattr( visitor, "visitListaID" ):
+                return visitor.visitListaID(self)
+            else:
+                return visitor.visitChildren(self)
+
+
+
+
+    def listaID(self):
+
+        localctx = compiladorParser.ListaIDContext(self, self._ctx, self.state)
+        self.enterRule(localctx, 78, self.RULE_listaID)
+        try:
+            self.state = 377
+            self._errHandler.sync(self)
+            la_ = self._interp.adaptivePredict(self._input,23,self._ctx)
+            if la_ == 1:
+                self.enterOuterAlt(localctx, 1)
+                self.state = 373
+                self.match(compiladorParser.COMA)
+                self.state = 374
+                self.match(compiladorParser.ID)
+                self.state = 375
+                self.listaID()
+                pass
+
+            elif la_ == 2:
+                self.enterOuterAlt(localctx, 2)
+
+                pass
+
+
+        except RecognitionException as re:
+            localctx.exception = re
+            self._errHandler.reportError(self, re)
+            self._errHandler.recover(self, re)
+        finally:
+            self.exitRule()
+        return localctx
+
+
+    class LlamadaContext(ParserRuleContext):
+        __slots__ = 'parser'
+
+        def __init__(self, parser, parent:ParserRuleContext=None, invokingState:int=-1):
+            super().__init__(parent, invokingState)
+            self.parser = parser
+
+        def ID(self):
+            return self.getToken(compiladorParser.ID, 0)
+
+        def PA(self):
+            return self.getToken(compiladorParser.PA, 0)
+
+        def listaArg(self):
+            return self.getTypedRuleContext(compiladorParser.ListaArgContext,0)
+
+
+        def PC(self):
+            return self.getToken(compiladorParser.PC, 0)
+
+        def getRuleIndex(self):
+            return compiladorParser.RULE_llamada
+
+        def enterRule(self, listener:ParseTreeListener):
+            if hasattr( listener, "enterLlamada" ):
+                listener.enterLlamada(self)
+
+        def exitRule(self, listener:ParseTreeListener):
+            if hasattr( listener, "exitLlamada" ):
+                listener.exitLlamada(self)
+
+        def accept(self, visitor:ParseTreeVisitor):
+            if hasattr( visitor, "visitLlamada" ):
+                return visitor.visitLlamada(self)
+            else:
+                return visitor.visitChildren(self)
+
+
+
+
+    def llamada(self):
+
+        localctx = compiladorParser.LlamadaContext(self, self._ctx, self.state)
+        self.enterRule(localctx, 80, self.RULE_llamada)
+        try:
+            self.enterOuterAlt(localctx, 1)
+            self.state = 379
+            self.match(compiladorParser.ID)
+            self.state = 380
+            self.match(compiladorParser.PA)
+            self.state = 381
+            self.listaArg()
+            self.state = 382
+            self.match(compiladorParser.PC)
+        except RecognitionException as re:
+            localctx.exception = re
+            self._errHandler.reportError(self, re)
+            self._errHandler.recover(self, re)
+        finally:
+            self.exitRule()
+        return localctx
+
+
+    class ListaArgContext(ParserRuleContext):
+        __slots__ = 'parser'
+
+        def __init__(self, parser, parent:ParserRuleContext=None, invokingState:int=-1):
+            super().__init__(parent, invokingState)
+            self.parser = parser
+
+        def opal(self):
+            return self.getTypedRuleContext(compiladorParser.OpalContext,0)
+
+
+        def argumentos(self):
+            return self.getTypedRuleContext(compiladorParser.ArgumentosContext,0)
+
+
+        def getRuleIndex(self):
+            return compiladorParser.RULE_listaArg
+
+        def enterRule(self, listener:ParseTreeListener):
+            if hasattr( listener, "enterListaArg" ):
+                listener.enterListaArg(self)
+
+        def exitRule(self, listener:ParseTreeListener):
+            if hasattr( listener, "exitListaArg" ):
+                listener.exitListaArg(self)
+
+        def accept(self, visitor:ParseTreeVisitor):
+            if hasattr( visitor, "visitListaArg" ):
+                return visitor.visitListaArg(self)
+            else:
+                return visitor.visitChildren(self)
+
+
+
+
+    def listaArg(self):
+
+        localctx = compiladorParser.ListaArgContext(self, self._ctx, self.state)
+        self.enterRule(localctx, 82, self.RULE_listaArg)
+        try:
+            self.state = 388
+            self._errHandler.sync(self)
+            token = self._input.LA(1)
+            if token in [1, 14, 22, 23, 24, 34]:
+                self.enterOuterAlt(localctx, 1)
+                self.state = 384
+                self.opal()
+                self.state = 385
+                self.argumentos()
+                pass
+            elif token in [2]:
+                self.enterOuterAlt(localctx, 2)
+
+                pass
+            else:
+                raise NoViableAltException(self)
+
+        except RecognitionException as re:
+            localctx.exception = re
+            self._errHandler.reportError(self, re)
+            self._errHandler.recover(self, re)
+        finally:
+            self.exitRule()
+        return localctx
+
+
+    class ArgumentosContext(ParserRuleContext):
+        __slots__ = 'parser'
+
+        def __init__(self, parser, parent:ParserRuleContext=None, invokingState:int=-1):
+            super().__init__(parent, invokingState)
+            self.parser = parser
+
+        def COMA(self):
+            return self.getToken(compiladorParser.COMA, 0)
+
+        def opal(self):
+            return self.getTypedRuleContext(compiladorParser.OpalContext,0)
+
+
+        def argumentos(self):
+            return self.getTypedRuleContext(compiladorParser.ArgumentosContext,0)
+
+
+        def getRuleIndex(self):
+            return compiladorParser.RULE_argumentos
+
+        def enterRule(self, listener:ParseTreeListener):
+            if hasattr( listener, "enterArgumentos" ):
+                listener.enterArgumentos(self)
+
+        def exitRule(self, listener:ParseTreeListener):
+            if hasattr( listener, "exitArgumentos" ):
+                listener.exitArgumentos(self)
+
+        def accept(self, visitor:ParseTreeVisitor):
+            if hasattr( visitor, "visitArgumentos" ):
+                return visitor.visitArgumentos(self)
+            else:
+                return visitor.visitChildren(self)
+
+
+
+
+    def argumentos(self):
+
+        localctx = compiladorParser.ArgumentosContext(self, self._ctx, self.state)
+        self.enterRule(localctx, 84, self.RULE_argumentos)
+        try:
+            self.state = 395
+            self._errHandler.sync(self)
+            token = self._input.LA(1)
+            if token in [16]:
+                self.enterOuterAlt(localctx, 1)
+                self.state = 390
+                self.match(compiladorParser.COMA)
+                self.state = 391
+                self.opal()
+                self.state = 392
+                self.argumentos()
+                pass
+            elif token in [2]:
+                self.enterOuterAlt(localctx, 2)
+
+                pass
+            else:
+                raise NoViableAltException(self)
+
         except RecognitionException as re:
             localctx.exception = re
             self._errHandler.reportError(self, re)
@@ -2756,8 +3432,8 @@ class compiladorParser ( Parser ):
         def PA(self):
             return self.getToken(compiladorParser.PA, 0)
 
-        def lista_parametros(self):
-            return self.getTypedRuleContext(compiladorParser.Lista_parametrosContext,0)
+        def parametros(self):
+            return self.getTypedRuleContext(compiladorParser.ParametrosContext,0)
 
 
         def PC(self):
@@ -2790,564 +3466,21 @@ class compiladorParser ( Parser ):
     def funcion(self):
 
         localctx = compiladorParser.FuncionContext(self, self._ctx, self.state)
-        self.enterRule(localctx, 64, self.RULE_funcion)
+        self.enterRule(localctx, 86, self.RULE_funcion)
         try:
             self.enterOuterAlt(localctx, 1)
-            self.state = 339
+            self.state = 397
             self.tipo()
-            self.state = 340
+            self.state = 398
             self.match(compiladorParser.ID)
-            self.state = 341
+            self.state = 399
             self.match(compiladorParser.PA)
-            self.state = 342
-            self.lista_parametros()
-            self.state = 343
+            self.state = 400
+            self.parametros()
+            self.state = 401
             self.match(compiladorParser.PC)
-            self.state = 344
+            self.state = 402
             self.bloque()
-        except RecognitionException as re:
-            localctx.exception = re
-            self._errHandler.reportError(self, re)
-            self._errHandler.recover(self, re)
-        finally:
-            self.exitRule()
-        return localctx
-
-
-    class Lista_parametrosContext(ParserRuleContext):
-        __slots__ = 'parser'
-
-        def __init__(self, parser, parent:ParserRuleContext=None, invokingState:int=-1):
-            super().__init__(parent, invokingState)
-            self.parser = parser
-
-        def parametros(self):
-            return self.getTypedRuleContext(compiladorParser.ParametrosContext,0)
-
-
-        def getRuleIndex(self):
-            return compiladorParser.RULE_lista_parametros
-
-        def enterRule(self, listener:ParseTreeListener):
-            if hasattr( listener, "enterLista_parametros" ):
-                listener.enterLista_parametros(self)
-
-        def exitRule(self, listener:ParseTreeListener):
-            if hasattr( listener, "exitLista_parametros" ):
-                listener.exitLista_parametros(self)
-
-        def accept(self, visitor:ParseTreeVisitor):
-            if hasattr( visitor, "visitLista_parametros" ):
-                return visitor.visitLista_parametros(self)
-            else:
-                return visitor.visitChildren(self)
-
-
-
-
-    def lista_parametros(self):
-
-        localctx = compiladorParser.Lista_parametrosContext(self, self._ctx, self.state)
-        self.enterRule(localctx, 66, self.RULE_lista_parametros)
-        try:
-            self.state = 348
-            self._errHandler.sync(self)
-            la_ = self._interp.adaptivePredict(self._input,20,self._ctx)
-            if la_ == 1:
-                self.enterOuterAlt(localctx, 1)
-                self.state = 346
-                self.parametros()
-                pass
-
-            elif la_ == 2:
-                self.enterOuterAlt(localctx, 2)
-
-                pass
-
-
-        except RecognitionException as re:
-            localctx.exception = re
-            self._errHandler.reportError(self, re)
-            self._errHandler.recover(self, re)
-        finally:
-            self.exitRule()
-        return localctx
-
-
-    class ParametrosContext(ParserRuleContext):
-        __slots__ = 'parser'
-
-        def __init__(self, parser, parent:ParserRuleContext=None, invokingState:int=-1):
-            super().__init__(parent, invokingState)
-            self.parser = parser
-
-        def tipo(self):
-            return self.getTypedRuleContext(compiladorParser.TipoContext,0)
-
-
-        def ID(self):
-            return self.getToken(compiladorParser.ID, 0)
-
-        def parametros_prima(self):
-            return self.getTypedRuleContext(compiladorParser.Parametros_primaContext,0)
-
-
-        def getRuleIndex(self):
-            return compiladorParser.RULE_parametros
-
-        def enterRule(self, listener:ParseTreeListener):
-            if hasattr( listener, "enterParametros" ):
-                listener.enterParametros(self)
-
-        def exitRule(self, listener:ParseTreeListener):
-            if hasattr( listener, "exitParametros" ):
-                listener.exitParametros(self)
-
-        def accept(self, visitor:ParseTreeVisitor):
-            if hasattr( visitor, "visitParametros" ):
-                return visitor.visitParametros(self)
-            else:
-                return visitor.visitChildren(self)
-
-
-
-
-    def parametros(self):
-
-        localctx = compiladorParser.ParametrosContext(self, self._ctx, self.state)
-        self.enterRule(localctx, 68, self.RULE_parametros)
-        try:
-            self.state = 358
-            self._errHandler.sync(self)
-            la_ = self._interp.adaptivePredict(self._input,21,self._ctx)
-            if la_ == 1:
-                self.enterOuterAlt(localctx, 1)
-                self.state = 350
-                self.tipo()
-                self.state = 351
-                self.match(compiladorParser.ID)
-                self.state = 352
-                self.parametros_prima()
-                pass
-
-            elif la_ == 2:
-                self.enterOuterAlt(localctx, 2)
-                self.state = 354
-                self.tipo()
-                self.state = 355
-                self.parametros_prima()
-                pass
-
-            elif la_ == 3:
-                self.enterOuterAlt(localctx, 3)
-
-                pass
-
-
-        except RecognitionException as re:
-            localctx.exception = re
-            self._errHandler.reportError(self, re)
-            self._errHandler.recover(self, re)
-        finally:
-            self.exitRule()
-        return localctx
-
-
-    class Parametros_primaContext(ParserRuleContext):
-        __slots__ = 'parser'
-
-        def __init__(self, parser, parent:ParserRuleContext=None, invokingState:int=-1):
-            super().__init__(parent, invokingState)
-            self.parser = parser
-
-        def COMA(self):
-            return self.getToken(compiladorParser.COMA, 0)
-
-        def tipo(self):
-            return self.getTypedRuleContext(compiladorParser.TipoContext,0)
-
-
-        def ID(self):
-            return self.getToken(compiladorParser.ID, 0)
-
-        def parametros_prima(self):
-            return self.getTypedRuleContext(compiladorParser.Parametros_primaContext,0)
-
-
-        def getRuleIndex(self):
-            return compiladorParser.RULE_parametros_prima
-
-        def enterRule(self, listener:ParseTreeListener):
-            if hasattr( listener, "enterParametros_prima" ):
-                listener.enterParametros_prima(self)
-
-        def exitRule(self, listener:ParseTreeListener):
-            if hasattr( listener, "exitParametros_prima" ):
-                listener.exitParametros_prima(self)
-
-        def accept(self, visitor:ParseTreeVisitor):
-            if hasattr( visitor, "visitParametros_prima" ):
-                return visitor.visitParametros_prima(self)
-            else:
-                return visitor.visitChildren(self)
-
-
-
-
-    def parametros_prima(self):
-
-        localctx = compiladorParser.Parametros_primaContext(self, self._ctx, self.state)
-        self.enterRule(localctx, 70, self.RULE_parametros_prima)
-        try:
-            self.state = 370
-            self._errHandler.sync(self)
-            la_ = self._interp.adaptivePredict(self._input,22,self._ctx)
-            if la_ == 1:
-                self.enterOuterAlt(localctx, 1)
-                self.state = 360
-                self.match(compiladorParser.COMA)
-                self.state = 361
-                self.tipo()
-                self.state = 362
-                self.match(compiladorParser.ID)
-                self.state = 363
-                self.parametros_prima()
-                pass
-
-            elif la_ == 2:
-                self.enterOuterAlt(localctx, 2)
-                self.state = 365
-                self.match(compiladorParser.COMA)
-                self.state = 366
-                self.tipo()
-                self.state = 367
-                self.parametros_prima()
-                pass
-
-            elif la_ == 3:
-                self.enterOuterAlt(localctx, 3)
-
-                pass
-
-
-        except RecognitionException as re:
-            localctx.exception = re
-            self._errHandler.reportError(self, re)
-            self._errHandler.recover(self, re)
-        finally:
-            self.exitRule()
-        return localctx
-
-
-    class Llamada_funcionContext(ParserRuleContext):
-        __slots__ = 'parser'
-
-        def __init__(self, parser, parent:ParserRuleContext=None, invokingState:int=-1):
-            super().__init__(parent, invokingState)
-            self.parser = parser
-
-        def ID(self):
-            return self.getToken(compiladorParser.ID, 0)
-
-        def PA(self):
-            return self.getToken(compiladorParser.PA, 0)
-
-        def lista_argumentos(self):
-            return self.getTypedRuleContext(compiladorParser.Lista_argumentosContext,0)
-
-
-        def PC(self):
-            return self.getToken(compiladorParser.PC, 0)
-
-        def getRuleIndex(self):
-            return compiladorParser.RULE_llamada_funcion
-
-        def enterRule(self, listener:ParseTreeListener):
-            if hasattr( listener, "enterLlamada_funcion" ):
-                listener.enterLlamada_funcion(self)
-
-        def exitRule(self, listener:ParseTreeListener):
-            if hasattr( listener, "exitLlamada_funcion" ):
-                listener.exitLlamada_funcion(self)
-
-        def accept(self, visitor:ParseTreeVisitor):
-            if hasattr( visitor, "visitLlamada_funcion" ):
-                return visitor.visitLlamada_funcion(self)
-            else:
-                return visitor.visitChildren(self)
-
-
-
-
-    def llamada_funcion(self):
-
-        localctx = compiladorParser.Llamada_funcionContext(self, self._ctx, self.state)
-        self.enterRule(localctx, 72, self.RULE_llamada_funcion)
-        try:
-            self.enterOuterAlt(localctx, 1)
-            self.state = 372
-            self.match(compiladorParser.ID)
-            self.state = 373
-            self.match(compiladorParser.PA)
-            self.state = 374
-            self.lista_argumentos()
-            self.state = 375
-            self.match(compiladorParser.PC)
-        except RecognitionException as re:
-            localctx.exception = re
-            self._errHandler.reportError(self, re)
-            self._errHandler.recover(self, re)
-        finally:
-            self.exitRule()
-        return localctx
-
-
-    class Lista_argumentosContext(ParserRuleContext):
-        __slots__ = 'parser'
-
-        def __init__(self, parser, parent:ParserRuleContext=None, invokingState:int=-1):
-            super().__init__(parent, invokingState)
-            self.parser = parser
-
-        def argumentos(self):
-            return self.getTypedRuleContext(compiladorParser.ArgumentosContext,0)
-
-
-        def getRuleIndex(self):
-            return compiladorParser.RULE_lista_argumentos
-
-        def enterRule(self, listener:ParseTreeListener):
-            if hasattr( listener, "enterLista_argumentos" ):
-                listener.enterLista_argumentos(self)
-
-        def exitRule(self, listener:ParseTreeListener):
-            if hasattr( listener, "exitLista_argumentos" ):
-                listener.exitLista_argumentos(self)
-
-        def accept(self, visitor:ParseTreeVisitor):
-            if hasattr( visitor, "visitLista_argumentos" ):
-                return visitor.visitLista_argumentos(self)
-            else:
-                return visitor.visitChildren(self)
-
-
-
-
-    def lista_argumentos(self):
-
-        localctx = compiladorParser.Lista_argumentosContext(self, self._ctx, self.state)
-        self.enterRule(localctx, 74, self.RULE_lista_argumentos)
-        try:
-            self.state = 379
-            self._errHandler.sync(self)
-            la_ = self._interp.adaptivePredict(self._input,23,self._ctx)
-            if la_ == 1:
-                self.enterOuterAlt(localctx, 1)
-                self.state = 377
-                self.argumentos()
-                pass
-
-            elif la_ == 2:
-                self.enterOuterAlt(localctx, 2)
-
-                pass
-
-
-        except RecognitionException as re:
-            localctx.exception = re
-            self._errHandler.reportError(self, re)
-            self._errHandler.recover(self, re)
-        finally:
-            self.exitRule()
-        return localctx
-
-
-    class ArgumentosContext(ParserRuleContext):
-        __slots__ = 'parser'
-
-        def __init__(self, parser, parent:ParserRuleContext=None, invokingState:int=-1):
-            super().__init__(parent, invokingState)
-            self.parser = parser
-
-        def opalc(self):
-            return self.getTypedRuleContext(compiladorParser.OpalcContext,0)
-
-
-        def argumentos_prima(self):
-            return self.getTypedRuleContext(compiladorParser.Argumentos_primaContext,0)
-
-
-        def getRuleIndex(self):
-            return compiladorParser.RULE_argumentos
-
-        def enterRule(self, listener:ParseTreeListener):
-            if hasattr( listener, "enterArgumentos" ):
-                listener.enterArgumentos(self)
-
-        def exitRule(self, listener:ParseTreeListener):
-            if hasattr( listener, "exitArgumentos" ):
-                listener.exitArgumentos(self)
-
-        def accept(self, visitor:ParseTreeVisitor):
-            if hasattr( visitor, "visitArgumentos" ):
-                return visitor.visitArgumentos(self)
-            else:
-                return visitor.visitChildren(self)
-
-
-
-
-    def argumentos(self):
-
-        localctx = compiladorParser.ArgumentosContext(self, self._ctx, self.state)
-        self.enterRule(localctx, 76, self.RULE_argumentos)
-        try:
-            self.state = 385
-            self._errHandler.sync(self)
-            token = self._input.LA(1)
-            if token in [1, 13, 26, 27, 28, 29, 36]:
-                self.enterOuterAlt(localctx, 1)
-                self.state = 381
-                self.opalc()
-                self.state = 382
-                self.argumentos_prima()
-                pass
-            elif token in [30]:
-                self.enterOuterAlt(localctx, 2)
-
-                pass
-            else:
-                raise NoViableAltException(self)
-
-        except RecognitionException as re:
-            localctx.exception = re
-            self._errHandler.reportError(self, re)
-            self._errHandler.recover(self, re)
-        finally:
-            self.exitRule()
-        return localctx
-
-
-    class Argumentos_primaContext(ParserRuleContext):
-        __slots__ = 'parser'
-
-        def __init__(self, parser, parent:ParserRuleContext=None, invokingState:int=-1):
-            super().__init__(parent, invokingState)
-            self.parser = parser
-
-        def COMA(self):
-            return self.getToken(compiladorParser.COMA, 0)
-
-        def opalc(self):
-            return self.getTypedRuleContext(compiladorParser.OpalcContext,0)
-
-
-        def argumentos_prima(self):
-            return self.getTypedRuleContext(compiladorParser.Argumentos_primaContext,0)
-
-
-        def getRuleIndex(self):
-            return compiladorParser.RULE_argumentos_prima
-
-        def enterRule(self, listener:ParseTreeListener):
-            if hasattr( listener, "enterArgumentos_prima" ):
-                listener.enterArgumentos_prima(self)
-
-        def exitRule(self, listener:ParseTreeListener):
-            if hasattr( listener, "exitArgumentos_prima" ):
-                listener.exitArgumentos_prima(self)
-
-        def accept(self, visitor:ParseTreeVisitor):
-            if hasattr( visitor, "visitArgumentos_prima" ):
-                return visitor.visitArgumentos_prima(self)
-            else:
-                return visitor.visitChildren(self)
-
-
-
-
-    def argumentos_prima(self):
-
-        localctx = compiladorParser.Argumentos_primaContext(self, self._ctx, self.state)
-        self.enterRule(localctx, 78, self.RULE_argumentos_prima)
-        try:
-            self.state = 392
-            self._errHandler.sync(self)
-            token = self._input.LA(1)
-            if token in [37]:
-                self.enterOuterAlt(localctx, 1)
-                self.state = 387
-                self.match(compiladorParser.COMA)
-                self.state = 388
-                self.opalc()
-                self.state = 389
-                self.argumentos_prima()
-                pass
-            elif token in [30]:
-                self.enterOuterAlt(localctx, 2)
-
-                pass
-            else:
-                raise NoViableAltException(self)
-
-        except RecognitionException as re:
-            localctx.exception = re
-            self._errHandler.reportError(self, re)
-            self._errHandler.recover(self, re)
-        finally:
-            self.exitRule()
-        return localctx
-
-
-    class IreturnContext(ParserRuleContext):
-        __slots__ = 'parser'
-
-        def __init__(self, parser, parent:ParserRuleContext=None, invokingState:int=-1):
-            super().__init__(parent, invokingState)
-            self.parser = parser
-
-        def RETURN(self):
-            return self.getToken(compiladorParser.RETURN, 0)
-
-        def opalc(self):
-            return self.getTypedRuleContext(compiladorParser.OpalcContext,0)
-
-
-        def PYC(self):
-            return self.getToken(compiladorParser.PYC, 0)
-
-        def getRuleIndex(self):
-            return compiladorParser.RULE_ireturn
-
-        def enterRule(self, listener:ParseTreeListener):
-            if hasattr( listener, "enterIreturn" ):
-                listener.enterIreturn(self)
-
-        def exitRule(self, listener:ParseTreeListener):
-            if hasattr( listener, "exitIreturn" ):
-                listener.exitIreturn(self)
-
-        def accept(self, visitor:ParseTreeVisitor):
-            if hasattr( visitor, "visitIreturn" ):
-                return visitor.visitIreturn(self)
-            else:
-                return visitor.visitChildren(self)
-
-
-
-
-    def ireturn(self):
-
-        localctx = compiladorParser.IreturnContext(self, self._ctx, self.state)
-        self.enterRule(localctx, 80, self.RULE_ireturn)
-        try:
-            self.enterOuterAlt(localctx, 1)
-            self.state = 394
-            self.match(compiladorParser.RETURN)
-            self.state = 395
-            self.opalc()
-            self.state = 396
-            self.match(compiladorParser.PYC)
         except RecognitionException as re:
             localctx.exception = re
             self._errHandler.reportError(self, re)
@@ -3361,7 +3494,7 @@ class compiladorParser ( Parser ):
     def sempred(self, localctx:RuleContext, ruleIndex:int, predIndex:int):
         if self._predicates == None:
             self._predicates = dict()
-        self._predicates[30] = self.factor_sempred
+        self._predicates[34] = self.factor_sempred
         pred = self._predicates.get(ruleIndex, None)
         if pred is None:
             raise Exception("No predicate with index:" + str(ruleIndex))
